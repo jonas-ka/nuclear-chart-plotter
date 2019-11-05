@@ -9,7 +9,7 @@ Created on 05 November 2019
 ### References
 [1]: W.J. Huang, et al. Chinese Phys. C 41, 030002 (2017).<br/>
 [2]: [Nucleonica's Karlsruhr Nuclide Chart](https://www.nucleonica.com/wiki/index.php?title=Help:Karlsruhe_Nuclide_Chart_Online%2C_KNCO%2B%2B)<br/>
-[3]: [Linguistics Pro Font (= Utopia Font incl. math symbols](https://www.fontsquirrel.com/fonts/linguistics-pro)
+[3]: [Linguistics Pro Font (= Utopia Font incl. math symbols)](https://www.fontsquirrel.com/fonts/linguistics-pro)
 
 ### Application
 The code was used for the dissertation of Jonas Karthein and for several scientific presentations.
