@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="289.24pt" height="171.72pt" viewBox="0 0 289.24 171.72" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-09-18T19:35:36.495839</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 171.72 
+L 289.24 171.72 
+L 289.24 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 58.84 118.08 
+L 282.04 118.08 
+L 282.04 7.2 
+L 58.84 7.2 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 195.803636 118.08 
+L 195.803636 7.2 
+" clip-path="url(#pda3a183997)" style="fill: none; stroke-dasharray: 7.4,3.2; stroke-dashoffset: 0; stroke: #00a2ff; stroke-width: 2"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_2">
+      <defs>
+       <path id="m267824d51b" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m267824d51b" x="94.349091" y="118.08" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- 78 -->
+      <g transform="translate(85.869091 137.08) scale(0.16 -0.16)">
+       <defs>
+        <path id="LinguisticsPro-Regular-18" d="M 262 3379 
+L 435 3379 
+L 499 3514 
+C 582 3693 666 3789 954 3789 
+L 2682 3789 
+C 2618 3558 2502 3187 1984 2445 
+C 1434 1658 1069 941 1069 186 
+C 1069 -26 1216 -77 1414 -77 
+C 1600 -77 1734 -19 1728 166 
+C 1696 1011 1869 1690 2208 2285 
+C 2618 3002 2957 3398 3181 4205 
+L 3123 4275 
+L 461 4275 
+L 262 3379 
+z
+" transform="scale(0.015625)"/>
+        <path id="LinguisticsPro-Regular-19" d="M 269 1165 
+C 269 518 659 -77 1696 -77 
+C 2733 -77 3123 518 3123 1165 
+C 3123 1818 2714 2189 2278 2291 
+L 2278 2310 
+C 2669 2413 2982 2739 2982 3264 
+C 2982 3955 2432 4352 1696 4352 
+C 960 4352 410 3955 410 3264 
+C 410 2739 730 2413 1114 2310 
+L 1114 2291 
+C 685 2189 269 1818 269 1165 
+z
+M 909 1146 
+C 909 1728 1184 2163 1696 2163 
+C 2208 2163 2483 1728 2483 1146 
+C 2483 582 2234 147 1696 147 
+C 1158 147 909 582 909 1146 
+z
+M 1030 3277 
+C 1030 3770 1261 4128 1696 4128 
+C 2131 4128 2362 3770 2362 3277 
+C 2362 2842 2157 2394 1696 2394 
+C 1235 2394 1030 2842 1030 3277 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#LinguisticsPro-Regular-18"/>
+       <use xlink:href="#LinguisticsPro-Regular-19" transform="translate(53 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m267824d51b" x="145.076364" y="118.08" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- 80 -->
+      <g transform="translate(136.596364 137.08) scale(0.16 -0.16)">
+       <defs>
+        <path id="LinguisticsPro-Regular-11" d="M 262 2138 
+C 262 858 640 -77 1696 -77 
+C 2752 -77 3130 858 3130 2138 
+C 3130 3418 2752 4352 1696 4352 
+C 640 4352 262 3418 262 2138 
+z
+M 915 2138 
+C 915 3181 1088 4128 1696 4128 
+C 2304 4128 2477 3181 2477 2138 
+C 2477 1094 2304 147 1696 147 
+C 1088 147 915 1094 915 2138 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#LinguisticsPro-Regular-19"/>
+       <use xlink:href="#LinguisticsPro-Regular-11" transform="translate(53 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m267824d51b" x="195.803636" y="118.08" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- 82 -->
+      <g transform="translate(187.323636 137.08) scale(0.16 -0.16)">
+       <defs>
+        <path id="LinguisticsPro-Regular-13" d="M 173 64 
+L 237 0 
+L 2886 0 
+L 3104 845 
+L 2925 877 
+C 2790 531 2662 486 2406 486 
+L 768 486 
+C 870 819 1248 1274 1843 1702 
+C 2458 2150 2931 2438 2931 3155 
+C 2931 4045 2342 4352 1670 4352 
+C 794 4352 339 3821 339 3488 
+C 339 3270 582 3168 691 3168 
+C 806 3168 851 3232 877 3341 
+C 979 3776 1229 4128 1626 4128 
+C 2118 4128 2259 3712 2259 3245 
+C 2259 2560 1914 2176 1357 1683 
+C 570 998 294 563 173 64 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#LinguisticsPro-Regular-19"/>
+       <use xlink:href="#LinguisticsPro-Regular-13" transform="translate(53 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m267824d51b" x="246.530909" y="118.08" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- 84 -->
+      <g transform="translate(238.050909 137.08) scale(0.16 -0.16)">
+       <defs>
+        <path id="LinguisticsPro-Regular-15" d="M 122 1280 
+L 179 1146 
+L 1920 1146 
+L 1920 493 
+C 1920 275 1850 237 1696 224 
+L 1286 186 
+L 1286 0 
+L 2976 0 
+L 2976 186 
+L 2688 218 
+C 2541 237 2496 275 2496 493 
+L 2496 1146 
+L 3155 1146 
+L 3155 1446 
+L 2496 1446 
+L 2496 4275 
+L 2029 4275 
+C 1427 3392 710 2278 122 1280 
+z
+M 582 1446 
+C 966 2144 1414 2880 1907 3654 
+L 1920 3654 
+L 1920 1446 
+L 582 1446 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#LinguisticsPro-Regular-19"/>
+       <use xlink:href="#LinguisticsPro-Regular-15" transform="translate(53 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_5">
+     <!-- $N$ -->
+     <g transform="translate(162.94 159.92) scale(0.2 -0.2)">
+      <defs>
+       <path id="LinguisticsPro-BoldItalic-2f" d="M 192 0 
+L 1766 0 
+L 1818 243 
+L 1472 262 
+C 1293 275 1235 371 1254 582 
+C 1280 806 1331 1056 1427 1530 
+L 1888 3590 
+L 1914 3590 
+C 2426 2394 2931 1197 3430 0 
+L 4096 0 
+L 4736 2899 
+C 4845 3379 4909 3629 4979 3846 
+C 5050 4064 5146 4154 5299 4166 
+L 5536 4186 
+L 5587 4429 
+L 4013 4429 
+L 3962 4186 
+L 4307 4166 
+C 4493 4154 4544 4058 4525 3846 
+C 4506 3622 4448 3373 4346 2899 
+L 3968 1171 
+L 3949 1171 
+C 3488 2259 3034 3341 2586 4429 
+L 1165 4429 
+L 1101 4186 
+L 1421 4154 
+C 1600 4141 1594 4032 1542 3802 
+L 1043 1530 
+C 934 1050 870 800 800 582 
+C 730 365 634 275 480 262 
+L 243 243 
+L 192 0 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#LinguisticsPro-BoldItalic-2f" transform="translate(0 0.796875)"/>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_6">
+      <defs>
+       <path id="ma94476d637" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#ma94476d637" x="58.84" y="106.992" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- 0.5 -->
+      <g transform="translate(30.64 112.992) scale(0.16 -0.16)">
+       <defs>
+        <path id="LinguisticsPro-Regular-f" d="M 448 326 
+C 448 96 608 -77 851 -77 
+C 1101 -77 1248 96 1254 326 
+C 1254 563 1101 742 851 742 
+C 608 742 448 563 448 326 
+z
+" transform="scale(0.015625)"/>
+        <path id="LinguisticsPro-Regular-16" d="M 256 653 
+C 256 358 704 -77 1536 -77 
+C 2592 -77 3072 563 3072 1376 
+C 3072 2272 2509 2733 1747 2733 
+C 1395 2733 1018 2579 813 2394 
+L 800 2406 
+L 947 3603 
+C 966 3763 1011 3789 1133 3789 
+L 2726 3789 
+L 2880 4224 
+L 2848 4275 
+L 710 4275 
+L 646 4218 
+L 518 2074 
+L 672 1997 
+C 941 2304 1203 2451 1549 2451 
+C 1958 2451 2406 2150 2406 1306 
+C 2406 646 2138 147 1581 147 
+C 1133 147 902 474 774 838 
+C 742 934 685 992 595 992 
+C 467 992 256 864 256 653 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#LinguisticsPro-Regular-11"/>
+       <use xlink:href="#LinguisticsPro-Regular-f" transform="translate(53 0)"/>
+       <use xlink:href="#LinguisticsPro-Regular-16" transform="translate(79.5 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#ma94476d637" x="58.84" y="51.552" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- 1.0 -->
+      <g transform="translate(30.64 57.552) scale(0.16 -0.16)">
+       <defs>
+        <path id="LinguisticsPro-Regular-12" d="M 698 0 
+L 2797 0 
+L 2797 186 
+L 2259 230 
+C 2125 243 2048 294 2048 544 
+L 2048 4314 
+L 2016 4352 
+L 698 4128 
+L 698 3968 
+L 1293 3898 
+C 1402 3885 1446 3834 1446 3648 
+L 1446 544 
+C 1446 422 1427 346 1389 301 
+C 1357 256 1306 237 1235 230 
+L 698 186 
+L 698 0 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#LinguisticsPro-Regular-12"/>
+       <use xlink:href="#LinguisticsPro-Regular-f" transform="translate(53 0)"/>
+       <use xlink:href="#LinguisticsPro-Regular-11" transform="translate(79.5 0)"/>
+      </g>
+     </g>
+    </g>
+    <g id="text_8">
+     <!-- $\Delta_{3n}$ (MeV) -->
+     <g transform="translate(22.04 109.34) rotate(-90) scale(0.2 -0.2)">
+      <defs>
+       <path id="LinguisticsPro-Bold-219" d="M 4672 0 
+L 2752 4435 
+L 2093 4435 
+L 282 0 
+L 4672 0 
+z
+M 3366 480 
+L 966 480 
+L 2138 3354 
+L 3366 480 
+z
+" transform="scale(0.015625)"/>
+       <path id="LinguisticsPro-Bold-16" d="M 173 762 
+C 173 518 499 -77 1664 -77 
+C 2701 -77 3322 365 3322 1178 
+C 3322 2093 2496 2278 2253 2317 
+L 2253 2342 
+C 2592 2432 3142 2637 3142 3264 
+C 3142 4147 2355 4352 1696 4352 
+C 947 4352 314 3981 314 3501 
+C 314 3213 659 3098 813 3098 
+C 954 3098 1037 3181 1082 3322 
+C 1222 3795 1389 4058 1696 4058 
+C 2086 4058 2150 3571 2150 3309 
+C 2150 3078 2112 2464 1645 2464 
+C 1402 2464 1171 2554 1030 2554 
+C 896 2554 845 2445 845 2291 
+C 845 2144 896 2029 1030 2029 
+C 1171 2029 1389 2118 1645 2118 
+C 1965 2118 2285 1978 2285 1190 
+C 2285 550 2080 218 1690 218 
+C 1402 218 1171 429 992 1011 
+C 954 1126 858 1229 710 1229 
+C 480 1229 173 1056 173 762 
+z
+" transform="scale(0.015625)"/>
+       <path id="LinguisticsPro-BoldItalic-4f" d="M 512 -77 
+L 1414 0 
+C 1600 653 1728 992 1875 1363 
+C 2067 1843 2643 2701 2950 2701 
+C 3149 2701 3136 2515 3078 2323 
+L 2592 685 
+C 2451 192 2637 -77 3027 -77 
+C 3667 -77 4051 410 4314 947 
+L 4128 1062 
+C 3974 774 3731 435 3578 435 
+C 3462 435 3456 570 3507 736 
+L 3987 2285 
+C 4134 2790 4045 3213 3507 3213 
+C 2848 3213 2266 2534 1869 1792 
+L 1830 1792 
+L 2266 3181 
+L 2234 3213 
+L 742 3027 
+L 691 2816 
+L 1075 2778 
+C 1197 2765 1222 2675 1171 2502 
+L 512 -77 
+z
+" transform="scale(0.015625)"/>
+       <path id="LinguisticsPro-Bold-3" transform="scale(0.015625)"/>
+       <path id="LinguisticsPro-Bold-b" d="M 634 1805 
+C 634 787 845 -832 2170 -864 
+L 2202 -646 
+C 1459 -422 1280 1018 1280 1805 
+C 1280 2592 1459 4032 2202 4256 
+L 2170 4474 
+C 845 4442 634 2822 634 1805 
+z
+" transform="scale(0.015625)"/>
+       <path id="LinguisticsPro-Bold-30" d="M 166 0 
+L 1696 0 
+L 1696 243 
+L 1350 275 
+C 1171 288 1101 390 1082 614 
+C 1056 845 1050 1094 1050 1613 
+L 1050 3795 
+L 1069 3795 
+L 2445 115 
+L 2829 115 
+L 4166 3795 
+L 4186 3795 
+L 4186 621 
+C 4186 294 4134 262 3680 243 
+L 3680 0 
+L 5664 0 
+L 5664 243 
+C 5210 262 5158 294 5158 621 
+L 5158 3808 
+C 5158 4134 5210 4166 5664 4186 
+L 5664 4429 
+L 4000 4429 
+C 3891 4122 3674 3494 3501 3021 
+L 2957 1523 
+L 2938 1523 
+L 2176 3488 
+C 2067 3776 1920 4154 1837 4429 
+L 147 4429 
+L 147 4186 
+C 602 4166 653 4134 653 3808 
+L 653 1613 
+C 653 1088 646 838 621 614 
+C 602 390 538 294 390 275 
+L 166 243 
+L 166 0 
+z
+" transform="scale(0.015625)"/>
+       <path id="LinguisticsPro-Bold-48" d="M 1235 1920 
+C 1235 2381 1357 2918 1773 2918 
+C 2163 2918 2227 2432 2227 2131 
+C 2227 1958 2176 1920 2029 1920 
+L 1235 1920 
+z
+M 218 1568 
+C 218 698 595 -77 1786 -77 
+C 2547 -77 2963 294 3181 858 
+L 2950 986 
+C 2758 621 2483 416 2093 416 
+C 1453 416 1235 941 1235 1613 
+L 2886 1613 
+C 3117 1613 3232 1677 3232 1882 
+C 3232 2406 3034 3213 1798 3213 
+C 646 3213 218 2464 218 1568 
+z
+" transform="scale(0.015625)"/>
+       <path id="LinguisticsPro-Bold-39" d="M -102 4186 
+C 224 4173 294 4134 384 3859 
+L 1677 0 
+L 2483 0 
+L 3245 2234 
+C 3482 2938 3706 3558 3802 3808 
+C 3930 4115 3987 4160 4346 4186 
+L 4346 4429 
+L 2861 4429 
+L 2861 4186 
+L 3219 4154 
+C 3347 4141 3360 4077 3328 3942 
+C 3277 3731 3136 3200 2944 2605 
+C 2816 2214 2528 1280 2413 954 
+L 2381 954 
+L 1421 3923 
+C 1382 4058 1382 4141 1530 4154 
+L 1837 4186 
+L 1837 4429 
+L -102 4429 
+L -102 4186 
+z
+" transform="scale(0.015625)"/>
+       <path id="LinguisticsPro-Bold-c" d="M 134 -646 
+L 166 -864 
+C 1491 -832 1702 787 1702 1805 
+C 1702 2822 1491 4442 166 4474 
+L 134 4256 
+C 877 4045 1056 2592 1056 1805 
+C 1056 1018 877 -435 134 -646 
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#LinguisticsPro-Bold-219" transform="translate(0 0.09375)"/>
+      <use xlink:href="#LinguisticsPro-Bold-16" transform="translate(78.378478 -14.967187) scale(0.7)"/>
+      <use xlink:href="#LinguisticsPro-BoldItalic-4f" transform="translate(117.578446 -14.967187) scale(0.7)"/>
+      <use xlink:href="#LinguisticsPro-Bold-3" transform="translate(164.53856 0.09375)"/>
+      <use xlink:href="#LinguisticsPro-Bold-b" transform="translate(185.538545 0.09375)"/>
+      <use xlink:href="#LinguisticsPro-Bold-30" transform="translate(222.038514 0.09375)"/>
+      <use xlink:href="#LinguisticsPro-Bold-48" transform="translate(313.838426 0.09375)"/>
+      <use xlink:href="#LinguisticsPro-Bold-39" transform="translate(365.738374 0.09375)"/>
+      <use xlink:href="#LinguisticsPro-Bold-c" transform="translate(430.238313 0.09375)"/>
+     </g>
+    </g>
+   </g>
+   <g id="LineCollection_1">
+    <path d="M 68.985455 28.190564 
+L 68.985455 26.569756 
+" clip-path="url(#pda3a183997)" style="fill: none; stroke: #000000; stroke-width: 3"/>
+    <path d="M 94.349091 16.055853 
+L 94.349091 13.756467 
+" clip-path="url(#pda3a183997)" style="fill: none; stroke: #000000; stroke-width: 3"/>
+    <path d="M 119.712727 35.687924 
+L 119.712727 32.91022 
+" clip-path="url(#pda3a183997)" style="fill: none; stroke: #000000; stroke-width: 3"/>
+    <path d="M 145.076364 29.859739 
+L 145.076364 27.960869 
+" clip-path="url(#pda3a183997)" style="fill: none; stroke: #000000; stroke-width: 3"/>
+    <path d="M 170.44 43.549143 
+L 170.44 43.055913 
+" clip-path="url(#pda3a183997)" style="fill: none; stroke: #000000; stroke-width: 3"/>
+    <path clip-path="url(#pda3a183997)" style="fill: none; stroke: #000000; stroke-width: 3"/>
+    <path d="M 221.167273 94.239205 
+L 221.167273 93.931931 
+" clip-path="url(#pda3a183997)" style="fill: none; stroke: #000000; stroke-width: 3"/>
+    <path d="M 246.530909 87.115044 
+L 246.530909 86.719308 
+" clip-path="url(#pda3a183997)" style="fill: none; stroke: #000000; stroke-width: 3"/>
+    <path d="M 271.894545 90.595711 
+L 271.894545 85.689089 
+" clip-path="url(#pda3a183997)" style="fill: none; stroke: #000000; stroke-width: 3"/>
+   </g>
+   <g id="line2d_8">
+    <path d="M 68.985455 27.38016 
+L 94.349091 14.90616 
+L 119.712727 34.299072 
+L 145.076364 28.910304 
+L 170.44 43.302528 
+L 177.664479 -1 
+M 209.47807 -1 
+L 221.167273 94.085568 
+L 246.530909 86.917176 
+L 271.894545 88.1424 
+" clip-path="url(#pda3a183997)" style="fill: none; stroke: #ff2d55; stroke-width: 3; stroke-linecap: square"/>
+    <defs>
+     <path id="m7344538563" d="M 0 5 
+C 1.326016 5 2.597899 4.473168 3.535534 3.535534 
+C 4.473168 2.597899 5 1.326016 5 0 
+C 5 -1.326016 4.473168 -2.597899 3.535534 -3.535534 
+C 2.597899 -4.473168 1.326016 -5 0 -5 
+C -1.326016 -5 -2.597899 -4.473168 -3.535534 -3.535534 
+C -4.473168 -2.597899 -5 -1.326016 -5 0 
+C -5 1.326016 -4.473168 2.597899 -3.535534 3.535534 
+C -2.597899 4.473168 -1.326016 5 0 5 
+z
+" style="stroke: #000000; stroke-width: 0.1"/>
+    </defs>
+    <g clip-path="url(#pda3a183997)">
+     <use xlink:href="#m7344538563" x="68.985455" y="27.38016" style="stroke: #000000; stroke-width: 0.1"/>
+     <use xlink:href="#m7344538563" x="94.349091" y="14.90616" style="stroke: #000000; stroke-width: 0.1"/>
+     <use xlink:href="#m7344538563" x="119.712727" y="34.299072" style="stroke: #000000; stroke-width: 0.1"/>
+     <use xlink:href="#m7344538563" x="145.076364" y="28.910304" style="stroke: #000000; stroke-width: 0.1"/>
+     <use xlink:href="#m7344538563" x="170.44" y="43.302528" style="stroke: #000000; stroke-width: 0.1"/>
+     <use xlink:href="#m7344538563" x="177.664479" y="-1" style="stroke: #000000; stroke-width: 0.1"/>
+     <use xlink:href="#m7344538563" x="209.47807" y="-1" style="stroke: #000000; stroke-width: 0.1"/>
+     <use xlink:href="#m7344538563" x="221.167273" y="94.085568" style="stroke: #000000; stroke-width: 0.1"/>
+     <use xlink:href="#m7344538563" x="246.530909" y="86.917176" style="stroke: #000000; stroke-width: 0.1"/>
+     <use xlink:href="#m7344538563" x="271.894545" y="88.1424" style="stroke: #000000; stroke-width: 0.1"/>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 58.84 118.08 
+L 58.84 7.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 282.04 118.08 
+L 282.04 7.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 58.84 118.08 
+L 282.04 118.08 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 58.84 7.2 
+L 282.04 7.2 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_9">
+    <!-- $Z=50$ -->
+    <g transform="translate(68.985455 95.904) scale(0.2 -0.2)">
+     <defs>
+      <path id="LinguisticsPro-BoldItalic-3b" d="M 32 128 
+L 77 0 
+L 3814 0 
+L 4192 1331 
+L 3949 1331 
+L 3744 986 
+C 3418 442 3110 294 2618 294 
+L 1350 294 
+C 2490 1638 3635 2976 4794 4307 
+L 4742 4429 
+L 1325 4429 
+L 1075 3232 
+L 1318 3232 
+L 1453 3533 
+C 1664 4000 1990 4134 2554 4134 
+L 3456 4134 
+C 2323 2790 1184 1459 32 128 
+z
+" transform="scale(0.015625)"/>
+      <path id="LinguisticsPro-Bold-20" d="M 371 2029 
+L 3469 2029 
+L 3469 2541 
+L 371 2541 
+L 371 2029 
+z
+M 371 659 
+L 3469 659 
+L 3469 1171 
+L 371 1171 
+L 371 659 
+z
+" transform="scale(0.015625)"/>
+      <path id="LinguisticsPro-Bold-18" d="M 275 762 
+C 275 538 576 -77 1709 -77 
+C 2906 -77 3322 595 3322 1376 
+C 3322 1952 3046 2758 1901 2758 
+C 1466 2758 1120 2566 870 2394 
+L 992 3251 
+C 1024 3469 1043 3501 1216 3501 
+L 2918 3501 
+L 3168 4186 
+L 3104 4275 
+L 653 4275 
+L 602 4218 
+L 474 2099 
+L 736 1907 
+C 986 2214 1242 2342 1549 2342 
+C 1990 2342 2304 2022 2304 1280 
+C 2304 634 2131 218 1734 218 
+C 1453 218 1261 422 1075 986 
+C 1030 1126 941 1229 762 1229 
+C 557 1229 275 1043 275 762 
+z
+" transform="scale(0.015625)"/>
+      <path id="LinguisticsPro-Bold-13" d="M 1210 2138 
+C 1210 2867 1267 4058 1792 4058 
+C 2317 4058 2374 2867 2374 2138 
+C 2374 1408 2317 218 1792 218 
+C 1267 218 1210 1408 1210 2138 
+z
+M 198 2138 
+C 198 966 595 -77 1792 -77 
+C 2989 -77 3386 966 3386 2138 
+C 3386 3309 2989 4352 1792 4352 
+C 595 4352 198 3309 198 2138 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#LinguisticsPro-BoldItalic-3b" transform="translate(0 0.796875)"/>
+     <use xlink:href="#LinguisticsPro-Bold-20" transform="translate(80.079926 0.796875)"/>
+     <use xlink:href="#LinguisticsPro-Bold-18" transform="translate(158.359848 0.796875)"/>
+     <use xlink:href="#LinguisticsPro-Bold-13" transform="translate(214.359802 0.796875)"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pda3a183997">
+   <rect x="58.84" y="7.2" width="223.2" height="110.88"/>
+  </clipPath>
+ </defs>
+</svg>

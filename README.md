@@ -27,3 +27,9 @@ The following code was written in Python 3.11. The required libraries are listed
 
 All packages can be fetched using pip:
 `pip3 install pandas numpy matplotlib jupyter`
+
+### Regenerated plots (2026-09-18)
+`plots/` contains every figure the notebook produces, exported headless as SVG, PDF and 300 dpi PNG
+(Python 3.14, pandas 3, matplotlib 3.10). The notebook was updated on the same date for current
+pandas/matplotlib (positional indexing via `.iloc[0]`, scalar annotation coordinates, removed
+`InsetPosition` import).
