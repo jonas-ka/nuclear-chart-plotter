@@ -1,0 +1,2410 @@
+Z,A,N,state,element,I,mu,Q,dr2,data,technique,facility,reference,read
+2,6,4,g,He,0,0,0,1,δ<r2>,ATS,Argonne NL,"[2, WWW]",2026-10-20
+2,6,4,g,He,0,0,0,1,δ<r2>,ATS,Argonne NL,[119],2026-10-20
+2,8,6,g,He,0,0,0,1,δ<r2>,ATS,Argonne NL,[119],2026-10-20
+3,6,3,g,Li,1,1,1,0,"I, μI, Qs",CS + OP + β-NMR,ISOLDE,"[Arn87a, Arn87b]",2026-10-20
+3,7,4,g,Li,1,1,1,0,"I, μI, Qs",CS + OP + β-NMR,ISOLDE,"[Arn87a, Arn87b]",2026-10-20
+3,8,5,g,Li,1,1,1,0,"I, μI, Qs",CS + OP + β-NMR,ISOLDE,"[Arn87a, Arn87b]",2026-10-20
+3,9,6,g,Li,1,1,1,0,"I, μI, Qs",CS + OP + β-NMR,ISOLDE,"[Arn87a, Arn87b]",2026-10-20
+3,11,8,g,Li,1,1,1,0,"I, μI, Qs",CS + OP + β-NMR,ISOLDE,"[Arn87a, Arn87b]",2026-10-20
+3,11,8,g,Li,0,0,1,0,Qs,CS + OP + β-NMR,ISOLDE,"[3, ,4]",2026-10-20
+3,6,3,g,Li,0,0,0,1,δ<r2>,RIMS,GSI,"[5, 6]",2026-10-20
+3,7,4,g,Li,0,0,0,1,δ<r2>,RIMS,GSI,"[5, 6]",2026-10-20
+3,8,5,g,Li,0,0,0,1,δ<r2>,RIMS,GSI,"[5, 6]",2026-10-20
+3,9,6,g,Li,0,0,0,1,δ<r2>,RIMS,GSI,"[5, 6]",2026-10-20
+3,6,3,g,Li,0,0,0,1,δ<r2>,RIMS,"ISAC, TRIUMF","[79, 112, 113]",2026-10-20
+3,7,4,g,Li,0,0,0,1,δ<r2>,RIMS,"ISAC, TRIUMF","[79, 112, 113]",2026-10-20
+3,8,5,g,Li,0,0,0,1,δ<r2>,RIMS,"ISAC, TRIUMF","[79, 112, 113]",2026-10-20
+3,9,6,g,Li,0,0,0,1,δ<r2>,RIMS,"ISAC, TRIUMF","[79, 112, 113]",2026-10-20
+3,11,8,g,Li,0,0,0,1,δ<r2>,RIMS,"ISAC, TRIUMF","[79, 112, 113]",2026-10-20
+3,8,5,g,Li,0,1,1,0,"μI, Qs",CS + OP + β-NMR,ISOLDE,[77],2026-10-20
+3,9,6,g,Li,0,1,1,0,"μI, Qs",CS + OP + β-NMR,ISOLDE,[77],2026-10-20
+3,9,6,g,Li,1,0,1,0,"I, Qs",CS + OP + β-NMR,ISOLDE,[86],2026-10-20
+3,11,8,g,Li,1,0,1,0,"I, Qs",CS + OP + β-NMR,ISOLDE,[86],2026-10-20
+3,9,6,g,Li,0,0,1,0,Qs,OP + β-NQR,TRIUMF,[111],2026-10-20
+3,11,8,g,Li,0,0,1,0,Qs,β-NQR,TRIUMF,[139],2026-10-20
+4,11,7,g,Be,0,1,0,0,μI,LIS+ CS + β-NMR,ISOLDE,[7],2026-10-20
+4,7,3,g,Be,0,1,0,1,"μI, δ<r2>",FC + CS,ISOLDE,[88],2026-10-20
+4,9,5,g,Be,0,1,0,1,"μI, δ<r2>",FC + CS,ISOLDE,[88],2026-10-20
+4,10,6,g,Be,0,1,0,1,"μI, δ<r2>",FC + CS,ISOLDE,[88],2026-10-20
+4,11,7,g,Be,0,1,0,1,"μI, δ<r2>",FC + CS,ISOLDE,[88],2026-10-20
+4,7,3,g,Be,0,1,0,0,μI,ITS + Cooling + MWDR,RIKEN,[89],2026-10-20
+4,12,8,g,Be,0,0,0,1,δ<r2>,FC + CS+ PICO,ISOLDE,[120],2026-10-20
+4,11,7,g,Be,0,1,0,0,μI,ITS + Cooling + MWDR,RIKEN,[137],2026-10-20
+4,7,3,g,Be,0,0,0,1,ΔνIS,FC + CS,ISOLDE,[147],2026-10-20
+4,9,5,g,Be,0,0,0,1,ΔνIS,FC + CS,ISOLDE,[147],2026-10-20
+4,10,6,g,Be,0,0,0,1,ΔνIS,FC + CS,ISOLDE,[147],2026-10-20
+4,11,7,g,Be,0,0,0,1,ΔνIS,FC + CS,ISOLDE,[147],2026-10-20
+4,12,8,g,Be,0,0,0,1,ΔνIS,FC + CS,ISOLDE,[147],2026-10-20
+4,7,3,g,Be,0,0,0,1,δ<r2>,FC + CS + PICO,ISOLDE,[164],2026-10-20
+4,9,5,g,Be,0,0,0,1,δ<r2>,FC + CS + PICO,ISOLDE,[164],2026-10-20
+4,10,6,g,Be,0,0,0,1,δ<r2>,FC + CS + PICO,ISOLDE,[164],2026-10-20
+4,11,7,g,Be,0,0,0,1,δ<r2>,FC + CS + PICO,ISOLDE,[164],2026-10-20
+4,12,8,g,Be,0,0,0,1,δ<r2>,FC + CS + PICO,ISOLDE,[164],2026-10-20
+5,10,5,g,B,0,0,0,1,δ<r2>,RIMS,off-line,[188],2026-10-20
+5,11,6,g,B,0,0,0,1,δ<r2>,RIMS,off-line,[188],2026-10-20
+10,17,7,g,Ne,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,"[8, 75]",2026-10-20
+10,18,8,g,Ne,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,"[8, 75]",2026-10-20
+10,19,9,g,Ne,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,"[8, 75]",2026-10-20
+10,20,10,g,Ne,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,"[8, 75]",2026-10-20
+10,21,11,g,Ne,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,"[8, 75]",2026-10-20
+10,22,12,g,Ne,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,"[8, 75]",2026-10-20
+10,23,13,g,Ne,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,"[8, 75]",2026-10-20
+10,24,14,g,Ne,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,"[8, 75]",2026-10-20
+10,25,15,g,Ne,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,"[8, 75]",2026-10-20
+10,26,16,g,Ne,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,"[8, 75]",2026-10-20
+10,28,18,g,Ne,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,"[8, 75]",2026-10-20
+10,17,7,g,Ne,0,0,0,1,δ<r2>,CS + SSCI + β,ISOLDE,[87],2026-10-20
+10,18,8,g,Ne,0,0,0,1,δ<r2>,CS + SSCI + β,ISOLDE,[87],2026-10-20
+10,19,9,g,Ne,0,0,0,1,δ<r2>,CS + SSCI + β,ISOLDE,[87],2026-10-20
+10,20,10,g,Ne,0,0,0,1,δ<r2>,CS + SSCI + β,ISOLDE,[87],2026-10-20
+10,21,11,g,Ne,0,0,0,1,δ<r2>,CS + SSCI + β,ISOLDE,[87],2026-10-20
+10,22,12,g,Ne,0,0,0,1,δ<r2>,CS + SSCI + β,ISOLDE,[87],2026-10-20
+10,17,7,g,Ne,0,0,0,1,δ<r2>,CS + SSCI + β,ISOLDE,[116],2026-10-20
+10,18,8,g,Ne,0,0,0,1,δ<r2>,CS + SSCI + β,ISOLDE,[116],2026-10-20
+10,19,9,g,Ne,0,0,0,1,δ<r2>,CS + SSCI + β,ISOLDE,[116],2026-10-20
+10,21,11,g,Ne,0,0,0,1,δ<r2>,CS + SSCI + β,ISOLDE,[116],2026-10-20
+10,22,12,g,Ne,0,0,0,1,δ<r2>,CS + SSCI + β,ISOLDE,[116],2026-10-20
+10,23,13,g,Ne,0,0,0,1,δ<r2>,CS + SSCI + β,ISOLDE,[116],2026-10-20
+10,24,14,g,Ne,0,0,0,1,δ<r2>,CS + SSCI + β,ISOLDE,[116],2026-10-20
+10,25,15,g,Ne,0,0,0,1,δ<r2>,CS + SSCI + β,ISOLDE,[116],2026-10-20
+10,26,16,g,Ne,0,0,0,1,δ<r2>,CS + SSCI + β,ISOLDE,[116],2026-10-20
+10,28,18,g,Ne,0,0,0,1,δ<r2>,CS + SSCI + β,ISOLDE,[116],2026-10-20
+11,21,10,g,Na,1,1,0,1,"δ<r2>, μI, I",LIOP-SGA + MWDR,ISOLDE,[Hub78],2026-10-20
+11,22,11,g,Na,1,1,0,1,"δ<r2>, μI, I",LIOP-SGA + MWDR,ISOLDE,[Hub78],2026-10-20
+11,23,12,g,Na,1,1,0,1,"δ<r2>, μI, I",LIOP-SGA + MWDR,ISOLDE,[Hub78],2026-10-20
+11,24,13,g,Na,1,1,0,1,"δ<r2>, μI, I",LIOP-SGA + MWDR,ISOLDE,[Hub78],2026-10-20
+11,25,14,g,Na,1,1,0,1,"δ<r2>, μI, I",LIOP-SGA + MWDR,ISOLDE,[Hub78],2026-10-20
+11,26,15,g,Na,1,1,0,1,"δ<r2>, μI, I",LIOP-SGA + MWDR,ISOLDE,[Hub78],2026-10-20
+11,27,16,g,Na,1,1,0,1,"δ<r2>, μI, I",LIOP-SGA + MWDR,ISOLDE,[Hub78],2026-10-20
+11,28,17,g,Na,1,1,0,1,"δ<r2>, μI, I",LIOP-SGA + MWDR,ISOLDE,[Hub78],2026-10-20
+11,29,18,g,Na,1,1,0,1,"δ<r2>, μI, I",LIOP-SGA + MWDR,ISOLDE,[Hub78],2026-10-20
+11,30,19,g,Na,1,1,0,1,"δ<r2>, μI, I",LIOP-SGA + MWDR,ISOLDE,[Hub78],2026-10-20
+11,31,20,g,Na,1,1,0,1,"δ<r2>, μI, I",LIOP-SGA + MWDR,ISOLDE,[Hub78],2026-10-20
+11,21,10,g,Na,0,0,1,1,"δ<r2>, Qs",LIOP-SGA + MWDR,ISOLDE,[Tor85],2026-10-20
+11,22,11,g,Na,0,0,1,1,"δ<r2>, Qs",LIOP-SGA + MWDR,ISOLDE,[Tor85],2026-10-20
+11,23,12,g,Na,0,0,1,1,"δ<r2>, Qs",LIOP-SGA + MWDR,ISOLDE,[Tor85],2026-10-20
+11,24,13,g,Na,0,0,1,1,"δ<r2>, Qs",LIOP-SGA + MWDR,ISOLDE,[Tor85],2026-10-20
+11,25,14,g,Na,0,0,1,1,"δ<r2>, Qs",LIOP-SGA + MWDR,ISOLDE,[Tor85],2026-10-20
+11,26,15,g,Na,0,0,1,1,"δ<r2>, Qs",LIOP-SGA + MWDR,ISOLDE,[Tor85],2026-10-20
+11,27,16,g,Na,0,0,1,1,"δ<r2>, Qs",LIOP-SGA + MWDR,ISOLDE,[Tor85],2026-10-20
+11,28,17,g,Na,0,0,1,1,"δ<r2>, Qs",LIOP-SGA + MWDR,ISOLDE,[Tor85],2026-10-20
+11,29,18,g,Na,0,0,1,1,"δ<r2>, Qs",LIOP-SGA + MWDR,ISOLDE,[Tor85],2026-10-20
+11,30,19,g,Na,0,0,1,1,"δ<r2>, Qs",LIOP-SGA + MWDR,ISOLDE,[Tor85],2026-10-20
+11,31,20,g,Na,0,0,1,1,"δ<r2>, Qs",LIOP-SGA + MWDR,ISOLDE,[Tor85],2026-10-20
+11,20,9,g,Na,0,1,0,0,μI,RADOP,Karlsruhe,[Schw75],2026-10-20
+11,21,10,g,Na,0,0,0,0,Δνhfs,neutral atom trap,Berkeley,[9],2026-10-20
+11,26,15,g,Na,1,1,1,0,"Qs, μI, I",CS+ β-NMR,ISOLDE,[10],2026-10-20
+11,27,16,g,Na,1,1,1,0,"Qs, μI, I",CS+ β-NMR,ISOLDE,[10],2026-10-20
+11,28,17,g,Na,1,1,1,0,"Qs, μI, I",CS+ β-NMR,ISOLDE,[10],2026-10-20
+11,29,18,g,Na,1,1,1,0,"Qs, μI, I",CS+ β-NMR,ISOLDE,[10],2026-10-20
+11,27,16,g,Na,1,1,1,0,"Qs, μI, I",CS+ β-NMR,ISOLDE,[10],2026-10-20
+11,28,17,g,Na,1,1,1,0,"Qs, μI, I",CS+ β-NMR,ISOLDE,[10],2026-10-20
+11,29,18,g,Na,1,1,1,0,"Qs, μI, I",CS+ β-NMR,ISOLDE,[10],2026-10-20
+11,30,19,g,Na,1,1,1,0,"Qs, μI, I",CS+ β-NMR,ISOLDE,[10],2026-10-20
+11,31,20,g,Na,1,1,1,0,"Qs, μI, I",CS+ β-NMR,ISOLDE,[10],2026-10-20
+11,31,20,g,Na,1,1,1,0,"Qs, μI, I",CS+ β-NMR,ISOLDE,[10],2026-10-20
+11,26,15,g,Na,0,1,0,0,μI,CS+ β-NMR,ISOLDE,[209],2026-10-20
+11,27,16,g,Na,0,1,0,0,μI,CS+ β-NMR,ISOLDE,[209],2026-10-20
+11,28,17,g,Na,0,1,0,0,μI,CS+ β-NMR,ISOLDE,[209],2026-10-20
+11,29,18,g,Na,0,1,0,0,μI,CS+ β-NMR,ISOLDE,[209],2026-10-20
+11,30,19,g,Na,0,1,0,0,μI,CS+ β-NMR,ISOLDE,[209],2026-10-20
+11,31,20,g,Na,0,1,0,0,μI,CS+ β-NMR,ISOLDE,[209],2026-10-20
+12,31,19,g,Mg,1,1,0,0,"I, μI",CS+ OP + β-NMR,ISOLDE,[76],2026-10-20
+12,21,9,g,Mg,1,1,0,0,"I, μI",CS + β-NMR,ISOLDE,[95],2026-10-20
+12,27,15,g,Mg,1,1,0,0,"I, μI",CS + LIF,ISOLDE,[82],2026-10-20
+12,29,17,g,Mg,1,1,0,0,"I, μI",CS + LIF,ISOLDE,[82],2026-10-20
+12,31,19,g,Mg,1,1,0,0,"I, μI",CS + LIF,ISOLDE,[82],2026-10-20
+12,33,21,g,Mg,1,1,0,0,"I, μI",CS + OP + β-NMR,ISOLDE,[85],2026-10-20
+12,21,9,g,Mg,0,0,0,1,δ<r2>,CS + OP + β-NMR,ISOLDE,[118],2026-10-20
+12,22,10,g,Mg,0,0,0,1,δ<r2>,CS + OP + β-NMR,ISOLDE,[118],2026-10-20
+12,23,11,g,Mg,0,0,0,1,δ<r2>,CS + OP + β-NMR,ISOLDE,[118],2026-10-20
+12,24,12,g,Mg,0,0,0,1,δ<r2>,CS + OP + β-NMR,ISOLDE,[118],2026-10-20
+12,25,13,g,Mg,0,0,0,1,δ<r2>,CS + OP + β-NMR,ISOLDE,[118],2026-10-20
+12,26,14,g,Mg,0,0,0,1,δ<r2>,CS + OP + β-NMR,ISOLDE,[118],2026-10-20
+12,27,15,g,Mg,0,0,0,1,δ<r2>,CS + OP + β-NMR,ISOLDE,[118],2026-10-20
+12,28,16,g,Mg,0,0,0,1,δ<r2>,CS + OP + β-NMR,ISOLDE,[118],2026-10-20
+12,29,17,g,Mg,0,0,0,1,δ<r2>,CS + OP + β-NMR,ISOLDE,[118],2026-10-20
+12,30,18,g,Mg,0,0,0,1,δ<r2>,CS + OP + β-NMR,ISOLDE,[118],2026-10-20
+12,31,19,g,Mg,0,0,0,1,δ<r2>,CS + OP + β-NMR,ISOLDE,[118],2026-10-20
+12,32,20,g,Mg,0,0,0,1,δ<r2>,CS + OP + β-NMR,ISOLDE,[118],2026-10-20
+12,23,11,g,Mg,1,1,0,0,"I, μI",CS,ISOLDE,[166],2026-10-20
+13,26,13,g,Al,0,1,0,0,μI,ABS,off-line,"[126, 127]",2026-10-20
+13,27,14,g,Al,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[208],2026-10-20
+13,28,15,g,Al,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[208],2026-10-20
+13,29,16,g,Al,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[208],2026-10-20
+13,30,17,g,Al,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[208],2026-10-20
+13,31,18,g,Al,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[208],2026-10-20
+13,32,19,g,Al,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[208],2026-10-20
+13,26,13,g,Al,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE & Jyväskylä,[239],2026-10-20
+13,26,13,m,Al,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE & Jyväskylä,[239],2026-10-20
+14,28,14,g,Si,0,0,0,1,δ<r2>,CS,FRIB,[244],2026-10-20
+14,29,15,g,Si,0,0,0,1,δ<r2>,CS,FRIB,[244],2026-10-20
+14,30,16,g,Si,0,0,0,1,δ<r2>,CS,FRIB,[244],2026-10-20
+14,32,18,g,Si,0,0,0,1,δ<r2>,CS,FRIB,[244],2026-10-20
+18,32,14,g,Ar,0,1,1,1,"μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,[11],2026-10-20
+18,33,15,g,Ar,0,1,1,1,"μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,[11],2026-10-20
+18,34,16,g,Ar,0,1,1,1,"μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,[11],2026-10-20
+18,35,17,g,Ar,0,1,1,1,"μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,[11],2026-10-20
+18,36,18,g,Ar,0,1,1,1,"μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,[11],2026-10-20
+18,37,19,g,Ar,0,1,1,1,"μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,[11],2026-10-20
+18,38,20,g,Ar,0,1,1,1,"μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,[11],2026-10-20
+18,39,21,g,Ar,0,1,1,1,"μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,[11],2026-10-20
+18,40,22,g,Ar,0,1,1,1,"μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,[11],2026-10-20
+18,46,28,g,Ar,0,1,1,1,"μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,[11],2026-10-20
+18,40,22,g,Ar,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,[91],2026-10-20
+18,41,23,g,Ar,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,[91],2026-10-20
+18,42,24,g,Ar,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,[91],2026-10-20
+18,43,25,g,Ar,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,[91],2026-10-20
+18,44,26,g,Ar,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI + β,ISOLDE,[91],2026-10-20
+19,36,17,g,K,1,1,1,1,"I, μI, Qs, δ<r2>",MOT,TRIUMF,[74],2026-10-20
+19,37,18,g,K,1,1,1,1,"I, μI, Qs, δ<r2>",MOT,TRIUMF,[74],2026-10-20
+19,38,19,g,K,1,1,1,1,"I, μI, Qs, δ<r2>",MOT,TRIUMF,[74],2026-10-20
+19,39,20,g,K,1,1,1,1,"I, μI, Qs, δ<r2>",MOT,TRIUMF,[74],2026-10-20
+19,40,21,g,K,1,1,1,1,"I, μI, Qs, δ<r2>",MOT,TRIUMF,[74],2026-10-20
+19,41,22,g,K,1,1,1,1,"I, μI, Qs, δ<r2>",MOT,TRIUMF,[74],2026-10-20
+19,42,23,g,K,1,1,1,1,"I, μI, Qs, δ<r2>",MOT,TRIUMF,[74],2026-10-20
+19,43,24,g,K,1,1,1,1,"I, μI, Qs, δ<r2>",MOT,TRIUMF,[74],2026-10-20
+19,44,25,g,K,1,1,1,1,"I, μI, Qs, δ<r2>",MOT,TRIUMF,[74],2026-10-20
+19,45,26,g,K,1,1,1,1,"I, μI, Qs, δ<r2>",MOT,TRIUMF,[74],2026-10-20
+19,46,27,g,K,1,1,1,1,"I, μI, Qs, δ<r2>",MOT,TRIUMF,[74],2026-10-20
+19,47,28,g,K,1,1,1,1,"I, μI, Qs, δ<r2>",MOT,TRIUMF,[74],2026-10-20
+19,36,17,g,K,0,1,0,0,μI,RADOP,Karlsruhe,[Schw75],2026-10-20
+19,37,18,g,K,0,1,0,0,μI,RADOP,Karlsruhe,[Köp69],2026-10-20
+19,38,19,g,K,0,1,0,1,"μI, δ<r2>",LIOP-SGA,ISOLDE,[Tou82],2026-10-20
+19,39,20,g,K,0,1,0,1,"μI, δ<r2>",LIOP-SGA,ISOLDE,[Tou82],2026-10-20
+19,40,21,g,K,0,1,0,1,"μI, δ<r2>",LIOP-SGA,ISOLDE,[Tou82],2026-10-20
+19,41,22,g,K,0,1,0,1,"μI, δ<r2>",LIOP-SGA,ISOLDE,[Tou82],2026-10-20
+19,42,23,g,K,0,1,0,1,"μI, δ<r2>",LIOP-SGA,ISOLDE,[Tou82],2026-10-20
+19,43,24,g,K,0,1,0,1,"μI, δ<r2>",LIOP-SGA,ISOLDE,[Tou82],2026-10-20
+19,44,25,g,K,0,1,0,1,"μI, δ<r2>",LIOP-SGA,ISOLDE,[Tou82],2026-10-20
+19,45,26,g,K,0,1,0,1,"μI, δ<r2>",LIOP-SGA,ISOLDE,[Tou82],2026-10-20
+19,46,27,g,K,0,1,0,1,"μI, δ<r2>",LIOP-SGA,ISOLDE,[Tou82],2026-10-20
+19,47,28,g,K,0,1,0,1,"μI, δ<r2>",LIOP-SGA,ISOLDE,[Tou82],2026-10-20
+19,49,30,g,K,1,1,0,0,"I, μI",CS + cooler RFQ,ISOLDE,[130],2026-10-20
+19,51,32,g,K,1,1,0,0,"I, μI",CS + cooler RFQ,ISOLDE,[130],2026-10-20
+19,38,19,g,K,1,0,0,1,"I, δ<r2>",CS + cooler RFQ,ISOLDE,[133],2026-10-20
+19,39,20,g,K,1,0,0,1,"I, δ<r2>",CS + cooler RFQ,ISOLDE,[133],2026-10-20
+19,42,23,g,K,1,0,0,1,"I, δ<r2>",CS + cooler RFQ,ISOLDE,[133],2026-10-20
+19,44,25,g,K,1,0,0,1,"I, δ<r2>",CS + cooler RFQ,ISOLDE,[133],2026-10-20
+19,46,27,g,K,1,0,0,1,"I, δ<r2>",CS + cooler RFQ,ISOLDE,[133],2026-10-20
+19,47,28,g,K,1,0,0,1,"I, δ<r2>",CS + cooler RFQ,ISOLDE,[133],2026-10-20
+19,48,29,g,K,1,0,0,1,"I, δ<r2>",CS + cooler RFQ,ISOLDE,[133],2026-10-20
+19,49,30,g,K,1,0,0,1,"I, δ<r2>",CS + cooler RFQ,ISOLDE,[133],2026-10-20
+19,50,31,g,K,1,0,0,1,"I, δ<r2>",CS + cooler RFQ,ISOLDE,[133],2026-10-20
+19,51,32,g,K,1,0,0,1,"I, δ<r2>",CS + cooler RFQ,ISOLDE,[133],2026-10-20
+19,38,19,g,K,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[136],2026-10-20
+19,38,19,m,K,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[136],2026-10-20
+19,39,20,g,K,0,1,0,0,μI,CS + cooler RFQ,ISOLDE,[138],2026-10-20
+19,47,28,g,K,0,1,0,0,μI,CS + cooler RFQ,ISOLDE,[138],2026-10-20
+19,49,30,g,K,0,1,0,0,μI,CS + cooler RFQ,ISOLDE,[138],2026-10-20
+19,51,32,g,K,0,1,0,0,μI,CS + cooler RFQ,ISOLDE,[138],2026-10-20
+19,36,17,g,K,0,0,0,1,δ<r2>,CS + cooler RFQ,NSCL,[152],2026-10-20
+19,37,18,g,K,0,0,0,1,δ<r2>,CS + cooler RFQ,NSCL,[152],2026-10-20
+19,38,19,g,K,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[195],2026-10-20
+19,39,20,g,K,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[195],2026-10-20
+19,40,21,g,K,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[195],2026-10-20
+19,41,22,g,K,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[195],2026-10-20
+19,42,23,g,K,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[195],2026-10-20
+19,43,24,g,K,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[195],2026-10-20
+19,44,25,g,K,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[195],2026-10-20
+19,45,26,g,K,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[195],2026-10-20
+19,46,27,g,K,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[195],2026-10-20
+19,47,28,g,K,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[195],2026-10-20
+19,48,29,g,K,0,0,0,1,δ<r2>,CRIS,ISOLDE,[214],2026-10-20
+19,49,30,g,K,0,0,0,1,δ<r2>,CRIS,ISOLDE,[214],2026-10-20
+19,50,31,g,K,0,0,0,1,δ<r2>,CRIS,ISOLDE,[214],2026-10-20
+19,51,32,g,K,0,0,0,1,δ<r2>,CRIS,ISOLDE,[214],2026-10-20
+19,52,33,g,K,0,0,0,1,δ<r2>,CRIS,ISOLDE,[214],2026-10-20
+20,41,21,g,Ca,0,0,1,1,"Qs, δ<r2>",ABS,off-line,[Ber80],2026-10-20
+20,43,23,g,Ca,0,0,1,1,"Qs, δ<r2>",ABS,off-line,[Ber80],2026-10-20
+20,45,25,g,Ca,0,0,1,1,"Qs, δ<r2>",ABS,off-line,[Ber80],2026-10-20
+20,41,21,g,Ca,0,1,0,1,"δ<r2>, μI",ABS,Karlsruhe,[And82],2026-10-20
+20,42,22,g,Ca,0,1,0,1,"δ<r2>, μI",ABS,Karlsruhe,[And82],2026-10-20
+20,43,23,g,Ca,0,1,0,1,"δ<r2>, μI",ABS,Karlsruhe,[And82],2026-10-20
+20,44,24,g,Ca,0,1,0,1,"δ<r2>, μI",ABS,Karlsruhe,[And82],2026-10-20
+20,45,25,g,Ca,0,1,0,1,"δ<r2>, μI",ABS,Karlsruhe,[And82],2026-10-20
+20,46,26,g,Ca,0,1,0,1,"δ<r2>, μI",ABS,Karlsruhe,[And82],2026-10-20
+20,47,27,g,Ca,0,1,0,1,"δ<r2>, μI",ABS,Karlsruhe,[And82],2026-10-20
+20,48,28,g,Ca,0,1,0,1,"δ<r2>, μI",ABS,Karlsruhe,[And82],2026-10-20
+20,40,20,g,Ca,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[12],2026-10-20
+20,41,21,g,Ca,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[12],2026-10-20
+20,42,22,g,Ca,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[12],2026-10-20
+20,43,23,g,Ca,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[12],2026-10-20
+20,44,24,g,Ca,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[12],2026-10-20
+20,45,25,g,Ca,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[12],2026-10-20
+20,46,26,g,Ca,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[12],2026-10-20
+20,47,27,g,Ca,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[12],2026-10-20
+20,48,28,g,Ca,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[12],2026-10-20
+20,50,30,g,Ca,0,0,0,1,δ<r2>,CS + SSN + β,ISOLDE,[13],2026-10-20
+20,39,19,g,Ca,0,0,0,1,δ<r2>,CS + SSN + β,ISOLDE,[14],2026-10-20
+20,49,29,g,Ca,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[142],2026-10-20
+20,51,31,g,Ca,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[142],2026-10-20
+20,49,29,g,Ca,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[154],2026-10-20
+20,50,30,g,Ca,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[154],2026-10-20
+20,51,31,g,Ca,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[154],2026-10-20
+20,52,32,g,Ca,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[154],2026-10-20
+20,36,16,g,Ca,0,0,0,1,δ<r2>,CS + cooler RFQ,NSCL,[187],2026-10-20
+20,37,17,g,Ca,0,0,0,1,δ<r2>,CS + cooler RFQ,NSCL,[187],2026-10-20
+20,38,18,g,Ca,0,0,0,1,δ<r2>,CS + cooler RFQ,NSCL,[187],2026-10-20
+20,39,19,g,Ca,0,0,0,1,δ<r2>,CS + cooler RFQ,NSCL,[187],2026-10-20
+20,37,17,g,Ca,0,1,1,0,"μI, Qs",CS + cooler RFQ,NSCL,[190],2026-10-20
+20,39,19,g,Ca,0,1,1,0,"μI, Qs",CS + cooler RFQ,NSCL,[190],2026-10-20
+21,43,22,g,Sc,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[100],2026-10-20
+21,44,23,g,Sc,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[100],2026-10-20
+21,45,24,g,Sc,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[100],2026-10-20
+21,46,25,g,Sc,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[100],2026-10-20
+21,44,23,m,Sc,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[100],2026-10-20
+21,45,24,m,Sc,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[100],2026-10-20
+21,42,21,g,Sc,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[215],2026-10-20
+21,42,21,m,Sc,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[215],2026-10-20
+21,40,19,g,Sc,0,1,1,0,"μI, Qs",CS + cooler RFQ,NSCL,[230],2026-10-20
+21,47,26,g,Sc,0,1,1,0,"μI, Qs",CS + cooler RFQ & CRIS,ISOLDE,[232],2026-10-20
+21,49,28,g,Sc,0,1,1,0,"μI, Qs",CS + cooler RFQ & CRIS,ISOLDE,[232],2026-10-20
+21,40,19,g,Sc,0,0,0,1,δ<r2>,CS + cooler RFQ,NSCL,[236],2026-10-20
+21,41,20,g,Sc,0,0,0,1,δ<r2>,CS + cooler RFQ,NSCL,[236],2026-10-20
+21,47,26,g,Sc,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[249],2026-10-20
+21,48,27,g,Sc,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[249],2026-10-20
+21,49,28,g,Sc,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[249],2026-10-20
+22,44,22,g,Ti,0,0,0,1,δ<r2>,CS + cooler RFQ,Jyväskylä,"[15], [15a]",2026-10-20
+22,45,23,g,Ti,0,0,0,1,δ<r2>,CS + cooler RFQ,Jyväskylä,"[15], [15a]",2026-10-20
+24,61,37,g,Cr,1,1,0,0,"μI, I",CRIS,ISOLDE,[251],2026-10-20
+24,50,26,g,Cr,0,0,0,1,δ<r2>,CRIS,ISOLDE (off-line),[274],2026-10-20
+24,52,28,g,Cr,0,0,0,1,δ<r2>,CRIS,ISOLDE (off-line),[274],2026-10-20
+24,53,29,g,Cr,0,0,0,1,δ<r2>,CRIS,ISOLDE (off-line),[274],2026-10-20
+24,54,30,g,Cr,0,0,0,1,δ<r2>,CRIS,ISOLDE (off-line),[274],2026-10-20
+25,50,25,g,Mn,0,1,1,1,"δ<r2>, μI, Qs",CS + cooler RFQ,Jyväskylä,[99],2026-10-20
+25,51,26,g,Mn,0,1,1,1,"δ<r2>, μI, Qs",CS + cooler RFQ,Jyväskylä,[99],2026-10-20
+25,52,27,g,Mn,0,1,1,1,"δ<r2>, μI, Qs",CS + cooler RFQ,Jyväskylä,[99],2026-10-20
+25,53,28,g,Mn,0,1,1,1,"δ<r2>, μI, Qs",CS + cooler RFQ,Jyväskylä,[99],2026-10-20
+25,54,29,g,Mn,0,1,1,1,"δ<r2>, μI, Qs",CS + cooler RFQ,Jyväskylä,[99],2026-10-20
+25,55,30,g,Mn,0,1,1,1,"δ<r2>, μI, Qs",CS + cooler RFQ,Jyväskylä,[99],2026-10-20
+25,56,31,g,Mn,0,1,1,1,"δ<r2>, μI, Qs",CS + cooler RFQ,Jyväskylä,[99],2026-10-20
+25,50,25,m,Mn,0,1,1,1,"δ<r2>, μI, Qs",CS + cooler RFQ,Jyväskylä,[99],2026-10-20
+25,52,27,m,Mn,0,1,1,1,"δ<r2>, μI, Qs",CS + cooler RFQ,Jyväskylä,[99],2026-10-20
+25,51,26,g,Mn,1,1,0,0,"μI, I",CS + cooler RFQ,ISOLDE,[148],2026-10-20
+25,53,28,g,Mn,1,1,0,0,"μI, I",CS + cooler RFQ,ISOLDE,[148],2026-10-20
+25,55,30,g,Mn,1,1,0,0,"μI, I",CS + cooler RFQ,ISOLDE,[148],2026-10-20
+25,57,32,g,Mn,1,1,0,0,"μI, I",CS + cooler RFQ,ISOLDE,[148],2026-10-20
+25,59,34,g,Mn,1,1,0,0,"μI, I",CS + cooler RFQ,ISOLDE,[148],2026-10-20
+25,61,36,g,Mn,1,1,0,0,"μI, I",CS + cooler RFQ,ISOLDE,[148],2026-10-20
+25,63,38,g,Mn,1,1,0,0,"μI, I",CS + cooler RFQ,ISOLDE,[148],2026-10-20
+25,54,29,g,Mn,1,1,0,0,"μI, I",CS + cooler RFQ,ISOLDE,[149],2026-10-20
+25,56,31,g,Mn,1,1,0,0,"μI, I",CS + cooler RFQ,ISOLDE,[149],2026-10-20
+25,58,33,g,Mn,1,1,0,0,"μI, I",CS + cooler RFQ,ISOLDE,[149],2026-10-20
+25,60,35,g,Mn,1,1,0,0,"μI, I",CS + cooler RFQ,ISOLDE,[149],2026-10-20
+25,62,37,g,Mn,1,1,0,0,"μI, I",CS + cooler RFQ,ISOLDE,[149],2026-10-20
+25,64,39,g,Mn,1,1,0,0,"μI, I",CS + cooler RFQ,ISOLDE,[149],2026-10-20
+25,58,33,m,Mn,1,1,0,0,"μI, I",CS + cooler RFQ,ISOLDE,[149],2026-10-20
+25,60,35,m,Mn,1,1,0,0,"μI, I",CS + cooler RFQ,ISOLDE,[149],2026-10-20
+25,62,37,m,Mn,1,1,0,0,"μI, I",CS + cooler RFQ,ISOLDE,[149],2026-10-20
+25,51,26,g,Mn,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[157],2026-10-20
+25,53,28,g,Mn,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[157],2026-10-20
+25,55,30,g,Mn,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[157],2026-10-20
+25,57,32,g,Mn,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[157],2026-10-20
+25,59,34,g,Mn,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[157],2026-10-20
+25,61,36,g,Mn,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[157],2026-10-20
+25,63,38,g,Mn,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[157],2026-10-20
+25,51,26,g,Mn,0,0,0,1,δ<r2>,CS + cooler RFQ + SPOP,ISOLDE,[163],2026-10-20
+25,53,28,g,Mn,0,0,0,1,δ<r2>,CS + cooler RFQ + SPOP,ISOLDE,[163],2026-10-20
+25,54,29,g,Mn,0,0,0,1,δ<r2>,CS + cooler RFQ + SPOP,ISOLDE,[163],2026-10-20
+25,55,30,g,Mn,0,0,0,1,δ<r2>,CS + cooler RFQ + SPOP,ISOLDE,[163],2026-10-20
+25,56,31,g,Mn,0,0,0,1,δ<r2>,CS + cooler RFQ + SPOP,ISOLDE,[163],2026-10-20
+25,57,32,g,Mn,0,0,0,1,δ<r2>,CS + cooler RFQ + SPOP,ISOLDE,[163],2026-10-20
+25,58,33,g,Mn,0,0,0,1,δ<r2>,CS + cooler RFQ + SPOP,ISOLDE,[163],2026-10-20
+25,59,34,g,Mn,0,0,0,1,δ<r2>,CS + cooler RFQ + SPOP,ISOLDE,[163],2026-10-20
+25,60,35,g,Mn,0,0,0,1,δ<r2>,CS + cooler RFQ + SPOP,ISOLDE,[163],2026-10-20
+25,61,36,g,Mn,0,0,0,1,δ<r2>,CS + cooler RFQ + SPOP,ISOLDE,[163],2026-10-20
+25,62,37,g,Mn,0,0,0,1,δ<r2>,CS + cooler RFQ + SPOP,ISOLDE,[163],2026-10-20
+25,63,38,g,Mn,0,0,0,1,δ<r2>,CS + cooler RFQ + SPOP,ISOLDE,[163],2026-10-20
+25,64,39,g,Mn,0,0,0,1,δ<r2>,CS + cooler RFQ + SPOP,ISOLDE,[163],2026-10-20
+26,52,26,g,Fe,0,0,0,1,δ<r2>,CS + cooler RFQ,NSCL,[161],2026-10-20
+26,53,27,g,Fe,0,0,0,1,δ<r2>,CS + cooler RFQ,NSCL,[161],2026-10-20
+26,53,27,g,Fe,0,1,1,0,"μI, Qs",CS + cooler RFQ,NSCL,[176],2026-10-20
+28,58,30,g,Ni,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[199],2026-10-20
+28,60,32,g,Ni,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[199],2026-10-20
+28,61,33,g,Ni,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[199],2026-10-20
+28,62,34,g,Ni,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[199],2026-10-20
+28,64,36,g,Ni,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[199],2026-10-20
+28,68,40,g,Ni,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[199],2026-10-20
+28,54,26,g,Ni,0,0,0,1,δ<r2>,CS + cooler RFQ,NSCL,[227],2026-10-20
+28,58,30,g,Ni,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[228],2026-10-20
+28,59,31,g,Ni,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[228],2026-10-20
+28,60,32,g,Ni,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[228],2026-10-20
+28,61,33,g,Ni,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[228],2026-10-20
+28,62,34,g,Ni,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[228],2026-10-20
+28,63,35,g,Ni,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[228],2026-10-20
+28,64,36,g,Ni,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[228],2026-10-20
+28,65,37,g,Ni,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[228],2026-10-20
+28,66,38,g,Ni,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[228],2026-10-20
+28,67,39,g,Ni,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[228],2026-10-20
+28,68,40,g,Ni,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[228],2026-10-20
+28,70,42,g,Ni,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[228],2026-10-20
+28,55,27,g,Ni,0,1,0,1,"δ<r2>, μI",CS + cooler RFQ,NSCL,[234],2026-10-20
+28,56,28,g,Ni,0,1,0,1,"δ<r2>, μI",CS + cooler RFQ,NSCL,[234],2026-10-20
+28,59,31,g,Ni,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[242],2026-10-20
+28,61,33,g,Ni,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[242],2026-10-20
+28,63,35,g,Ni,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[242],2026-10-20
+28,65,37,g,Ni,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[242],2026-10-20
+28,67,39,g,Ni,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[242],2026-10-20
+29,68,39,g,Cu,0,1,0,0,μI,IS-RIS,ISOLDE,[16],2026-10-20
+29,68,39,m,Cu,0,1,0,0,μI,IS-RIS,ISOLDE,[16],2026-10-20
+29,70,41,g,Cu,0,1,0,0,μI,IS-RIS,ISOLDE,[16],2026-10-20
+29,70,41,m1,Cu,0,1,0,0,μI,IS-RIS,ISOLDE,[16],2026-10-20
+29,70,41,m2,Cu,0,1,0,0,μI,IS-RIS,ISOLDE,[16],2026-10-20
+29,57,28,g,Cu,0,1,0,0,μI,IGLIS,LISOL,[96],2026-10-20
+29,59,30,g,Cu,0,1,0,0,μI,IGLIS,LISOL,[96],2026-10-20
+29,58,29,g,Cu,0,1,0,0,"μI, Is",IS-RIS,ISOLDE,[90],2026-10-20
+29,59,30,g,Cu,0,1,0,0,"μI, Is",IS-RIS,ISOLDE,[90],2026-10-20
+29,71,42,g,Cu,1,1,0,0,"μI, I",IS-RIS + CS,ISOLDE,[94],2026-10-20
+29,73,44,g,Cu,1,1,0,0,"μI, I",IS-RIS + CS,ISOLDE,[94],2026-10-20
+29,75,46,g,Cu,1,1,0,0,"μI, I",IS-RIS + CS,ISOLDE,[94],2026-10-20
+29,57,28,g,Cu,1,1,0,0,"μI, I",IGLIS,LISOL,[108],2026-10-20
+29,58,29,g,Cu,1,1,0,0,"μI, I",IGLIS,LISOL,[108],2026-10-20
+29,59,30,g,Cu,1,1,0,0,"μI, I",IGLIS,LISOL,[108],2026-10-20
+29,60,31,g,Cu,1,1,0,0,"μI, I",IGLIS,LISOL,[108],2026-10-20
+29,61,32,g,Cu,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[109],2026-10-20
+29,62,33,g,Cu,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[109],2026-10-20
+29,63,34,g,Cu,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[109],2026-10-20
+29,64,35,g,Cu,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[109],2026-10-20
+29,65,36,g,Cu,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[109],2026-10-20
+29,66,37,g,Cu,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[109],2026-10-20
+29,67,38,g,Cu,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[109],2026-10-20
+29,68,39,g,Cu,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[109],2026-10-20
+29,69,40,g,Cu,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[109],2026-10-20
+29,70,41,g,Cu,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[109],2026-10-20
+29,71,42,g,Cu,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[109],2026-10-20
+29,72,43,g,Cu,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[109],2026-10-20
+29,73,44,g,Cu,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[109],2026-10-20
+29,74,45,g,Cu,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[109],2026-10-20
+29,75,46,g,Cu,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[109],2026-10-20
+29,68,39,m,Cu,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[109],2026-10-20
+29,70,41,m1,Cu,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[109],2026-10-20
+29,70,41,m2,Cu,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[109],2026-10-20
+29,58,29,g,Cu,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[114],2026-10-20
+29,59,30,g,Cu,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[114],2026-10-20
+29,60,31,g,Cu,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[114],2026-10-20
+29,61,32,g,Cu,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[114],2026-10-20
+29,62,33,g,Cu,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[114],2026-10-20
+29,75,46,g,Cu,1,1,0,0,"μI, I",IS-RIS,ISOLDE,[122],2026-10-20
+29,77,48,g,Cu,1,1,0,0,"μI, I",IS-RIS,ISOLDE,[122],2026-10-20
+29,78,49,g,Cu,1,1,0,0,"μI, I",IS-RIS,ISOLDE,[122],2026-10-20
+29,58,29,g,Cu,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[156],2026-10-20
+29,59,30,g,Cu,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[156],2026-10-20
+29,60,31,g,Cu,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[156],2026-10-20
+29,61,32,g,Cu,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[156],2026-10-20
+29,62,33,g,Cu,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[156],2026-10-20
+29,63,34,g,Cu,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[156],2026-10-20
+29,64,35,g,Cu,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[156],2026-10-20
+29,65,36,g,Cu,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[156],2026-10-20
+29,66,37,g,Cu,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[156],2026-10-20
+29,67,38,g,Cu,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[156],2026-10-20
+29,68,39,g,Cu,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[156],2026-10-20
+29,69,40,g,Cu,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[156],2026-10-20
+29,70,41,g,Cu,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[156],2026-10-20
+29,71,42,g,Cu,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[156],2026-10-20
+29,72,43,g,Cu,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[156],2026-10-20
+29,73,44,g,Cu,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[156],2026-10-20
+29,74,45,g,Cu,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[156],2026-10-20
+29,75,46,g,Cu,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[156],2026-10-20
+29,73,44,g,Cu,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[171],2026-10-20
+29,74,45,g,Cu,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[171],2026-10-20
+29,75,46,g,Cu,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[171],2026-10-20
+29,76,47,g,Cu,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[171],2026-10-20
+29,77,48,g,Cu,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[171],2026-10-20
+29,78,49,g,Cu,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[171],2026-10-20
+29,63,34,g,Cu,0,0,0,1,δ<r2>,CRIS,ISOLDE,[200],2026-10-20
+29,64,35,g,Cu,0,0,0,1,δ<r2>,CRIS,ISOLDE,[200],2026-10-20
+29,65,36,g,Cu,0,0,0,1,δ<r2>,CRIS,ISOLDE,[200],2026-10-20
+29,66,37,g,Cu,0,0,0,1,δ<r2>,CRIS,ISOLDE,[200],2026-10-20
+29,68,39,g,Cu,0,0,0,1,δ<r2>,CRIS,ISOLDE,[200],2026-10-20
+29,69,40,g,Cu,0,0,0,1,δ<r2>,CRIS,ISOLDE,[200],2026-10-20
+29,70,41,g,Cu,0,0,0,1,δ<r2>,CRIS,ISOLDE,[200],2026-10-20
+29,71,42,g,Cu,0,0,0,1,δ<r2>,CRIS,ISOLDE,[200],2026-10-20
+29,72,43,g,Cu,0,0,0,1,δ<r2>,CRIS,ISOLDE,[200],2026-10-20
+29,73,44,g,Cu,0,0,0,1,δ<r2>,CRIS,ISOLDE,[200],2026-10-20
+29,74,45,g,Cu,0,0,0,1,δ<r2>,CRIS,ISOLDE,[200],2026-10-20
+29,75,46,g,Cu,0,0,0,1,δ<r2>,CRIS,ISOLDE,[200],2026-10-20
+29,76,47,g,Cu,0,0,0,1,δ<r2>,CRIS,ISOLDE,[200],2026-10-20
+29,77,48,g,Cu,0,0,0,1,δ<r2>,CRIS,ISOLDE,[200],2026-10-20
+29,78,49,g,Cu,0,0,0,1,δ<r2>,CRIS,ISOLDE,[200],2026-10-20
+29,68,39,m,Cu,0,0,0,1,δ<r2>,CRIS,ISOLDE,[200],2026-10-20
+29,70,41,m1,Cu,0,0,0,1,δ<r2>,CRIS,ISOLDE,[200],2026-10-20
+29,70,41,m2,Cu,0,0,0,1,δ<r2>,CRIS,ISOLDE,[200],2026-10-20
+30,79,49,g,Zn,1,1,0,1,"I, μI, δ<r2>",CS + cooler RFQ,ISOLDE,[155],2026-10-20
+30,63,33,g,Zn,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[167],2026-10-20
+30,65,35,g,Zn,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[167],2026-10-20
+30,67,37,g,Zn,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[167],2026-10-20
+30,69,39,g,Zn,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[167],2026-10-20
+30,71,41,g,Zn,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[167],2026-10-20
+30,73,43,g,Zn,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[167],2026-10-20
+30,75,45,g,Zn,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[167],2026-10-20
+30,77,47,g,Zn,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[167],2026-10-20
+30,79,49,g,Zn,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[167],2026-10-20
+30,69,39,m,Zn,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[167],2026-10-20
+30,71,41,m,Zn,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[167],2026-10-20
+30,73,43,m,Zn,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[167],2026-10-20
+30,75,45,m,Zn,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[167],2026-10-20
+30,77,47,m,Zn,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[167],2026-10-20
+30,79,49,m,Zn,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[167],2026-10-20
+30,73,43,m,Zn,1,0,0,0,I,CS + cooler RFQ,ISOLDE,[178],2026-10-20
+30,62,32,g,Zn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[192],2026-10-20
+30,63,33,g,Zn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[192],2026-10-20
+30,64,34,g,Zn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[192],2026-10-20
+30,65,35,g,Zn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[192],2026-10-20
+30,66,36,g,Zn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[192],2026-10-20
+30,67,37,g,Zn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[192],2026-10-20
+30,68,38,g,Zn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[192],2026-10-20
+30,69,39,g,Zn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[192],2026-10-20
+30,70,40,g,Zn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[192],2026-10-20
+30,71,41,g,Zn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[192],2026-10-20
+30,72,42,g,Zn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[192],2026-10-20
+30,73,43,g,Zn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[192],2026-10-20
+30,74,44,g,Zn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[192],2026-10-20
+30,75,45,g,Zn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[192],2026-10-20
+30,76,46,g,Zn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[192],2026-10-20
+30,77,47,g,Zn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[192],2026-10-20
+30,78,48,g,Zn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[192],2026-10-20
+30,79,49,g,Zn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[192],2026-10-20
+30,80,50,g,Zn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[192],2026-10-20
+30,69,39,m,Zn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[192],2026-10-20
+30,71,41,m,Zn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[192],2026-10-20
+30,73,43,m,Zn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[192],2026-10-20
+30,75,45,m,Zn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[192],2026-10-20
+30,77,47,m,Zn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[192],2026-10-20
+30,79,49,m,Zn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[192],2026-10-20
+31,67,36,g,Ga,1,1,1,0,"I, μI, Qs",IS-RIS,ISOLDE,[97],2026-10-20
+31,69,38,g,Ga,1,1,1,0,"I, μI, Qs",IS-RIS,ISOLDE,[97],2026-10-20
+31,71,40,g,Ga,1,1,1,0,"I, μI, Qs",IS-RIS,ISOLDE,[97],2026-10-20
+31,73,42,g,Ga,1,1,1,0,"I, μI, Qs",IS-RIS,ISOLDE,[97],2026-10-20
+31,75,44,g,Ga,1,1,1,0,"I, μI, Qs",IS-RIS,ISOLDE,[97],2026-10-20
+31,77,46,g,Ga,1,1,1,0,"I, μI, Qs",IS-RIS,ISOLDE,[97],2026-10-20
+31,79,48,g,Ga,1,1,1,0,"I, μI, Qs",IS-RIS,ISOLDE,[97],2026-10-20
+31,81,50,g,Ga,1,1,1,0,"I, μI, Qs",IS-RIS,ISOLDE,[97],2026-10-20
+31,80,49,m,Ga,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[107],2026-10-20
+31,72,41,g,Ga,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[115],2026-10-20
+31,74,43,g,Ga,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[115],2026-10-20
+31,76,45,g,Ga,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[115],2026-10-20
+31,78,47,g,Ga,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[115],2026-10-20
+31,63,32,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[123],2026-10-20
+31,64,33,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[123],2026-10-20
+31,66,35,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[123],2026-10-20
+31,68,37,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[123],2026-10-20
+31,69,38,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[123],2026-10-20
+31,70,39,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[123],2026-10-20
+31,71,40,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[123],2026-10-20
+31,72,41,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[123],2026-10-20
+31,73,42,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[123],2026-10-20
+31,74,43,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[123],2026-10-20
+31,75,44,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[123],2026-10-20
+31,76,45,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[123],2026-10-20
+31,77,46,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[123],2026-10-20
+31,78,47,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[123],2026-10-20
+31,79,48,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[123],2026-10-20
+31,80,49,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[123],2026-10-20
+31,81,50,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[123],2026-10-20
+31,82,51,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[123],2026-10-20
+31,80,49,m,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[123],2026-10-20
+31,82,51,g,Ga,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[124],2026-10-20
+31,65,34,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CRIS,ISOLDE,[172],2026-10-20
+31,67,36,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CRIS,ISOLDE,[172],2026-10-20
+31,69,38,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CRIS,ISOLDE,[172],2026-10-20
+31,75,44,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CRIS,ISOLDE,[172],2026-10-20
+31,79,48,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CRIS,ISOLDE,[172],2026-10-20
+31,80,49,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CRIS,ISOLDE,[172],2026-10-20
+31,81,50,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CRIS,ISOLDE,[172],2026-10-20
+31,82,51,g,Ga,1,1,1,1,"I, μI, Qs, δ<r2>",CRIS,ISOLDE,[172],2026-10-20
+32,69,37,g,Ge,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[205],2026-10-20
+32,71,39,g,Ge,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[205],2026-10-20
+32,73,41,g,Ge,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[205],2026-10-20
+32,68,36,g,Ge,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[243],2026-10-20
+32,69,37,g,Ge,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[243],2026-10-20
+32,70,38,g,Ge,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[243],2026-10-20
+32,71,39,g,Ge,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[243],2026-10-20
+32,72,40,g,Ge,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[243],2026-10-20
+32,73,41,g,Ge,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[243],2026-10-20
+32,74,42,g,Ge,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[243],2026-10-20
+36,88,52,g,Kr,0,0,0,1,δ<r2>,CS,TRISTAN,[17],2026-10-20
+36,90,54,g,Kr,0,0,0,1,δ<r2>,CS,TRISTAN,[17],2026-10-20
+36,72,36,g,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,74,38,g,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,75,39,g,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,76,40,g,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,77,41,g,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,78,42,g,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,79,43,g,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,80,44,g,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,81,45,g,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,82,46,g,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,83,47,g,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,84,48,g,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,85,49,g,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,86,50,g,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,87,51,g,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,88,52,g,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,89,53,g,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,90,54,g,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,91,55,g,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,92,56,g,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,93,57,g,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,94,58,g,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,95,59,g,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,96,60,g,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,79,43,m,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,81,45,m,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,83,47,m,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,85,49,m,Kr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[18],2026-10-20
+36,72,36,g,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,74,38,g,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,75,39,g,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,76,40,g,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,77,41,g,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,78,42,g,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,79,43,g,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,80,44,g,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,81,45,g,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,82,46,g,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,83,47,g,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,84,48,g,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,85,49,g,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,86,50,g,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,87,51,g,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,88,52,g,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,89,53,g,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,90,54,g,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,91,55,g,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,92,56,g,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,93,57,g,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,94,58,g,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,95,59,g,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,96,60,g,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,79,43,m,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,81,45,m,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,83,47,m,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+36,85,49,m,Kr,0,0,0,1,δ<r2>,CS + SSCI,ISOLDE,[19],2026-10-20
+37,76,39,g,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,77,40,g,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,78,41,g,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,79,42,g,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,80,43,g,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,81,44,g,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,82,45,g,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,83,46,g,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,84,47,g,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,85,48,g,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,86,49,g,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,87,50,g,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,88,51,g,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,89,52,g,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,90,53,g,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,91,54,g,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,92,55,g,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,93,56,g,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,94,57,g,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,95,58,g,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,96,59,g,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,97,60,g,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,98,61,g,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,78,41,m,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,81,44,m,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,82,45,m,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,84,47,m,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,86,49,m,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,90,53,m,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81],2026-10-20
+37,82,45,g,Rb,0,0,0,0,hfs,neutral atom trap,Los Alamos,[20],2026-10-20
+37,74,37,g,Rb,1,0,0,1,"δ<r2>, I",CS + cooler RFQ,TRIUMF,[121],2026-10-20
+37,75,38,g,Rb,1,0,0,1,"δ<r2>, I",CS + cooler RFQ,TRIUMF,[121],2026-10-20
+37,98,61,m1,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,TRIUMF,[141],2026-10-20
+37,98,61,m2,Rb,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,TRIUMF,[141],2026-10-20
+37,98,61,g,Rb,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,TRIUMF,[150],2026-10-20
+37,98,61,m,Rb,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,TRIUMF,[150],2026-10-20
+38,80,42,g,Sr,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, off-line","[Buc85, Ans86, Ans87]",2026-10-20
+38,81,43,g,Sr,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, off-line","[Buc85, Ans86, Ans87]",2026-10-20
+38,82,44,g,Sr,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, off-line","[Buc85, Ans86, Ans87]",2026-10-20
+38,83,45,g,Sr,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, off-line","[Buc85, Ans86, Ans87]",2026-10-20
+38,84,46,g,Sr,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, off-line","[Buc85, Ans86, Ans87]",2026-10-20
+38,85,47,g,Sr,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, off-line","[Buc85, Ans86, Ans87]",2026-10-20
+38,86,48,g,Sr,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, off-line","[Buc85, Ans86, Ans87]",2026-10-20
+38,87,49,g,Sr,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, off-line","[Buc85, Ans86, Ans87]",2026-10-20
+38,88,50,g,Sr,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, off-line","[Buc85, Ans86, Ans87]",2026-10-20
+38,89,51,g,Sr,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, off-line","[Buc85, Ans86, Ans87]",2026-10-20
+38,90,52,g,Sr,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, off-line","[Buc85, Ans86, Ans87]",2026-10-20
+38,85,47,m,Sr,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, off-line","[Buc85, Ans86, Ans87]",2026-10-20
+38,87,49,m,Sr,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, off-line","[Buc85, Ans86, Ans87]",2026-10-20
+38,78,40,g,Sr,0,0,0,1,δ<r2>,CS + PICO,Daresbury,[Eas87],2026-10-20
+38,79,41,g,Sr,0,0,0,1,δ<r2>,CS + PICO,Daresbury,[Eas87],2026-10-20
+38,80,42,g,Sr,0,0,0,1,δ<r2>,CS + PICO,Daresbury,[Eas87],2026-10-20
+38,81,43,g,Sr,0,0,0,1,δ<r2>,CS + PICO,Daresbury,[Eas87],2026-10-20
+38,82,44,g,Sr,0,0,0,1,δ<r2>,CS + PICO,Daresbury,[Eas87],2026-10-20
+38,83,45,g,Sr,0,0,0,1,δ<r2>,CS + PICO,Daresbury,[Eas87],2026-10-20
+38,84,46,g,Sr,0,0,0,1,δ<r2>,CS + PICO,Daresbury,[Eas87],2026-10-20
+38,92,54,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[Sil88],2026-10-20
+38,94,56,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[Sil88],2026-10-20
+38,96,58,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[Sil88],2026-10-20
+38,98,60,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[Sil88],2026-10-20
+38,100,62,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[Sil88],2026-10-20
+38,79,41,g,Sr,0,1,1,0,"μI, Qs",CS + SSN,ISOLDE,"[Buc87a, Buc87b]",2026-10-20
+38,81,43,g,Sr,0,1,1,0,"μI, Qs",CS + SSN,ISOLDE,"[Buc87a, Buc87b]",2026-10-20
+38,83,45,m,Sr,0,1,1,0,"μI, Qs",CS + SSN,ISOLDE,"[Buc87a, Buc87b]",2026-10-20
+38,87,49,m,Sr,0,1,1,0,"μI, Qs",CS + SSN,ISOLDE,"[Buc87a, Buc87b]",2026-10-20
+38,89,51,g,Sr,0,1,1,0,"μI, Qs",CS + SSN,ISOLDE,"[Buc87a, Buc87b]",2026-10-20
+38,91,53,g,Sr,0,1,1,0,"μI, Qs",CS + SSN,ISOLDE,"[Buc87a, Buc87b]",2026-10-20
+38,93,55,g,Sr,0,1,1,0,"μI, Qs",CS + SSN,ISOLDE,"[Buc87a, Buc87b]",2026-10-20
+38,95,57,g,Sr,0,1,1,0,"μI, Qs",CS + SSN,ISOLDE,"[Buc87a, Buc87b]",2026-10-20
+38,97,59,g,Sr,0,1,1,0,"μI, Qs",CS + SSN,ISOLDE,"[Buc87a, Buc87b]",2026-10-20
+38,78,40,g,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[21],2026-10-20
+38,79,41,g,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[21],2026-10-20
+38,80,42,g,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[21],2026-10-20
+38,81,43,g,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[21],2026-10-20
+38,82,44,g,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[21],2026-10-20
+38,83,45,g,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[21],2026-10-20
+38,84,46,g,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[21],2026-10-20
+38,85,47,g,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[21],2026-10-20
+38,86,48,g,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[21],2026-10-20
+38,87,49,g,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[21],2026-10-20
+38,88,50,g,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[21],2026-10-20
+38,89,51,g,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[21],2026-10-20
+38,90,52,g,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[21],2026-10-20
+38,91,53,g,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[21],2026-10-20
+38,92,54,g,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[21],2026-10-20
+38,93,55,g,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[21],2026-10-20
+38,94,56,g,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[21],2026-10-20
+38,95,57,g,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[21],2026-10-20
+38,96,58,g,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[21],2026-10-20
+38,97,59,g,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[21],2026-10-20
+38,98,60,g,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[21],2026-10-20
+38,100,62,g,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[21],2026-10-20
+38,83,45,m,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[21],2026-10-20
+38,85,47,m,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[21],2026-10-20
+38,87,49,m,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[21],2026-10-20
+38,99,61,g,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSN,ISOLDE,[22],2026-10-20
+38,77,39,g,Sr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSN,ISOLDE,[23],2026-10-20
+38,77,39,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[19],2026-10-20
+38,78,40,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[19],2026-10-20
+38,79,41,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[19],2026-10-20
+38,80,42,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[19],2026-10-20
+38,81,43,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[19],2026-10-20
+38,82,44,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[19],2026-10-20
+38,83,45,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[19],2026-10-20
+38,84,46,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[19],2026-10-20
+38,85,47,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[19],2026-10-20
+38,86,48,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[19],2026-10-20
+38,87,49,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[19],2026-10-20
+38,88,50,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[19],2026-10-20
+38,89,51,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[19],2026-10-20
+38,90,52,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[19],2026-10-20
+38,91,53,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[19],2026-10-20
+38,92,54,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[19],2026-10-20
+38,93,55,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[19],2026-10-20
+38,94,56,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[19],2026-10-20
+38,95,57,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[19],2026-10-20
+38,96,58,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[19],2026-10-20
+38,97,59,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[19],2026-10-20
+38,98,60,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[19],2026-10-20
+38,99,61,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[19],2026-10-20
+38,100,62,g,Sr,0,0,0,1,δ<r2>,CS + SSN,ISOLDE,[19],2026-10-20
+39,86,47,g,Y,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JYFL,[80],2026-10-20
+39,87,48,g,Y,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JYFL,[80],2026-10-20
+39,88,49,g,Y,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JYFL,[80],2026-10-20
+39,89,50,g,Y,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JYFL,[80],2026-10-20
+39,90,51,g,Y,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JYFL,[80],2026-10-20
+39,92,53,g,Y,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JYFL,[80],2026-10-20
+39,93,54,g,Y,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JYFL,[80],2026-10-20
+39,94,55,g,Y,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JYFL,[80],2026-10-20
+39,95,56,g,Y,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JYFL,[80],2026-10-20
+39,96,57,g,Y,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JYFL,[80],2026-10-20
+39,97,58,g,Y,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JYFL,[80],2026-10-20
+39,98,59,g,Y,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JYFL,[80],2026-10-20
+39,99,60,g,Y,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JYFL,[80],2026-10-20
+39,100,61,g,Y,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JYFL,[80],2026-10-20
+39,101,62,g,Y,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JYFL,[80],2026-10-20
+39,102,63,g,Y,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JYFL,[80],2026-10-20
+39,87,48,m,Y,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JYFL,[80],2026-10-20
+39,88,49,m,Y,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JYFL,[80],2026-10-20
+39,89,50,m,Y,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JYFL,[80],2026-10-20
+39,90,51,m,Y,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JYFL,[80],2026-10-20
+39,93,54,m,Y,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JYFL,[80],2026-10-20
+39,96,57,m,Y,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JYFL,[80],2026-10-20
+39,97,58,m,Y,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JYFL,[80],2026-10-20
+39,97,58,m2,Y,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JYFL,[80],2026-10-20
+39,98,59,m,Y,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JYFL,[80],2026-10-20
+39,100,61,m,Y,1,1,1,0,"I, μI, Qs",CS + cooler RFQ + SPOP,Jyväskylä,[110],2026-10-20
+39,97,58,m2,Y,0,0,0,1,δ<r2>,CS + cooler RFQ,Jyväskylä,[78],2026-10-20
+39,89,50,g,Y,0,0,0,1,δ<r2>,CS + cooler RFQ + SPOP,Jyväskylä,[177],2026-10-20
+39,96,57,g,Y,0,0,0,1,δ<r2>,CS + cooler RFQ + SPOP,Jyväskylä,[177],2026-10-20
+39,98,59,g,Y,0,0,0,1,δ<r2>,CS + cooler RFQ + SPOP,Jyväskylä,[177],2026-10-20
+40,96,56,g,Zr,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[24],2026-10-20
+40,97,57,g,Zr,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[24],2026-10-20
+40,98,58,g,Zr,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[24],2026-10-20
+40,99,59,g,Zr,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[24],2026-10-20
+40,100,60,g,Zr,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[24],2026-10-20
+40,101,61,g,Zr,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[24],2026-10-20
+40,102,62,g,Zr,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[24],2026-10-20
+40,87,47,g,Zr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,"[15, 25]",2026-10-20
+40,88,48,g,Zr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,"[15, 25]",2026-10-20
+40,89,49,g,Zr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,"[15, 25]",2026-10-20
+40,87,47,m,Zr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,"[15, 25]",2026-10-20
+40,89,49,m,Zr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,"[15, 25]",2026-10-20
+41,90,49,g,Nb,0,0,0,1,δ<r2>,OP,Jyväskylä,[98],2026-10-20
+41,91,50,g,Nb,0,0,0,1,δ<r2>,OP,Jyväskylä,[98],2026-10-20
+41,92,51,g,Nb,0,0,0,1,δ<r2>,OP,Jyväskylä,[98],2026-10-20
+41,93,52,g,Nb,0,0,0,1,δ<r2>,OP,Jyväskylä,[98],2026-10-20
+41,90,49,m,Nb,0,0,0,1,δ<r2>,OP,Jyväskylä,[98],2026-10-20
+41,91,50,m,Nb,0,0,0,1,δ<r2>,OP,Jyväskylä,[98],2026-10-20
+41,99,58,g,Nb,0,0,0,1,δ<r2>,OP,Jyväskylä,[98],2026-10-20
+41,101,60,g,Nb,0,0,0,1,δ<r2>,OP,Jyväskylä,[98],2026-10-20
+41,103,62,g,Nb,0,0,0,1,δ<r2>,OP,Jyväskylä,[98],2026-10-20
+42,90,48,g,Mo,0,1,0,1,"μI, δ<r2>",CS + cooler RFQ,Jyväskylä,[92],2026-10-20
+42,91,49,g,Mo,0,1,0,1,"μI, δ<r2>",CS + cooler RFQ,Jyväskylä,[92],2026-10-20
+42,102,60,g,Mo,0,1,0,1,"μI, δ<r2>",CS + cooler RFQ,Jyväskylä,[92],2026-10-20
+42,103,61,g,Mo,0,1,0,1,"μI, δ<r2>",CS + cooler RFQ,Jyväskylä,[92],2026-10-20
+42,104,62,g,Mo,0,1,0,1,"μI, δ<r2>",CS + cooler RFQ,Jyväskylä,[92],2026-10-20
+42,105,63,g,Mo,0,1,0,1,"μI, δ<r2>",CS + cooler RFQ,Jyväskylä,[92],2026-10-20
+42,106,64,g,Mo,0,1,0,1,"μI, δ<r2>",CS + cooler RFQ,Jyväskylä,[92],2026-10-20
+42,108,66,g,Mo,0,1,0,1,"μI, δ<r2>",CS + cooler RFQ,Jyväskylä,[92],2026-10-20
+43,97,54,g,Tc,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS + PI-LIST,"RISIKO, Mainz",[207],2026-10-20
+43,98,55,g,Tc,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS + PI-LIST,"RISIKO, Mainz",[207],2026-10-20
+44,106,62,g,Ru,0,0,0,1,δ<r2>,CS + cooler RFQ,CARIBU,[250],2026-10-20
+44,107,63,g,Ru,0,0,0,1,δ<r2>,CS + cooler RFQ,CARIBU,[250],2026-10-20
+44,108,64,g,Ru,0,0,0,1,δ<r2>,CS + cooler RFQ,CARIBU,[250],2026-10-20
+44,109,65,g,Ru,0,0,0,1,δ<r2>,CS + cooler RFQ,CARIBU,[250],2026-10-20
+44,110,66,g,Ru,0,0,0,1,δ<r2>,CS + cooler RFQ,CARIBU,[250],2026-10-20
+44,111,67,g,Ru,0,0,0,1,δ<r2>,CS + cooler RFQ,CARIBU,[250],2026-10-20
+44,112,68,g,Ru,0,0,0,1,δ<r2>,CS + cooler RFQ,CARIBU,[250],2026-10-20
+44,113,69,g,Ru,0,0,0,1,δ<r2>,CS + cooler RFQ,CARIBU,[250],2026-10-20
+44,114,70,g,Ru,0,0,0,1,δ<r2>,CS + cooler RFQ,CARIBU,[250],2026-10-20
+46,98,52,g,Pd,0,0,0,1,δ<r2>,CS + cooler RFQ,Jyväskylä,[231],2026-10-20
+46,99,53,g,Pd,0,0,0,1,δ<r2>,CS + cooler RFQ,Jyväskylä,[231],2026-10-20
+46,100,54,g,Pd,0,0,0,1,δ<r2>,CS + cooler RFQ,Jyväskylä,[231],2026-10-20
+46,101,55,g,Pd,0,0,0,1,δ<r2>,CS + cooler RFQ,Jyväskylä,[231],2026-10-20
+46,102,56,g,Pd,0,0,0,1,δ<r2>,CS + cooler RFQ,Jyväskylä,[231],2026-10-20
+46,104,58,g,Pd,0,0,0,1,δ<r2>,CS + cooler RFQ,Jyväskylä,[231],2026-10-20
+46,105,59,g,Pd,0,0,0,1,δ<r2>,CS + cooler RFQ,Jyväskylä,[231],2026-10-20
+46,106,60,g,Pd,0,0,0,1,δ<r2>,CS + cooler RFQ,Jyväskylä,[231],2026-10-20
+46,108,62,g,Pd,0,0,0,1,δ<r2>,CS + cooler RFQ,Jyväskylä,[231],2026-10-20
+46,110,64,g,Pd,0,0,0,1,δ<r2>,CS + cooler RFQ,Jyväskylä,[231],2026-10-20
+46,112,66,g,Pd,0,0,0,1,δ<r2>,CS + cooler RFQ,Jyväskylä,[231],2026-10-20
+46,114,68,g,Pd,0,0,0,1,δ<r2>,CS + cooler RFQ,Jyväskylä,[231],2026-10-20
+46,116,70,g,Pd,0,0,0,1,δ<r2>,CS + cooler RFQ,Jyväskylä,[231],2026-10-20
+46,118,72,g,Pd,0,0,0,1,δ<r2>,CS + cooler RFQ,Jyväskylä,[231],2026-10-20
+47,101,54,g,Ag,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[26],2026-10-20
+47,103,56,g,Ag,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[26],2026-10-20
+47,104,57,g,Ag,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[26],2026-10-20
+47,105,58,g,Ag,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[26],2026-10-20
+47,105,58,m,Ag,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[26],2026-10-20
+47,106,59,m,Ag,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[26],2026-10-20
+47,107,60,g,Ag,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[26],2026-10-20
+47,109,62,g,Ag,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[26],2026-10-20
+47,97,50,g,Ag,1,1,0,1,"I, μI, δ<r2>",IGLIS,LISOL,[131],2026-10-20
+47,98,51,g,Ag,1,1,0,1,"I, μI, δ<r2>",IGLIS,LISOL,[131],2026-10-20
+47,99,52,g,Ag,1,1,0,1,"I, μI, δ<r2>",IGLIS,LISOL,[131],2026-10-20
+47,100,53,g,Ag,1,1,0,1,"I, μI, δ<r2>",IGLIS,LISOL,[131],2026-10-20
+47,101,54,g,Ag,1,1,0,1,"I, μI, δ<r2>",IGLIS,LISOL,[131],2026-10-20
+47,96,49,g,Ag,0,0,0,1,δ<r2>,"CS, IS-RIS + PI-ICR",Jyväskylä,[216],2026-10-20
+47,97,50,g,Ag,0,0,0,1,δ<r2>,"CS, IS-RIS + PI-ICR",Jyväskylä,[216],2026-10-20
+47,98,51,g,Ag,0,0,0,1,δ<r2>,"CS, IS-RIS + PI-ICR",Jyväskylä,[216],2026-10-20
+47,99,52,g,Ag,0,0,0,1,δ<r2>,"CS, IS-RIS + PI-ICR",Jyväskylä,[216],2026-10-20
+47,100,53,g,Ag,0,0,0,1,δ<r2>,"CS, IS-RIS + PI-ICR",Jyväskylä,[216],2026-10-20
+47,101,54,g,Ag,0,0,0,1,δ<r2>,"CS, IS-RIS + PI-ICR",Jyväskylä,[216],2026-10-20
+47,102,55,g,Ag,0,0,0,1,δ<r2>,"CS, IS-RIS + PI-ICR",Jyväskylä,[216],2026-10-20
+47,103,56,g,Ag,0,0,0,1,δ<r2>,"CS, IS-RIS + PI-ICR",Jyväskylä,[216],2026-10-20
+47,104,57,g,Ag,0,0,0,1,δ<r2>,"CS, IS-RIS + PI-ICR",Jyväskylä,[216],2026-10-20
+47,107,60,g,Ag,0,0,0,1,δ<r2>,"CS, IS-RIS + PI-ICR",Jyväskylä,[216],2026-10-20
+47,109,62,g,Ag,0,0,0,1,δ<r2>,"CS, IS-RIS + PI-ICR",Jyväskylä,[216],2026-10-20
+47,114,67,g,Ag,0,0,0,1,δ<r2>,"CS, IS-RIS + PI-ICR",Jyväskylä,[216],2026-10-20
+47,115,68,g,Ag,0,0,0,1,δ<r2>,"CS, IS-RIS + PI-ICR",Jyväskylä,[216],2026-10-20
+47,116,69,g,Ag,0,0,0,1,δ<r2>,"CS, IS-RIS + PI-ICR",Jyväskylä,[216],2026-10-20
+47,117,70,g,Ag,0,0,0,1,δ<r2>,"CS, IS-RIS + PI-ICR",Jyväskylä,[216],2026-10-20
+47,118,71,g,Ag,0,0,0,1,δ<r2>,"CS, IS-RIS + PI-ICR",Jyväskylä,[216],2026-10-20
+47,119,72,g,Ag,0,0,0,1,δ<r2>,"CS, IS-RIS + PI-ICR",Jyväskylä,[216],2026-10-20
+47,120,73,g,Ag,0,0,0,1,δ<r2>,"CS, IS-RIS + PI-ICR",Jyväskylä,[216],2026-10-20
+47,121,74,g,Ag,0,0,0,1,δ<r2>,"CS, IS-RIS + PI-ICR",Jyväskylä,[216],2026-10-20
+47,99,52,m,Ag,0,0,0,1,δ<r2>,"CS, IS-RIS + PI-ICR",Jyväskylä,[216],2026-10-20
+47,107,60,g,Ag,0,1,1,0,"μI, Qs","CS, IS-RIS + PI-ICR",Jyväskylä,[240],2026-10-20
+47,109,62,g,Ag,0,1,1,0,"μI, Qs","CS, IS-RIS + PI-ICR",Jyväskylä,[240],2026-10-20
+47,113,66,g,Ag,0,1,1,0,"μI, Qs","CS, IS-RIS + PI-ICR",Jyväskylä,[240],2026-10-20
+47,113,66,m,Ag,0,1,1,0,"μI, Qs","CS, IS-RIS + PI-ICR",Jyväskylä,[240],2026-10-20
+47,115,68,g,Ag,0,1,1,0,"μI, Qs","CS, IS-RIS + PI-ICR",Jyväskylä,[240],2026-10-20
+47,115,68,m,Ag,0,1,1,0,"μI, Qs","CS, IS-RIS + PI-ICR",Jyväskylä,[240],2026-10-20
+47,117,70,g,Ag,0,1,1,0,"μI, Qs","CS, IS-RIS + PI-ICR",Jyväskylä,[240],2026-10-20
+47,119,72,g,Ag,0,1,1,0,"μI, Qs","CS, IS-RIS + PI-ICR",Jyväskylä,[240],2026-10-20
+47,121,74,g,Ag,0,1,1,0,"μI, Qs","CS, IS-RIS + PI-ICR",Jyväskylä,[240],2026-10-20
+47,123,76,g,Ag,0,1,1,0,"μI, Qs","CS, IS-RIS + PI-ICR",Jyväskylä,[240],2026-10-20
+47,117,70,m,Ag,0,1,1,0,"μI, Qs","CS, IS-RIS + PI-ICR",Jyväskylä,[240],2026-10-20
+47,119,72,m,Ag,0,1,1,0,"μI, Qs","CS, IS-RIS + PI-ICR",Jyväskylä,[240],2026-10-20
+47,121,74,m,Ag,0,1,1,0,"μI, Qs","CS, IS-RIS + PI-ICR",Jyväskylä,[240],2026-10-20
+47,123,76,m,Ag,0,1,1,0,"μI, Qs","CS, IS-RIS + PI-ICR",Jyväskylä,[240],2026-10-20
+47,114,67,g,Ag,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[257],2026-10-20
+47,116,69,g,Ag,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[257],2026-10-20
+47,116,69,m1,Ag,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[257],2026-10-20
+47,116,69,m2,Ag,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[257],2026-10-20
+47,118,71,g,Ag,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[257],2026-10-20
+47,118,71,m1,Ag,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[257],2026-10-20
+47,118,71,m2,Ag,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[257],2026-10-20
+47,120,73,g,Ag,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[257],2026-10-20
+47,120,73,m1,Ag,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[257],2026-10-20
+47,120,73,m2,Ag,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[257],2026-10-20
+48,102,54,g,Cd,1,1,1,1,"I, μI, Qs, δ<r2>",GCS,ISOLDE,[Buc87c],2026-10-20
+48,103,55,g,Cd,1,1,1,1,"I, μI, Qs, δ<r2>",GCS,ISOLDE,[Buc87c],2026-10-20
+48,104,56,g,Cd,1,1,1,1,"I, μI, Qs, δ<r2>",GCS,ISOLDE,[Buc87c],2026-10-20
+48,105,57,g,Cd,1,1,1,1,"I, μI, Qs, δ<r2>",GCS,ISOLDE,[Buc87c],2026-10-20
+48,106,58,g,Cd,1,1,1,1,"I, μI, Qs, δ<r2>",GCS,ISOLDE,[Buc87c],2026-10-20
+48,107,59,g,Cd,1,1,1,1,"I, μI, Qs, δ<r2>",GCS,ISOLDE,[Buc87c],2026-10-20
+48,108,60,g,Cd,1,1,1,1,"I, μI, Qs, δ<r2>",GCS,ISOLDE,[Buc87c],2026-10-20
+48,109,61,g,Cd,1,1,1,1,"I, μI, Qs, δ<r2>",GCS,ISOLDE,[Buc87c],2026-10-20
+48,110,62,g,Cd,1,1,1,1,"I, μI, Qs, δ<r2>",GCS,ISOLDE,[Buc87c],2026-10-20
+48,111,63,g,Cd,1,1,1,1,"I, μI, Qs, δ<r2>",GCS,ISOLDE,[Buc87c],2026-10-20
+48,112,64,g,Cd,1,1,1,1,"I, μI, Qs, δ<r2>",GCS,ISOLDE,[Buc87c],2026-10-20
+48,113,65,g,Cd,1,1,1,1,"I, μI, Qs, δ<r2>",GCS,ISOLDE,[Buc87c],2026-10-20
+48,114,66,g,Cd,1,1,1,1,"I, μI, Qs, δ<r2>",GCS,ISOLDE,[Buc87c],2026-10-20
+48,115,67,g,Cd,1,1,1,1,"I, μI, Qs, δ<r2>",GCS,ISOLDE,[Buc87c],2026-10-20
+48,116,68,g,Cd,1,1,1,1,"I, μI, Qs, δ<r2>",GCS,ISOLDE,[Buc87c],2026-10-20
+48,118,70,g,Cd,1,1,1,1,"I, μI, Qs, δ<r2>",GCS,ISOLDE,[Buc87c],2026-10-20
+48,120,72,g,Cd,1,1,1,1,"I, μI, Qs, δ<r2>",GCS,ISOLDE,[Buc87c],2026-10-20
+48,111,63,m,Cd,1,1,1,1,"I, μI, Qs, δ<r2>",GCS,ISOLDE,[Buc87c],2026-10-20
+48,113,65,m,Cd,1,1,1,1,"I, μI, Qs, δ<r2>",GCS,ISOLDE,[Buc87c],2026-10-20
+48,115,67,m,Cd,1,1,1,1,"I, μI, Qs, δ<r2>",GCS,ISOLDE,[Buc87c],2026-10-20
+48,107,59,g,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[128],2026-10-20
+48,109,61,g,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[128],2026-10-20
+48,111,63,g,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[128],2026-10-20
+48,113,65,g,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[128],2026-10-20
+48,115,67,g,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[128],2026-10-20
+48,117,69,g,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[128],2026-10-20
+48,119,71,g,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[128],2026-10-20
+48,121,73,g,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[128],2026-10-20
+48,123,75,g,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[128],2026-10-20
+48,125,77,g,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[128],2026-10-20
+48,127,79,g,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[128],2026-10-20
+48,129,81,g,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[128],2026-10-20
+48,111,63,m,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[128],2026-10-20
+48,113,65,m,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[128],2026-10-20
+48,115,67,m,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[128],2026-10-20
+48,117,69,m,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[128],2026-10-20
+48,119,71,m,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[128],2026-10-20
+48,121,73,m,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[128],2026-10-20
+48,123,75,m,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[128],2026-10-20
+48,125,77,m,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[128],2026-10-20
+48,127,79,m,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[128],2026-10-20
+48,129,81,m,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[128],2026-10-20
+48,107,59,g,Cd,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[143],2026-10-20
+48,109,61,g,Cd,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[143],2026-10-20
+48,111,63,g,Cd,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[143],2026-10-20
+48,113,65,g,Cd,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[143],2026-10-20
+48,115,67,g,Cd,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[143],2026-10-20
+48,117,69,g,Cd,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[143],2026-10-20
+48,119,71,g,Cd,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[143],2026-10-20
+48,121,73,g,Cd,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[143],2026-10-20
+48,123,75,g,Cd,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[143],2026-10-20
+48,125,77,g,Cd,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[143],2026-10-20
+48,111,63,m,Cd,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[143],2026-10-20
+48,113,65,m,Cd,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[143],2026-10-20
+48,115,67,m,Cd,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[143],2026-10-20
+48,117,69,m,Cd,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[143],2026-10-20
+48,119,71,m,Cd,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[143],2026-10-20
+48,121,73,m,Cd,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[143],2026-10-20
+48,123,75,m,Cd,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[143],2026-10-20
+48,125,77,m,Cd,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[143],2026-10-20
+48,111,63,m,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[162],2026-10-20
+48,112,64,m,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[162],2026-10-20
+48,113,65,m,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[162],2026-10-20
+48,114,66,m,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[162],2026-10-20
+48,115,67,m,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[162],2026-10-20
+48,116,68,m,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[162],2026-10-20
+48,117,69,m,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[162],2026-10-20
+48,118,70,m,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[162],2026-10-20
+48,119,71,m,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[162],2026-10-20
+48,120,72,m,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[162],2026-10-20
+48,121,73,m,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[162],2026-10-20
+48,122,74,m,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[162],2026-10-20
+48,123,75,m,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[162],2026-10-20
+48,124,76,m,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[162],2026-10-20
+48,125,77,m,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[162],2026-10-20
+48,126,78,m,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[162],2026-10-20
+48,127,79,m,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[162],2026-10-20
+48,128,80,m,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[162],2026-10-20
+48,129,81,m,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[162],2026-10-20
+48,101,53,g,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[181],2026-10-20
+48,103,55,g,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[181],2026-10-20
+48,105,57,g,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[181],2026-10-20
+48,107,59,g,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[181],2026-10-20
+48,109,61,g,Cd,1,1,1,0,"I, μI, Qs",CS + cooler RFQ,ISOLDE,[181],2026-10-20
+48,100,52,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,101,53,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,102,54,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,103,55,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,104,56,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,105,57,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,106,58,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,107,59,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,108,60,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,109,61,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,110,62,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,111,63,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,112,64,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,113,65,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,114,66,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,115,67,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,116,68,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,117,69,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,118,70,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,119,71,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,120,72,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,121,73,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,122,74,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,123,75,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,124,76,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,125,77,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,126,78,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,127,79,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,128,80,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,129,81,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+48,130,82,g,Cd,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[183],2026-10-20
+49,107,58,g,In,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Ulm85],2026-10-20
+49,108,59,g,In,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Ulm85],2026-10-20
+49,109,60,g,In,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Ulm85],2026-10-20
+49,110,61,m,In,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Ulm85],2026-10-20
+49,111,62,g,In,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Ulm85],2026-10-20
+49,105,56,g,In,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Loc85],2026-10-20
+49,106,57,g,In,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Loc85],2026-10-20
+49,108,59,g,In,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Ebe86],2026-10-20
+49,108,59,m,In,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Ebe86],2026-10-20
+49,104,55,g,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,112,63,g,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,112,63,m,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,114,65,g,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,115,66,m,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,116,67,g,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,117,68,g,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,118,69,g,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,119,70,g,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,120,71,g,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,121,72,g,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,122,73,g,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,123,74,g,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,124,75,g,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,125,76,g,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,126,77,g,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,116,67,m,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,117,68,m,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,118,69,m,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,119,70,m,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,120,71,m,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,121,72,m,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,122,73,m,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,123,74,m,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,124,75,m,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,125,76,m,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,126,77,m,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,127,78,g,In,1,1,1,1,"I, μI, Qs, δ<r2>",CS,GSI,[Ebe87b],2026-10-20
+49,104,55,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,105,56,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,106,57,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,107,58,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,108,59,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,109,60,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,110,61,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,111,62,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,112,63,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,113,64,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,114,65,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,115,66,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,116,67,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,117,68,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,118,69,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,119,70,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,120,71,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,121,72,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,122,73,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,123,74,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,124,75,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,125,76,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,126,77,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,127,78,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,108,59,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,115,66,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,116,67,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,117,68,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,118,69,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,119,70,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,120,71,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,121,72,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,122,73,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,123,74,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,124,75,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,125,76,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,126,77,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[196],2026-10-20
+49,101,52,g,In,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[246],2026-10-20
+49,103,54,g,In,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[246],2026-10-20
+49,105,56,g,In,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[246],2026-10-20
+49,107,58,g,In,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[246],2026-10-20
+49,109,60,g,In,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[246],2026-10-20
+49,111,62,g,In,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[246],2026-10-20
+49,113,64,g,In,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[246],2026-10-20
+49,115,66,g,In,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[246],2026-10-20
+49,117,68,g,In,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[246],2026-10-20
+49,119,70,g,In,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[246],2026-10-20
+49,121,72,g,In,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[246],2026-10-20
+49,123,74,g,In,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[246],2026-10-20
+49,125,76,g,In,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[246],2026-10-20
+49,127,78,g,In,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[246],2026-10-20
+49,129,80,g,In,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[246],2026-10-20
+49,131,82,g,In,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[246],2026-10-20
+49,101,52,m,In,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[246],2026-10-20
+49,103,54,m,In,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[246],2026-10-20
+49,105,56,m,In,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[246],2026-10-20
+49,107,58,m,In,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[246],2026-10-20
+49,109,60,m,In,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[246],2026-10-20
+49,111,62,m,In,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[246],2026-10-20
+49,113,64,m,In,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[246],2026-10-20
+49,115,66,m,In,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[246],2026-10-20
+49,113,64,g,In,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[247],2026-10-20
+49,113,64,m,In,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[247],2026-10-20
+49,115,66,g,In,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[247],2026-10-20
+49,115,66,m,In,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[247],2026-10-20
+49,117,68,g,In,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[247],2026-10-20
+49,119,70,g,In,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[247],2026-10-20
+49,121,72,g,In,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[247],2026-10-20
+49,123,74,g,In,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[247],2026-10-20
+49,125,76,g,In,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[247],2026-10-20
+49,127,78,g,In,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[247],2026-10-20
+49,129,80,g,In,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[247],2026-10-20
+49,131,82,g,In,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[247],2026-10-20
+49,117,68,m,In,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[247],2026-10-20
+49,119,70,m,In,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[247],2026-10-20
+49,121,72,m,In,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[247],2026-10-20
+49,123,74,m,In,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[247],2026-10-20
+49,125,76,m,In,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[247],2026-10-20
+49,127,78,m,In,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[247],2026-10-20
+49,129,80,m,In,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[247],2026-10-20
+49,131,82,m,In,0,1,1,0,"μI, Qs",CRIS,ISOLDE,[247],2026-10-20
+49,127,78,m,In,0,0,1,1,"Qs, δ<r2>",CRIS,ISOLDE,[253],2026-10-20
+49,129,80,m,In,0,0,1,1,"Qs, δ<r2>",CRIS,ISOLDE,[253],2026-10-20
+49,102,53,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[255],2026-10-20
+49,114,65,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[255],2026-10-20
+49,116,67,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[255],2026-10-20
+49,118,69,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[255],2026-10-20
+49,120,71,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[255],2026-10-20
+49,122,73,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[255],2026-10-20
+49,128,79,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[255],2026-10-20
+49,130,81,g,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[255],2026-10-20
+49,101,52,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[255],2026-10-20
+49,103,54,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[255],2026-10-20
+49,104,55,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[255],2026-10-20
+49,105,56,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[255],2026-10-20
+49,106,57,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[255],2026-10-20
+49,107,58,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[255],2026-10-20
+49,109,60,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[255],2026-10-20
+49,110,61,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[255],2026-10-20
+49,111,62,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[255],2026-10-20
+49,127,78,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[255],2026-10-20
+49,128,79,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[255],2026-10-20
+49,129,80,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[255],2026-10-20
+49,130,81,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[255],2026-10-20
+49,131,82,m,In,0,0,0,1,δ<r2>,CRIS,ISOLDE,[255],2026-10-20
+50,110,60,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Ans86b],2026-10-20
+50,111,61,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Ans86b],2026-10-20
+50,112,62,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Ans86b],2026-10-20
+50,113,63,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Ans86b],2026-10-20
+50,114,64,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Ans86b],2026-10-20
+50,115,65,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Ans86b],2026-10-20
+50,116,66,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Ans86b],2026-10-20
+50,117,67,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Ans86b],2026-10-20
+50,118,68,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Ans86b],2026-10-20
+50,119,69,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Ans86b],2026-10-20
+50,120,70,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Ans86b],2026-10-20
+50,121,71,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Ans86b],2026-10-20
+50,117,67,m,Sn,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Ans86b],2026-10-20
+50,121,71,m,Sn,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Ans86b],2026-10-20
+50,108,58,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Ebe87],2026-10-20
+50,109,59,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Ebe87],2026-10-20
+50,110,60,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Ebe87],2026-10-20
+50,111,61,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Ebe87],2026-10-20
+50,112,62,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Ebe87],2026-10-20
+50,114,64,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Ebe87],2026-10-20
+50,115,65,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Ebe87],2026-10-20
+50,116,66,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Ebe87],2026-10-20
+50,117,67,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Ebe87],2026-10-20
+50,118,68,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Ebe87],2026-10-20
+50,119,69,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Ebe87],2026-10-20
+50,120,70,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Ebe87],2026-10-20
+50,122,72,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Ebe87],2026-10-20
+50,124,74,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Ebe87],2026-10-20
+50,126,76,g,Sn,0,0,0,1,δ<r2>,COMPLIS,ISOLDE,[27],2026-10-20
+50,127,77,g,Sn,0,0,0,1,δ<r2>,COMPLIS,ISOLDE,[27],2026-10-20
+50,128,78,g,Sn,0,0,0,1,δ<r2>,COMPLIS,ISOLDE,[27],2026-10-20
+50,129,79,g,Sn,0,0,0,1,δ<r2>,COMPLIS,ISOLDE,[27],2026-10-20
+50,130,80,g,Sn,0,0,0,1,δ<r2>,COMPLIS,ISOLDE,[27],2026-10-20
+50,131,81,g,Sn,0,0,0,1,δ<r2>,COMPLIS,ISOLDE,[27],2026-10-20
+50,132,82,g,Sn,0,0,0,1,δ<r2>,COMPLIS,ISOLDE,[27],2026-10-20
+50,125,75,m,Sn,0,0,0,1,δ<r2>,COMPLIS,ISOLDE,[27],2026-10-20
+50,127,77,m,Sn,0,0,0,1,δ<r2>,COMPLIS,ISOLDE,[27],2026-10-20
+50,129,79,m,Sn,0,0,0,1,δ<r2>,COMPLIS,ISOLDE,[27],2026-10-20
+50,130,80,m,Sn,0,0,0,1,δ<r2>,COMPLIS,ISOLDE,[27],2026-10-20
+50,131,81,m,Sn,0,0,0,1,δ<r2>,COMPLIS,ISOLDE,[27],2026-10-20
+50,126,76,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[83],2026-10-20
+50,127,77,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[83],2026-10-20
+50,128,78,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[83],2026-10-20
+50,129,79,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[83],2026-10-20
+50,130,80,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[83],2026-10-20
+50,131,81,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[83],2026-10-20
+50,132,82,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[83],2026-10-20
+50,125,75,m,Sn,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[83],2026-10-20
+50,127,77,m,Sn,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[83],2026-10-20
+50,129,79,m,Sn,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[83],2026-10-20
+50,130,80,m,Sn,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[83],2026-10-20
+50,131,81,m,Sn,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[83],2026-10-20
+50,108,58,g,Sn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[189],2026-10-20
+50,110,60,g,Sn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[189],2026-10-20
+50,112,62,g,Sn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[189],2026-10-20
+50,114,64,g,Sn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[189],2026-10-20
+50,116,66,g,Sn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[189],2026-10-20
+50,118,68,g,Sn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[189],2026-10-20
+50,120,70,g,Sn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[189],2026-10-20
+50,122,72,g,Sn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[189],2026-10-20
+50,124,74,g,Sn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[189],2026-10-20
+50,126,76,g,Sn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[189],2026-10-20
+50,128,78,g,Sn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[189],2026-10-20
+50,130,80,g,Sn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[189],2026-10-20
+50,132,82,g,Sn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[189],2026-10-20
+50,134,84,g,Sn,0,0,0,1,δ<r2>,CS + cooler RFQ,ISOLDE,[189],2026-10-20
+50,109,59,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[202],2026-10-20
+50,115,65,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[202],2026-10-20
+50,117,67,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[202],2026-10-20
+50,119,69,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[202],2026-10-20
+50,121,71,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[202],2026-10-20
+50,123,73,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[202],2026-10-20
+50,125,75,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[202],2026-10-20
+50,127,77,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[202],2026-10-20
+50,129,79,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[202],2026-10-20
+50,131,81,g,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[202],2026-10-20
+50,117,67,m,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[202],2026-10-20
+50,119,69,m,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[202],2026-10-20
+50,121,71,m,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[202],2026-10-20
+50,123,73,m,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[202],2026-10-20
+50,125,75,m,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[202],2026-10-20
+50,127,77,m,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[202],2026-10-20
+50,129,79,m,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[202],2026-10-20
+50,131,81,m,Sn,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,ISOLDE,[202],2026-10-20
+50,133,83,g,Sn,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[204],2026-10-20
+50,104,54,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,105,55,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,106,56,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,107,57,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,108,58,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,109,59,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,110,60,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,111,61,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,112,62,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,113,63,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,114,64,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,115,65,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,116,66,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,117,67,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,118,68,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,119,69,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,120,70,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,121,71,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,122,72,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,123,73,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,124,74,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,125,75,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,126,76,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,127,77,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,128,78,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,129,79,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,130,80,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,131,81,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,132,82,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,133,83,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+50,134,84,g,Sn,0,0,0,1,δ<r2>,"CS + cooler RFQ, CRIS",ISOLDE,[258],2026-10-20
+51,133,82,g,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[217],2026-10-20
+51,134,83,m,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[217],2026-10-20
+51,113,62,g,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+51,115,64,g,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+51,116,65,g,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+51,117,66,g,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+51,118,67,g,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+51,119,68,g,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+51,120,69,g,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+51,121,70,g,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+51,122,71,g,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+51,123,72,g,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+51,124,73,g,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+51,125,74,g,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+51,126,75,g,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+51,127,76,g,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+51,128,77,g,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+51,129,78,g,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+51,130,79,g,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+51,131,80,g,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+51,132,81,g,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+51,133,82,g,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+51,116,65,m,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+51,118,67,m,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+51,120,69,m,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+51,122,71,m,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+51,124,73,m,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+51,132,81,m,Sb,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[237],2026-10-20
+52,133,81,g,Te,1,1,1,0,"I, μI, Qs",COMPLIS,ISOLDE,[101],2026-10-20
+52,135,83,g,Te,1,1,1,0,"I, μI, Qs",COMPLIS,ISOLDE,[101],2026-10-20
+52,125,73,m,Te,1,1,1,0,"I, μI, Qs",COMPLIS,ISOLDE,[101],2026-10-20
+52,127,75,m,Te,1,1,1,0,"I, μI, Qs",COMPLIS,ISOLDE,[101],2026-10-20
+52,129,77,m,Te,1,1,1,0,"I, μI, Qs",COMPLIS,ISOLDE,[101],2026-10-20
+52,131,79,m,Te,1,1,1,0,"I, μI, Qs",COMPLIS,ISOLDE,[101],2026-10-20
+52,133,81,m,Te,1,1,1,0,"I, μI, Qs",COMPLIS,ISOLDE,[101],2026-10-20
+52,132,80,g,Te,0,0,0,1,δ<r2>,COMPLIS,ISOLDE,[102],2026-10-20
+52,134,82,g,Te,0,0,0,1,δ<r2>,COMPLIS,ISOLDE,[102],2026-10-20
+52,136,84,g,Te,0,0,0,1,δ<r2>,COMPLIS,ISOLDE,[102],2026-10-20
+54,116,62,g,Xe,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[28],2026-10-20
+54,118,64,g,Xe,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[28],2026-10-20
+54,120,66,g,Xe,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[28],2026-10-20
+54,122,68,g,Xe,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[28],2026-10-20
+54,124,70,g,Xe,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[28],2026-10-20
+54,126,72,g,Xe,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[28],2026-10-20
+54,128,74,g,Xe,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[28],2026-10-20
+54,130,76,g,Xe,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[28],2026-10-20
+54,132,78,g,Xe,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[28],2026-10-20
+54,134,80,g,Xe,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[28],2026-10-20
+54,136,82,g,Xe,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[28],2026-10-20
+54,138,84,g,Xe,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[28],2026-10-20
+54,140,86,g,Xe,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[28],2026-10-20
+54,142,88,g,Xe,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[28],2026-10-20
+54,144,90,g,Xe,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[28],2026-10-20
+54,146,92,g,Xe,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[28],2026-10-20
+54,129,75,g,Xe,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[28],2026-10-20
+54,131,77,g,Xe,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[28],2026-10-20
+54,137,83,g,Xe,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[28],2026-10-20
+54,139,85,g,Xe,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[28],2026-10-20
+54,141,87,g,Xe,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[28],2026-10-20
+54,143,89,g,Xe,1,1,1,1,"I, μI, Qs, δ<r2>",CS + SSCI,ISOLDE,[28],2026-10-20
+55,137,82,g,Cs,0,1,1,1,"μI, Qs, δ<r2>",CS,TRIGA Mainz,[Sch78b],2026-10-20
+55,138,83,g,Cs,0,1,1,1,"μI, Qs, δ<r2>",CS,TRIGA Mainz,[Sch78b],2026-10-20
+55,139,84,g,Cs,0,1,1,1,"μI, Qs, δ<r2>",CS,TRIGA Mainz,[Sch78b],2026-10-20
+55,123,68,g,Cs,0,0,0,1,δ<r2>,LIOP-SGA,ISOLDE,[Hub78b],2026-10-20
+55,124,69,g,Cs,0,0,0,1,δ<r2>,LIOP-SGA,ISOLDE,[Hub78b],2026-10-20
+55,125,70,g,Cs,0,0,0,1,δ<r2>,LIOP-SGA,ISOLDE,[Hub78b],2026-10-20
+55,126,71,g,Cs,0,0,0,1,δ<r2>,LIOP-SGA,ISOLDE,[Hub78b],2026-10-20
+55,127,72,g,Cs,0,0,0,1,δ<r2>,LIOP-SGA,ISOLDE,[Hub78b],2026-10-20
+55,128,73,g,Cs,0,0,0,1,δ<r2>,LIOP-SGA,ISOLDE,[Hub78b],2026-10-20
+55,129,74,g,Cs,0,0,0,1,δ<r2>,LIOP-SGA,ISOLDE,[Hub78b],2026-10-20
+55,130,75,g,Cs,0,0,0,1,δ<r2>,LIOP-SGA,ISOLDE,[Hub78b],2026-10-20
+55,131,76,g,Cs,0,0,0,1,δ<r2>,LIOP-SGA,ISOLDE,[Hub78b],2026-10-20
+55,132,77,g,Cs,0,0,0,1,δ<r2>,LIOP-SGA,ISOLDE,[Hub78b],2026-10-20
+55,137,82,g,Cs,0,0,0,1,δ<r2>,LIOP-SGA,ISOLDE,[Hub78b],2026-10-20
+55,130,75,m,Cs,0,0,0,1,δ<r2>,LIOP-SGA,ISOLDE,[Hub78b],2026-10-20
+55,138,83,g,Cs,0,1,1,1,"μI, Qs, δ<r2>",CS,TRIGA Mainz,[Bon79],2026-10-20
+55,139,84,g,Cs,0,1,1,1,"μI, Qs, δ<r2>",CS,TRIGA Mainz,[Bon79],2026-10-20
+55,140,85,g,Cs,0,1,1,1,"μI, Qs, δ<r2>",CS,TRIGA Mainz,[Bon79],2026-10-20
+55,141,86,g,Cs,0,1,1,1,"μI, Qs, δ<r2>",CS,TRIGA Mainz,[Bon79],2026-10-20
+55,142,87,g,Cs,0,1,1,1,"μI, Qs, δ<r2>",CS,TRIGA Mainz,[Bon79],2026-10-20
+55,118,63,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,119,64,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,120,65,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,121,66,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,122,67,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,123,68,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,124,69,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,125,70,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,126,71,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,127,72,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,128,73,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,129,74,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,130,75,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,131,76,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,132,77,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,133,78,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,134,79,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,135,80,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,136,81,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,137,82,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,138,83,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,139,84,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,140,85,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,141,86,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,142,87,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,143,88,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,144,89,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,145,90,g,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,119,64,m,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,121,66,m,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,122,67,m,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,130,75,m,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,134,79,m,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,135,80,m,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,136,81,m,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,138,83,m,Cs,1,1,1,1,"I, μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Thi81b],2026-10-20
+55,118,63,g,Cs,0,1,1,1,"μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Coc87],2026-10-20
+55,146,91,g,Cs,0,1,1,1,"μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,[Coc87],2026-10-20
+55,126,71,g,Cs,0,1,0,0,μI,OP + ABMR,ISOLDE,[84],2026-10-20
+56,126,70,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Bek89],2026-10-20
+56,128,72,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Bek89],2026-10-20
+56,129,73,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Bek89],2026-10-20
+56,130,74,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Bek89],2026-10-20
+56,131,75,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Bek89],2026-10-20
+56,132,76,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Bek89],2026-10-20
+56,133,77,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Bek89],2026-10-20
+56,134,78,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Bek89],2026-10-20
+56,136,80,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Bek89],2026-10-20
+56,136,80,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Bek89],2026-10-20
+56,140,84,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Bek89],2026-10-20
+56,129,73,m,Ba,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Bek89],2026-10-20
+56,133,77,m,Ba,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Bek89],2026-10-20
+56,135,79,m,Ba,0,1,1,1,"μI, Qs, δ<r2>",ABS,Karlsruhe,[Bek89],2026-10-20
+56,122,66,g,Ba,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Mue83],2026-10-20
+56,123,67,g,Ba,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Mue83],2026-10-20
+56,125,69,g,Ba,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Mue83],2026-10-20
+56,127,71,g,Ba,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Mue83],2026-10-20
+56,139,83,g,Ba,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Mue83],2026-10-20
+56,140,84,g,Ba,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Mue83],2026-10-20
+56,141,85,g,Ba,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Mue83],2026-10-20
+56,142,86,g,Ba,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Mue83],2026-10-20
+56,143,87,g,Ba,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Mue83],2026-10-20
+56,144,88,g,Ba,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Mue83],2026-10-20
+56,145,89,g,Ba,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Mue83],2026-10-20
+56,146,90,g,Ba,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Mue83],2026-10-20
+56,131,75,m,Ba,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Mue83],2026-10-20
+56,137,81,m,Ba,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Mue83],2026-10-20
+56,124,68,g,Ba,0,0,0,1,δ<r2>,ABS,Karlsruhe,[Reb80],2026-10-20
+56,134,78,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Wen88],2026-10-20
+56,135,79,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Wen88],2026-10-20
+56,136,80,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Wen88],2026-10-20
+56,137,81,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Wen88],2026-10-20
+56,138,82,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Wen88],2026-10-20
+56,139,83,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Wen88],2026-10-20
+56,140,84,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Wen88],2026-10-20
+56,141,85,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Wen88],2026-10-20
+56,142,86,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Wen88],2026-10-20
+56,143,87,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Wen88],2026-10-20
+56,144,88,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Wen88],2026-10-20
+56,145,89,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Wen88],2026-10-20
+56,146,90,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Wen88],2026-10-20
+56,148,92,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Wen88],2026-10-20
+56,120,64,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",CS,Daresbury,[Eas87b],2026-10-20
+56,121,65,g,Ba,0,1,1,1,"μI, Qs, δ<r2>",CS,Daresbury,[Eas87b],2026-10-20
+56,130,74,m,Ba,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[29],2026-10-20
+56,127,71,m,Ba,1,1,1,1,"I, μI, Qs, δ<r2>",CS,DOLIS,[30],2026-10-20
+57,135,78,g,La,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JAERI,[81],2026-10-20
+57,137,80,g,La,0,1,1,1,"μI, Qs, δ<r2>",CS + LIF,JAERI,[81],2026-10-20
+58,146,88,g,Ce,0,0,0,1,δ<r2>,CS + cooler RFQ,Jyväskylä,[103],2026-10-20
+58,148,90,g,Ce,0,0,0,1,δ<r2>,CS + cooler RFQ,Jyväskylä,[103],2026-10-20
+59,135,76,g,Pr,0,1,0,0,μI,CS,ISOLDE,[191],2026-10-20
+59,136,77,g,Pr,0,1,0,0,μI,CS,ISOLDE,[191],2026-10-20
+59,137,78,g,Pr,0,1,0,0,μI,CS,ISOLDE,[191],2026-10-20
+59,141,82,g,Pr,0,1,0,0,μI,CS,ISOLDE,[191],2026-10-20
+60,132,72,g,Nd,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+60,134,74,g,Nd,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+60,135,75,g,Nd,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+60,136,76,g,Nd,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+60,137,77,g,Nd,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+60,138,78,g,Nd,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+60,139,79,g,Nd,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+60,140,80,g,Nd,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+60,141,81,g,Nd,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+60,142,82,g,Nd,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+60,143,83,g,Nd,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+60,144,84,g,Nd,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+60,145,85,g,Nd,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+60,146,86,g,Nd,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+60,148,88,g,Nd,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+60,150,90,g,Nd,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+60,132,72,g,Nd,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[31],2026-10-20
+60,134,74,g,Nd,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[31],2026-10-20
+60,135,75,g,Nd,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[31],2026-10-20
+60,136,76,g,Nd,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[31],2026-10-20
+60,137,77,g,Nd,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[31],2026-10-20
+60,138,78,g,Nd,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[31],2026-10-20
+60,139,79,g,Nd,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[31],2026-10-20
+60,140,80,g,Nd,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[31],2026-10-20
+60,141,81,g,Nd,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[31],2026-10-20
+60,142,82,g,Nd,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[31],2026-10-20
+60,143,83,g,Nd,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[31],2026-10-20
+61,143,82,g,Pm,0,1,1,1,"μI, Qs, δ<r2>",RIMS + PI-LIST,"RISIKO, Mainz",[197],2026-10-20
+61,144,83,g,Pm,0,1,1,1,"μI, Qs, δ<r2>",RIMS + PI-LIST,"RISIKO, Mainz",[197],2026-10-20
+61,145,84,g,Pm,0,1,1,1,"μI, Qs, δ<r2>",RIMS + PI-LIST,"RISIKO, Mainz",[197],2026-10-20
+61,146,85,g,Pm,0,1,1,1,"μI, Qs, δ<r2>",RIMS + PI-LIST,"RISIKO, Mainz",[197],2026-10-20
+62,138,76,g,Sm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+62,139,77,g,Sm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+62,140,78,g,Sm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+62,141,79,g,Sm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+62,142,80,g,Sm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+62,143,81,g,Sm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+62,144,82,g,Sm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+62,145,83,g,Sm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+62,141,79,m,Sm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+62,146,84,g,Sm,1,1,1,1,"I, μI, Qs, δ<r2>",ABS,Daresbury,[Eas84],2026-10-20
+62,151,89,g,Sm,1,1,1,1,"I, μI, Qs, δ<r2>",ABS,Daresbury,[Eas84],2026-10-20
+62,153,91,g,Sm,1,1,1,1,"I, μI, Qs, δ<r2>",ABS,Daresbury,[Eas84],2026-10-20
+62,138,76,g,Sm,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[31],2026-10-20
+62,139,77,g,Sm,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[31],2026-10-20
+62,140,78,g,Sm,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[31],2026-10-20
+62,141,79,g,Sm,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[31],2026-10-20
+62,142,80,g,Sm,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[31],2026-10-20
+62,143,81,g,Sm,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[31],2026-10-20
+62,144,82,g,Sm,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[31],2026-10-20
+62,145,83,g,Sm,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[31],2026-10-20
+62,141,79,m,Sm,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[31],2026-10-20
+63,145,82,g,Eu,0,0,0,1,δ<r2>,RIMS,Gatchina,[Alk83],2026-10-20
+63,146,83,g,Eu,0,0,0,1,δ<r2>,RIMS,Gatchina,[Alk83],2026-10-20
+63,147,84,g,Eu,0,0,0,1,δ<r2>,RIMS,Gatchina,[Alk83],2026-10-20
+63,148,85,g,Eu,0,0,0,1,δ<r2>,RIMS,Gatchina,[Alk83],2026-10-20
+63,149,86,g,Eu,0,0,0,1,δ<r2>,RIMS,Gatchina,[Alk83],2026-10-20
+63,141,78,g,Eu,0,0,0,1,δ<r2>,RIMS,Gatchina,[Fed84],2026-10-20
+63,142,79,g,Eu,0,0,0,1,δ<r2>,RIMS,Gatchina,[Fed84],2026-10-20
+63,143,80,g,Eu,0,0,0,1,δ<r2>,RIMS,Gatchina,[Fed84],2026-10-20
+63,144,81,g,Eu,0,0,0,1,δ<r2>,RIMS,Gatchina,[Fed84],2026-10-20
+63,151,88,g,Eu,0,0,1,1,"Qs, δ<r2>",RIMS,Gatchina,[Doe83],2026-10-20
+63,152,89,g,Eu,0,0,1,1,"Qs, δ<r2>",RIMS,Gatchina,[Doe83],2026-10-20
+63,153,90,g,Eu,0,0,1,1,"Qs, δ<r2>",RIMS,Gatchina,[Doe83],2026-10-20
+63,154,91,g,Eu,0,0,1,1,"Qs, δ<r2>",RIMS,Gatchina,[Doe83],2026-10-20
+63,147,84,g,Eu,0,1,1,1,"μI, Qs, δ<r2>",CS,Gatchina,[Doe84],2026-10-20
+63,149,86,g,Eu,0,1,1,1,"μI, Qs, δ<r2>",CS,Gatchina,[Doe84],2026-10-20
+63,155,92,g,Eu,0,1,1,1,"μI, Qs, δ<r2>",CS,Gatchina,[Doe84],2026-10-20
+63,156,93,g,Eu,0,1,1,1,"μI, Qs, δ<r2>",CS,Gatchina,[Doe84],2026-10-20
+63,152,89,m,Eu,0,1,1,1,"μI, Qs, δ<r2>",CS,Gatchina,[Doe84],2026-10-20
+63,140,77,g,Eu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm85],2026-10-20
+63,141,78,g,Eu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm85],2026-10-20
+63,142,79,g,Eu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm85],2026-10-20
+63,143,80,g,Eu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm85],2026-10-20
+63,144,81,g,Eu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm85],2026-10-20
+63,145,82,g,Eu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm85],2026-10-20
+63,146,83,g,Eu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm85],2026-10-20
+63,147,84,g,Eu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm85],2026-10-20
+63,148,85,g,Eu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm85],2026-10-20
+63,149,86,g,Eu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm85],2026-10-20
+63,150,87,g,Eu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm85],2026-10-20
+63,151,88,g,Eu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm85],2026-10-20
+63,152,89,g,Eu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm85],2026-10-20
+63,153,90,g,Eu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm85],2026-10-20
+63,142,79,m,Eu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm85],2026-10-20
+63,150,87,m,Eu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm85],2026-10-20
+63,138,75,g,Eu,0,0,0,1,δ<r2>,RIMS,Gatchina,[Alk87],2026-10-20
+63,139,76,g,Eu,0,0,0,1,δ<r2>,RIMS,Gatchina,[Alk87],2026-10-20
+63,155,92,g,Eu,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[32],2026-10-20
+63,156,93,g,Eu,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[32],2026-10-20
+63,157,94,g,Eu,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[32],2026-10-20
+63,158,95,g,Eu,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[32],2026-10-20
+63,159,96,g,Eu,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[32],2026-10-20
+63,138,75,g,Eu,0,0,0,1,δ<r2>,RIMS,Gatchina,[31],2026-10-20
+63,139,76,g,Eu,0,0,0,1,δ<r2>,RIMS,Gatchina,[31],2026-10-20
+63,140,77,g,Eu,0,0,0,1,δ<r2>,RIMS,Gatchina,[31],2026-10-20
+63,141,78,g,Eu,0,0,0,1,δ<r2>,RIMS,Gatchina,[31],2026-10-20
+63,142,79,g,Eu,0,0,0,1,δ<r2>,RIMS,Gatchina,[31],2026-10-20
+63,143,80,g,Eu,0,0,0,1,δ<r2>,RIMS,Gatchina,[31],2026-10-20
+63,144,81,g,Eu,0,0,0,1,δ<r2>,RIMS,Gatchina,[31],2026-10-20
+63,145,82,g,Eu,0,0,0,1,δ<r2>,RIMS,Gatchina,[31],2026-10-20
+63,148,85,g,Eu,0,0,1,0,"Qs, hfs anomaly",MW-DR in ion trap,ISOLDE,[33],2026-10-20
+63,149,86,g,Eu,0,0,1,0,"Qs, hfs anomaly",MW-DR in ion trap,ISOLDE,[33],2026-10-20
+63,150,87,g,Eu,0,0,1,0,"Qs, hfs anomaly",MW-DR in ion trap,ISOLDE,[33],2026-10-20
+63,151,88,g,Eu,0,0,1,0,"Qs, hfs anomaly",MW-DR in ion trap,ISOLDE,[33],2026-10-20
+63,153,90,g,Eu,0,0,1,0,"Qs, hfs anomaly",MW-DR in ion trap,ISOLDE,[33],2026-10-20
+64,146,82,g,Gd,0,0,0,1,δ<r2>,RIMS,Gatchina,[34],2026-10-20
+64,147,83,g,Gd,0,0,0,1,δ<r2>,RIMS,Gatchina,[34],2026-10-20
+64,148,84,g,Gd,0,0,0,1,δ<r2>,RIMS,Gatchina,[34],2026-10-20
+64,149,85,g,Gd,0,0,0,1,δ<r2>,RIMS,Gatchina,[34],2026-10-20
+64,150,86,g,Gd,0,0,0,1,δ<r2>,RIMS,Gatchina,[34],2026-10-20
+64,151,87,g,Gd,0,0,0,1,δ<r2>,RIMS,Gatchina,[34],2026-10-20
+64,152,88,g,Gd,0,0,0,1,δ<r2>,RIMS,Gatchina,[34],2026-10-20
+64,153,89,g,Gd,0,0,0,1,δ<r2>,RIMS,Gatchina,[34],2026-10-20
+64,154,90,g,Gd,0,0,0,1,δ<r2>,RIMS,Gatchina,[34],2026-10-20
+64,155,91,g,Gd,0,0,0,1,δ<r2>,RIMS,Gatchina,[34],2026-10-20
+64,156,92,g,Gd,0,0,0,1,δ<r2>,RIMS,Gatchina,[34],2026-10-20
+64,157,93,g,Gd,0,0,0,1,δ<r2>,RIMS,Gatchina,[34],2026-10-20
+64,158,94,g,Gd,0,0,0,1,δ<r2>,RIMS,Gatchina,[34],2026-10-20
+64,159,95,g,Gd,0,0,0,1,δ<r2>,RIMS,Gatchina,[34],2026-10-20
+64,160,96,g,Gd,0,0,0,1,δ<r2>,RIMS,Gatchina,[34],2026-10-20
+64,145,81,g,Gd,0,0,0,1,δ<r2>,RIMS,Gatchina,[104],2026-10-20
+64,145,81,m,Gd,0,0,0,1,δ<r2>,RIMS,Gatchina,[104],2026-10-20
+64,143,79,m,Gd,0,0,0,1,δ<r2>,RIMS,Gatchina,[104],2026-10-20
+64,145,81,g,Gd,0,1,1,0,"μI, Qs",RIMS,Gatchina,[104],2026-10-20
+64,145,81,m,Gd,0,1,1,0,"μI, Qs",RIMS,Gatchina,[104],2026-10-20
+65,147,82,g,Tb,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[35],2026-10-20
+65,148,83,g,Tb,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[35],2026-10-20
+65,149,84,g,Tb,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[35],2026-10-20
+65,150,85,g,Tb,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[35],2026-10-20
+65,151,86,g,Tb,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[35],2026-10-20
+65,152,87,g,Tb,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[35],2026-10-20
+65,153,88,g,Tb,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[35],2026-10-20
+65,154,89,g,Tb,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[35],2026-10-20
+65,155,90,g,Tb,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[35],2026-10-20
+65,157,92,g,Tb,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[35],2026-10-20
+65,159,94,g,Tb,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[35],2026-10-20
+66,149,83,g,Dy,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+66,151,85,g,Dy,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+66,153,87,g,Dy,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+66,155,89,g,Dy,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+66,157,91,g,Dy,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+66,159,93,g,Dy,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+66,146,80,g,Dy,0,0,0,1,δ<r2>,CS,ISOLDE,[Ott89] (Table 19),2026-10-20
+66,148,82,g,Dy,0,0,0,1,δ<r2>,CS,ISOLDE,[Ott89] (Table 19),2026-10-20
+66,149,83,g,Dy,0,0,0,1,δ<r2>,CS,ISOLDE,[Ott89] (Table 19),2026-10-20
+66,150,84,g,Dy,0,0,0,1,δ<r2>,CS,ISOLDE,[Ott89] (Table 19),2026-10-20
+66,151,85,g,Dy,0,0,0,1,δ<r2>,CS,ISOLDE,[Ott89] (Table 19),2026-10-20
+66,152,86,g,Dy,0,0,0,1,δ<r2>,CS,ISOLDE,[Ott89] (Table 19),2026-10-20
+66,153,87,g,Dy,0,0,0,1,δ<r2>,CS,ISOLDE,[Ott89] (Table 19),2026-10-20
+66,154,88,g,Dy,0,0,0,1,δ<r2>,CS,ISOLDE,[Ott89] (Table 19),2026-10-20
+66,155,89,g,Dy,0,0,0,1,δ<r2>,CS,ISOLDE,[Ott89] (Table 19),2026-10-20
+66,156,90,g,Dy,0,0,0,1,δ<r2>,CS,ISOLDE,[Ott89] (Table 19),2026-10-20
+66,157,91,g,Dy,0,0,0,1,δ<r2>,CS,ISOLDE,[Ott89] (Table 19),2026-10-20
+66,158,92,g,Dy,0,0,0,1,δ<r2>,CS,ISOLDE,[Ott89] (Table 19),2026-10-20
+66,159,93,g,Dy,0,0,0,1,δ<r2>,CS,ISOLDE,[Ott89] (Table 19),2026-10-20
+66,160,94,g,Dy,0,0,0,1,δ<r2>,CS,ISOLDE,[Ott89] (Table 19),2026-10-20
+66,161,95,g,Dy,0,0,0,1,δ<r2>,CS,ISOLDE,[Ott89] (Table 19),2026-10-20
+66,162,96,g,Dy,0,0,0,1,δ<r2>,CS,ISOLDE,[Ott89] (Table 19),2026-10-20
+66,163,97,g,Dy,0,0,0,1,δ<r2>,CS,ISOLDE,[Ott89] (Table 19),2026-10-20
+66,164,98,g,Dy,0,0,0,1,δ<r2>,CS,ISOLDE,[Ott89] (Table 19),2026-10-20
+67,152,85,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+67,153,86,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+67,154,87,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+67,155,88,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+67,157,90,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+67,158,91,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+67,159,92,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+67,160,93,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+67,161,94,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+67,162,95,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+67,163,96,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+67,152,85,m,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+67,154,87,m,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+67,158,91,m,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+67,160,93,m,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+67,162,95,m,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+67,151,84,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+67,152,85,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+67,153,86,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+67,154,87,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+67,155,88,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+67,156,89,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+67,157,90,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+67,158,91,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+67,159,92,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+67,160,93,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+67,161,94,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+67,162,95,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+67,163,96,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+67,151,84,m,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+67,152,85,m,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+67,154,87,m,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+67,156,89,m,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+67,158,91,m,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+67,160,93,m,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+67,162,95,m,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Ott89] (Table 20),2026-10-20
+67,152,85,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[36],2026-10-20
+67,153,86,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[36],2026-10-20
+67,154,87,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[36],2026-10-20
+67,155,88,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[36],2026-10-20
+67,156,89,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[36],2026-10-20
+67,157,90,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[36],2026-10-20
+67,158,91,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[36],2026-10-20
+67,159,92,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[36],2026-10-20
+67,160,93,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[36],2026-10-20
+67,161,94,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[36],2026-10-20
+67,162,95,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[36],2026-10-20
+67,163,96,g,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[36],2026-10-20
+67,152,85,m,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[36],2026-10-20
+67,153,86,m,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[36],2026-10-20
+67,154,87,m,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[36],2026-10-20
+67,158,91,m,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[36],2026-10-20
+67,160,93,m,Ho,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[36],2026-10-20
+68,153,85,g,Er,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ahm85b],2026-10-20
+68,155,87,g,Er,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ahm85b],2026-10-20
+68,157,89,g,Er,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ahm85b],2026-10-20
+68,159,91,g,Er,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ahm85b],2026-10-20
+68,161,93,g,Er,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ahm85b],2026-10-20
+68,163,95,g,Er,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ahm85b],2026-10-20
+68,165,97,g,Er,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ahm85b],2026-10-20
+68,152,84,g,Er,0,0,0,1,δ<r2>,CS,ISOLDE,[Ott89] (Table 21),2026-10-20
+68,154,86,g,Er,0,0,0,1,δ<r2>,CS,ISOLDE,[Ott89] (Table 21),2026-10-20
+68,156,88,g,Er,0,0,0,1,δ<r2>,CS,ISOLDE,[Ott89] (Table 21),2026-10-20
+68,158,90,g,Er,0,0,0,1,δ<r2>,CS,ISOLDE,[Ott89] (Table 21),2026-10-20
+68,160,92,g,Er,0,0,0,1,δ<r2>,CS,ISOLDE,[Ott89] (Table 21),2026-10-20
+68,162,94,g,Er,0,0,0,1,δ<r2>,CS,ISOLDE,[Ott89] (Table 21),2026-10-20
+68,164,96,g,Er,0,0,0,1,δ<r2>,CS,ISOLDE,[Ott89] (Table 21),2026-10-20
+69,156,87,g,Tm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+69,157,88,g,Tm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+69,158,89,g,Tm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+69,159,90,g,Tm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+69,160,91,g,Tm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+69,161,92,g,Tm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+69,162,93,g,Tm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+69,163,94,g,Tm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+69,164,95,g,Tm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+69,165,96,g,Tm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+69,166,97,g,Tm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+69,167,98,g,Tm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+69,168,99,g,Tm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+69,169,100,g,Tm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+69,170,101,g,Tm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+69,171,102,g,Tm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+69,172,103,g,Tm,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS,Gatchina,[Alk87],2026-10-20
+69,157,88,g,Tm,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[37],2026-10-20
+69,158,89,g,Tm,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[37],2026-10-20
+69,159,90,g,Tm,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[37],2026-10-20
+69,160,91,g,Tm,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[37],2026-10-20
+69,161,92,g,Tm,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[37],2026-10-20
+69,162,93,g,Tm,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[37],2026-10-20
+69,163,94,g,Tm,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[37],2026-10-20
+69,164,95,g,Tm,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[37],2026-10-20
+69,165,96,g,Tm,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[37],2026-10-20
+69,166,97,g,Tm,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[37],2026-10-20
+69,167,98,g,Tm,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[37],2026-10-20
+69,168,99,g,Tm,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[37],2026-10-20
+69,169,100,g,Tm,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[37],2026-10-20
+69,170,101,g,Tm,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[37],2026-10-20
+69,171,102,g,Tm,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[37],2026-10-20
+69,172,103,g,Tm,0,1,1,1,"μI, Qs, δ<r2>",RIMS,Gatchina,[37],2026-10-20
+69,153,84,g,Tm,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS,Gatchina,[38],2026-10-20
+69,154,85,g,Tm,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS,Gatchina,[38],2026-10-20
+69,154,85,m,Tm,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS,Gatchina,[38],2026-10-20
+70,156,86,g,Yb,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Buc82] and [Ott89] (Table 23),2026-10-20
+70,158,88,g,Yb,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Buc82] and [Ott89] (Table 23),2026-10-20
+70,160,90,g,Yb,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Buc82] and [Ott89] (Table 23),2026-10-20
+70,161,91,g,Yb,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Buc82] and [Ott89] (Table 23),2026-10-20
+70,162,92,g,Yb,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Buc82] and [Ott89] (Table 23),2026-10-20
+70,163,93,g,Yb,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Buc82] and [Ott89] (Table 23),2026-10-20
+70,164,94,g,Yb,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Buc82] and [Ott89] (Table 23),2026-10-20
+70,165,95,g,Yb,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Buc82] and [Ott89] (Table 23),2026-10-20
+70,166,96,g,Yb,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Buc82] and [Ott89] (Table 23),2026-10-20
+70,167,97,g,Yb,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Buc82] and [Ott89] (Table 23),2026-10-20
+70,168,98,g,Yb,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Buc82] and [Ott89] (Table 23),2026-10-20
+70,169,99,g,Yb,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Buc82] and [Ott89] (Table 23),2026-10-20
+70,170,100,g,Yb,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Buc82] and [Ott89] (Table 23),2026-10-20
+70,171,101,g,Yb,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Buc82] and [Ott89] (Table 23),2026-10-20
+70,172,102,g,Yb,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Buc82] and [Ott89] (Table 23),2026-10-20
+70,173,103,g,Yb,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Buc82] and [Ott89] (Table 23),2026-10-20
+70,174,104,g,Yb,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Buc82] and [Ott89] (Table 23),2026-10-20
+70,176,106,g,Yb,1,1,1,1,"I, μI, Qs, δ<r2>",CS,ISOLDE,[Buc82] and [Ott89] (Table 23),2026-10-20
+70,159,89,g,Yb,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ne83],2026-10-20
+70,161,91,g,Yb,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ne83],2026-10-20
+70,163,93,g,Yb,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ne83],2026-10-20
+70,165,95,g,Yb,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ne83],2026-10-20
+70,167,97,g,Yb,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ne83],2026-10-20
+70,169,99,g,Yb,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ne83],2026-10-20
+70,152,82,g,Yb,0,0,0,1,δ<r2>,GCS,Stony Brook,[39],2026-10-20
+70,154,84,g,Yb,0,0,0,1,δ<r2>,GCS,Stony Brook,[39],2026-10-20
+70,156,86,g,Yb,0,0,0,1,δ<r2>,GCS,Stony Brook,[39],2026-10-20
+70,158,88,g,Yb,0,0,0,1,δ<r2>,GCS,Stony Brook,[39],2026-10-20
+70,157,87,g,Yb,1,1,0,1,"I, μI, δ<r2>",CS + RIMS,ISOLDE,[40],2026-10-20
+70,159,89,g,Yb,1,1,0,1,"I, μI, δ<r2>",CS + RIMS,ISOLDE,[40],2026-10-20
+70,175,105,g,Yb,1,1,0,1,"I, μI, δ<r2>",CS + RIMS,ISOLDE,[40],2026-10-20
+70,154,84,g,Yb,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS,Gatchina,"[41, 42]",2026-10-20
+70,155,85,g,Yb,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS,Gatchina,"[41, 42]",2026-10-20
+70,156,86,g,Yb,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS,Gatchina,"[41, 42]",2026-10-20
+70,160,90,g,Yb,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS,Gatchina,"[41, 42]",2026-10-20
+70,162,92,g,Yb,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS,Gatchina,"[41, 42]",2026-10-20
+70,164,94,g,Yb,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS,Gatchina,"[41, 42]",2026-10-20
+70,166,96,g,Yb,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS,Gatchina,"[41, 42]",2026-10-20
+70,155,85,g,Yb,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS,Gatchina,[38],2026-10-20
+70,153,83,g,Yb,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS,Gatchina,[43],2026-10-20
+70,176,106,m,Yb,1,1,1,1,"I, μI, Qs, δ<r2>",CS + LIF,JYFL,[78],2026-10-20
+70,175,105,g,Yb,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,JYFL,[125],2026-10-20
+70,176,106,m,Yb,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,JYFL,[125],2026-10-20
+70,177,107,g,Yb,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,JYFL,[125],2026-10-20
+70,177,107,m,Yb,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,JYFL,[125],2026-10-20
+71,161,90,g,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,162,91,g,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,163,92,g,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,164,93,g,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,165,94,g,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,166,95,g,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,167,96,g,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,168,97,g,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,169,98,g,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,170,99,g,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,171,100,g,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,172,101,g,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,173,102,g,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,174,103,g,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,175,104,g,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,176,105,g,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,177,106,g,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,178,107,g,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,179,108,g,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,166,95,m1,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,166,95,m2,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,167,96,m,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,168,97,m,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,169,98,m,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,171,100,m,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,172,101,m,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,174,103,m,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,176,105,m,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,177,106,m,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+71,178,107,m,Lu,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[44],2026-10-20
+72,178,106,m2,Hf,0,1,1,0,"μI, Qs, Δνisomer",CS,Orsay,[45],2026-10-20
+72,170,98,g,Hf,0,0,0,1,δ<r2>,CS,Jyväskylä,[46],2026-10-20
+72,172,100,g,Hf,0,0,0,1,δ<r2>,CS,Jyväskylä,[46],2026-10-20
+72,173,101,g,Hf,0,0,0,1,δ<r2>,CS,Jyväskylä,[46],2026-10-20
+72,174,102,g,Hf,0,0,0,1,δ<r2>,CS,Jyväskylä,[46],2026-10-20
+72,171,99,g,Hf,0,1,1,1,"μI, Qs, δ<r2>",CS,Jyväskylä,[47],2026-10-20
+72,171,99,m,Hf,0,1,1,1,"μI, Qs, δ<r2>",CS,Jyväskylä,[47],2026-10-20
+72,175,103,g,Hf,0,1,1,1,"μI, Qs, δ<r2>",CS + cooler RFQ,Jyväskylä,[48],2026-10-20
+72,178,106,m1,Hf,1,1,1,1,"I, μI, Qs, δ<r2>",CS + LIF,JYFL,[78],2026-10-20
+76,194,118,g,Os,0,0,0,1,δ<r2>,IGLIS + MR-TOF,"KISS, RIKEN",[212],2026-10-20
+76,196,120,g,Os,0,0,0,1,δ<r2>,IGLIS + MR-TOF,"KISS, RIKEN",[212],2026-10-20
+77,182,105,g,Ir,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[49],2026-10-20
+77,183,106,g,Ir,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[49],2026-10-20
+77,184,107,g,Ir,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[49],2026-10-20
+77,185,108,g,Ir,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[49],2026-10-20
+77,186,109,g,Ir,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[49],2026-10-20
+77,187,110,g,Ir,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[49],2026-10-20
+77,188,111,g,Ir,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[49],2026-10-20
+77,189,112,g,Ir,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[49],2026-10-20
+77,191,114,g,Ir,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[49],2026-10-20
+77,193,116,g,Ir,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[49],2026-10-20
+77,186,109,m,Ir,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[49],2026-10-20
+77,196,119,g,Ir,0,1,0,1,"μI, δ<r2>",IGLIS,"KISS, RIKEN",[213],2026-10-20
+77,197,120,g,Ir,0,1,0,1,"μI, δ<r2>",IGLIS,"KISS, RIKEN",[213],2026-10-20
+77,198,121,g,Ir,0,1,0,1,"μI, δ<r2>",IGLIS,"KISS, RIKEN",[213],2026-10-20
+78,186,108,g,Pt,0,0,0,1,δ<r2>,RIMS,ISOCELE,[Lee88],2026-10-20
+78,188,110,g,Pt,0,0,0,1,δ<r2>,RIMS,ISOCELE,[Lee88],2026-10-20
+78,190,112,g,Pt,0,0,0,1,δ<r2>,RIMS,ISOCELE,[Lee88],2026-10-20
+78,192,114,g,Pt,0,0,0,1,δ<r2>,RIMS,ISOCELE,[Lee88],2026-10-20
+78,194,116,g,Pt,0,0,0,1,δ<r2>,RIMS,ISOCELE,[Lee88],2026-10-20
+78,196,118,g,Pt,0,0,0,1,δ<r2>,RIMS,ISOCELE,[Lee88],2026-10-20
+78,198,120,g,Pt,0,0,0,1,δ<r2>,RIMS,ISOCELE,[Lee88],2026-10-20
+78,186,108,g,Pt,0,0,0,1,δ<r2>,RIMS,ISOCELE,[50],2026-10-20
+78,188,110,g,Pt,0,0,0,1,δ<r2>,RIMS,ISOCELE,[50],2026-10-20
+78,190,112,g,Pt,0,0,0,1,δ<r2>,RIMS,ISOCELE,[50],2026-10-20
+78,192,114,g,Pt,0,0,0,1,δ<r2>,RIMS,ISOCELE,[50],2026-10-20
+78,194,116,g,Pt,0,0,0,1,δ<r2>,RIMS,ISOCELE,[50],2026-10-20
+78,196,118,g,Pt,0,0,0,1,δ<r2>,RIMS,ISOCELE,[50],2026-10-20
+78,198,120,g,Pt,0,0,0,1,δ<r2>,RIMS,ISOCELE,[50],2026-10-20
+78,185,107,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOCELE,[51],2026-10-20
+78,187,109,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOCELE,[51],2026-10-20
+78,189,111,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOCELE,[51],2026-10-20
+78,191,113,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOCELE,[51],2026-10-20
+78,195,117,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOCELE,[51],2026-10-20
+78,183,105,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[52],2026-10-20
+78,184,106,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[52],2026-10-20
+78,185,107,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[52],2026-10-20
+78,186,108,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[52],2026-10-20
+78,187,109,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[52],2026-10-20
+78,188,110,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[52],2026-10-20
+78,189,111,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[52],2026-10-20
+78,190,112,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[52],2026-10-20
+78,191,113,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[52],2026-10-20
+78,192,114,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[52],2026-10-20
+78,193,115,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[52],2026-10-20
+78,194,116,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[52],2026-10-20
+78,195,117,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[52],2026-10-20
+78,196,118,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[52],2026-10-20
+78,198,120,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[52],2026-10-20
+78,185,107,m,Pt,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[52],2026-10-20
+78,178,100,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[53],2026-10-20
+78,179,101,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[53],2026-10-20
+78,180,102,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[53],2026-10-20
+78,181,103,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[53],2026-10-20
+78,182,104,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[53],2026-10-20
+78,183,105,m,Pt,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[53],2026-10-20
+78,183,105,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[54],2026-10-20
+78,185,107,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[54],2026-10-20
+78,185,107,m,Pt,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[54],2026-10-20
+78,199,121,g,Pt,0,1,1,1,"μI, Qs, δ<r2>",IGLIS,"KISS, RIKEN",[211],2026-10-20
+78,199,121,m,Pt,0,1,1,1,"μI, Qs, δ<r2>",IGLIS,"KISS, RIKEN",[211],2026-10-20
+78,200,122,g,Pt,0,1,0,1,"μI, δ<r2>",IGLIS,"KISS, RIKEN",[233],2026-10-20
+78,201,123,g,Pt,0,1,0,1,"μI, δ<r2>",IGLIS,"KISS, RIKEN",[233],2026-10-20
+79,195,116,g,Au,0,0,0,1,δ<r2>,GCS,ISOLDE,[Klu83],2026-10-20
+79,197,118,g,Au,0,0,0,1,δ<r2>,GCS,ISOLDE,[Klu83],2026-10-20
+79,190,111,g,Au,0,0,0,1,δ<r2>,GCS,ISOLDE,[Str85],2026-10-20
+79,191,112,g,Au,0,0,0,1,δ<r2>,GCS,ISOLDE,[Str85],2026-10-20
+79,192,113,g,Au,0,0,0,1,δ<r2>,GCS,ISOLDE,[Str85],2026-10-20
+79,193,114,g,Au,0,0,0,1,δ<r2>,GCS,ISOLDE,[Str85],2026-10-20
+79,195,116,g,Au,0,0,0,1,δ<r2>,GCS,ISOLDE,[Str85],2026-10-20
+79,185,106,g,Au,0,1,0,0,μI,RIMS,ISOLDE,[Wal87],2026-10-20
+79,186,107,g,Au,0,1,0,0,μI,RIMS,ISOLDE,[Wal87],2026-10-20
+79,187,108,g,Au,0,1,0,0,μI,RIMS,ISOLDE,[Wal87],2026-10-20
+79,188,109,g,Au,0,1,0,0,μI,RIMS,ISOLDE,[Wal87],2026-10-20
+79,189,110,g,Au,0,1,0,0,μI,RIMS,ISOLDE,[Wal87],2026-10-20
+79,189,110,m,Au,0,1,0,0,μI,RIMS,ISOLDE,[Wal87],2026-10-20
+79,185,106,g,Au,0,1,0,1,"μI, δ<r2>",RIMS,ISOLDE,[Wal87a],2026-10-20
+79,186,107,g,Au,0,1,0,1,"μI, δ<r2>",RIMS,ISOLDE,[Wal87a],2026-10-20
+79,187,108,g,Au,0,1,0,1,"μI, δ<r2>",RIMS,ISOLDE,[Wal87a],2026-10-20
+79,188,109,g,Au,0,1,0,1,"μI, δ<r2>",RIMS,ISOLDE,[Wal87a],2026-10-20
+79,189,110,g,Au,0,1,0,1,"μI, δ<r2>",RIMS,ISOLDE,[Wal87a],2026-10-20
+79,190,111,g,Au,0,1,0,1,"μI, δ<r2>",RIMS,ISOLDE,[Wal87a],2026-10-20
+79,189,110,m,Au,0,1,0,1,"μI, δ<r2>",RIMS,ISOLDE,[Wal87a],2026-10-20
+79,186,107,g,Au,0,1,0,1,"μI, δ<r2>",RIMS,ISOLDE,[55],2026-10-20
+79,187,108,g,Au,0,1,0,1,"μI, δ<r2>",RIMS,ISOLDE,[55],2026-10-20
+79,190,111,g,Au,0,1,0,1,"μI, δ<r2>",RIMS,ISOLDE,[55],2026-10-20
+79,192,113,g,Au,0,1,0,1,"μI, δ<r2>",RIMS,ISOLDE,[55],2026-10-20
+79,194,115,g,Au,0,1,0,1,"μI, δ<r2>",RIMS,ISOLDE,[55],2026-10-20
+79,195,116,g,Au,0,1,0,1,"μI, δ<r2>",RIMS,ISOLDE,[55],2026-10-20
+79,196,117,g,Au,0,1,0,1,"μI, δ<r2>",RIMS,ISOLDE,[55],2026-10-20
+79,197,118,g,Au,0,1,0,1,"μI, δ<r2>",RIMS,ISOLDE,[55],2026-10-20
+79,198,119,g,Au,0,1,0,1,"μI, δ<r2>",RIMS,ISOLDE,[55],2026-10-20
+79,199,120,g,Au,0,1,0,1,"μI, δ<r2>",RIMS,ISOLDE,[55],2026-10-20
+79,183,104,g,Au,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[56],2026-10-20
+79,184,105,g,Au,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[56],2026-10-20
+79,185,106,g,Au,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[56],2026-10-20
+79,186,107,g,Au,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[56],2026-10-20
+79,187,108,g,Au,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[56],2026-10-20
+79,188,109,g,Au,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[56],2026-10-20
+79,189,110,g,Au,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[56],2026-10-20
+79,190,111,g,Au,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[56],2026-10-20
+79,191,112,g,Au,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[56],2026-10-20
+79,192,113,g,Au,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[56],2026-10-20
+79,193,114,g,Au,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[56],2026-10-20
+79,194,115,g,Au,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[56],2026-10-20
+79,195,116,g,Au,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[56],2026-10-20
+79,196,117,g,Au,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[56],2026-10-20
+79,197,118,g,Au,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[56],2026-10-20
+79,191,112,g,Au,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[57],2026-10-20
+79,192,113,g,Au,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[57],2026-10-20
+79,193,114,g,Au,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[57],2026-10-20
+79,194,115,g,Au,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[57],2026-10-20
+79,184,105,g,Au,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[58],2026-10-20
+79,184,105,m,Au,0,1,1,1,"μI, Qs, δ<r2>",COMPLIS,ISOLDE,[58],2026-10-20
+79,184,105,g,Au,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[54],2026-10-20
+79,184,105,m,Au,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[54],2026-10-20
+79,191,112,g,Au,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[54],2026-10-20
+79,193,114,g,Au,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[54],2026-10-20
+79,195,116,g,Au,0,1,1,1,"μI, Qs, δ<r2>",RIMS,ISOLDE,[54],2026-10-20
+79,177,98,g,Au,0,0,0,0,hfs anomaly,IS-RIS,ISOLDE,[198],2026-10-20
+79,189,110,g,Au,0,0,0,0,hfs anomaly,IS-RIS,ISOLDE,[198],2026-10-20
+79,191,112,g,Au,0,0,0,0,hfs anomaly,IS-RIS,ISOLDE,[198],2026-10-20
+79,193,114,g,Au,0,0,0,0,hfs anomaly,IS-RIS,ISOLDE,[198],2026-10-20
+79,195,116,g,Au,0,0,0,0,hfs anomaly,IS-RIS,ISOLDE,[198],2026-10-20
+79,187,108,m,Au,0,1,0,1,"μI, δ<r2>",IS-RIS,ISOLDE,[203],2026-10-20
+79,180,101,g,Au,0,1,0,1,"μI, δ<r2>",IS-RIS,ISOLDE,[206],2026-10-20
+79,182,103,g,Au,0,1,0,1,"μI, δ<r2>",IS-RIS,ISOLDE,[206],2026-10-20
+79,177,98,g,Au,1,1,0,0,"I, μI",IS-RIS + MR-TOF + NDD,ISOLDE,[223],2026-10-20
+79,179,100,g,Au,1,1,0,0,"I, μI",IS-RIS + MR-TOF + NDD,ISOLDE,[223],2026-10-20
+79,176,97,ls,Au,0,1,0,0,μI,IS-RIS + NDD,ISOLDE,[225],2026-10-20
+79,176,97,hs,Au,0,1,0,0,μI,IS-RIS + NDD,ISOLDE,[225],2026-10-20
+79,176,97,ls,Au,0,1,0,1,"μI, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[238],2026-10-20
+79,176,97,hs,Au,0,1,0,1,"μI, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[238],2026-10-20
+79,177,98,g,Au,0,1,0,1,"μI, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[238],2026-10-20
+79,177,98,m,Au,0,1,0,1,"μI, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[238],2026-10-20
+79,178,99,g,Au,0,1,0,1,"μI, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[238],2026-10-20
+79,178,99,m,Au,0,1,0,1,"μI, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[238],2026-10-20
+79,179,100,g,Au,0,1,0,1,"μI, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[238],2026-10-20
+79,180,101,g,Au,0,1,0,1,"μI, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[238],2026-10-20
+79,181,102,g,Au,0,1,0,1,"μI, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[238],2026-10-20
+79,182,103,g,Au,0,1,0,1,"μI, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[238],2026-10-20
+79,183,104,g,Au,0,1,0,1,"μI, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[238],2026-10-20
+79,187,108,m,Au,0,1,0,1,"μI, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[238],2026-10-20
+79,191,112,m,Au,0,1,0,1,"μI, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[238],2026-10-20
+79,193,114,m,Au,0,1,0,1,"μI, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[238],2026-10-20
+79,195,116,m,Au,0,1,0,1,"μI, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[238],2026-10-20
+80,185,105,m,Hg,0,1,1,1,"μI, Qs, δ<r2>",GCS,ISOLDE,[Dab79],2026-10-20
+80,187,107,m,Hg,0,1,1,1,"μI, Qs, δ<r2>",GCS,ISOLDE,[Dab79],2026-10-20
+80,189,109,m,Hg,0,1,1,1,"μI, Qs, δ<r2>",GCS,ISOLDE,[Dab79],2026-10-20
+80,191,111,m,Hg,0,1,1,1,"μI, Qs, δ<r2>",GCS,ISOLDE,[Dab79],2026-10-20
+80,193,113,m,Hg,0,1,1,1,"μI, Qs, δ<r2>",GCS,ISOLDE,[Dab79],2026-10-20
+80,195,115,m,Hg,0,1,1,1,"μI, Qs, δ<r2>",GCS,ISOLDE,[Dab79],2026-10-20
+80,197,117,m,Hg,0,1,1,1,"μI, Qs, δ<r2>",GCS,ISOLDE,[Dab79],2026-10-20
+80,199,119,m,Hg,0,1,1,1,"μI, Qs, δ<r2>",GCS,ISOLDE,[Dab79],2026-10-20
+80,182,102,g,Hg,0,0,0,1,δ<r2>,CS,ISOLDE,[Ulm86],2026-10-20
+80,184,104,g,Hg,0,0,0,1,δ<r2>,CS,ISOLDE,[Ulm86],2026-10-20
+80,186,106,g,Hg,0,0,0,1,δ<r2>,CS,ISOLDE,[Ulm86],2026-10-20
+80,188,108,g,Hg,0,0,0,1,δ<r2>,CS,ISOLDE,[Ulm86],2026-10-20
+80,190,110,g,Hg,0,0,0,1,δ<r2>,CS,ISOLDE,[Ulm86],2026-10-20
+80,192,112,g,Hg,0,0,0,1,δ<r2>,CS,ISOLDE,[Ulm86],2026-10-20
+80,194,114,g,Hg,0,0,0,1,δ<r2>,CS,ISOLDE,[Ulm86],2026-10-20
+80,196,116,g,Hg,0,0,0,1,δ<r2>,CS,ISOLDE,[Ulm86],2026-10-20
+80,198,118,g,Hg,0,0,0,1,δ<r2>,CS,ISOLDE,[Ulm86],2026-10-20
+80,181,101,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,182,102,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,183,103,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,184,104,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,185,105,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,186,106,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,187,107,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,188,108,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,189,109,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,190,110,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,191,111,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,192,112,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,193,113,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,194,114,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,195,115,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,196,116,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,197,117,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,198,118,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,199,119,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,200,120,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,201,121,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,202,122,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,203,123,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,204,124,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,205,125,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,206,126,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,185,105,m,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,187,107,m,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,189,109,m,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,191,111,m,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,193,113,m,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,195,115,m,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,197,117,m,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,199,119,m,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",CLS,ISOLDE,Summary in [Ulm86],2026-10-20
+80,177,97,g,Hg,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[185],2026-10-20
+80,178,98,g,Hg,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[185],2026-10-20
+80,179,99,g,Hg,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[185],2026-10-20
+80,180,100,g,Hg,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[185],2026-10-20
+80,181,101,g,Hg,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[185],2026-10-20
+80,182,102,g,Hg,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[185],2026-10-20
+80,183,103,g,Hg,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[185],2026-10-20
+80,184,104,g,Hg,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[185],2026-10-20
+80,185,105,g,Hg,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[185],2026-10-20
+80,185,105,m,Hg,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[185],2026-10-20
+80,177,97,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS / IS-RIS + MR-TOF + NDD,ISOLDE,[186],2026-10-20
+80,178,98,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS / IS-RIS + MR-TOF + NDD,ISOLDE,[186],2026-10-20
+80,179,99,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS / IS-RIS + MR-TOF + NDD,ISOLDE,[186],2026-10-20
+80,180,100,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS / IS-RIS + MR-TOF + NDD,ISOLDE,[186],2026-10-20
+80,181,101,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS / IS-RIS + MR-TOF + NDD,ISOLDE,[186],2026-10-20
+80,182,102,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS / IS-RIS + MR-TOF + NDD,ISOLDE,[186],2026-10-20
+80,183,103,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS / IS-RIS + MR-TOF + NDD,ISOLDE,[186],2026-10-20
+80,184,104,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS / IS-RIS + MR-TOF + NDD,ISOLDE,[186],2026-10-20
+80,185,105,g,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS / IS-RIS + MR-TOF + NDD,ISOLDE,[186],2026-10-20
+80,185,105,m,Hg,1,1,1,1,"I, μI, Qs, δ<r2>",RIMS / IS-RIS + MR-TOF + NDD,ISOLDE,[186],2026-10-20
+80,202,122,g,Hg,0,0,0,1,δ<r2>,RIMS / IS-RIS + MR-TOF,ISOLDE,[210],2026-10-20
+80,203,123,g,Hg,0,0,0,1,δ<r2>,RIMS / IS-RIS + MR-TOF,ISOLDE,[210],2026-10-20
+80,206,126,g,Hg,0,0,0,1,δ<r2>,RIMS / IS-RIS + MR-TOF,ISOLDE,[210],2026-10-20
+80,207,127,g,Hg,0,0,0,1,δ<r2>,RIMS / IS-RIS + MR-TOF,ISOLDE,[210],2026-10-20
+80,208,128,g,Hg,0,0,0,1,δ<r2>,RIMS / IS-RIS + MR-TOF,ISOLDE,[210],2026-10-20
+80,198,118,g,Hg,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[226],2026-10-20
+80,202,122,g,Hg,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[226],2026-10-20
+80,203,123,g,Hg,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[226],2026-10-20
+80,206,126,g,Hg,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[226],2026-10-20
+80,207,127,g,Hg,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[226],2026-10-20
+80,208,128,g,Hg,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[226],2026-10-20
+81,207,126,g,Tl,0,1,0,0,μI,CS,ISOLDE,[Ne85],2026-10-20
+81,189,108,m,Tl,0,0,1,0,Qs,CS,Oak Ridge,[Bou85],2026-10-20
+81,191,110,m,Tl,0,0,1,0,Qs,CS,Oak Ridge,[Bou85],2026-10-20
+81,193,112,m,Tl,0,0,1,0,Qs,CS,Oak Ridge,[Bou85],2026-10-20
+81,193,112,g,Tl,0,0,1,0,Qs,CS,Oak Ridge,[Bou85],2026-10-20
+81,189,108,g,Tl,0,1,1,1,"μI, Qs, δ<r2>",CS,Oak Ridge,[Bou87],2026-10-20
+81,190,109,g,Tl,0,1,1,1,"μI, Qs, δ<r2>",CS,Oak Ridge,[Bou87],2026-10-20
+81,191,110,g,Tl,0,1,1,1,"μI, Qs, δ<r2>",CS,Oak Ridge,[Bou87],2026-10-20
+81,192,111,g,Tl,0,1,1,1,"μI, Qs, δ<r2>",CS,Oak Ridge,[Bou87],2026-10-20
+81,193,112,g,Tl,0,1,1,1,"μI, Qs, δ<r2>",CS,Oak Ridge,[Bou87],2026-10-20
+81,194,113,g,Tl,0,1,1,1,"μI, Qs, δ<r2>",CS,Oak Ridge,[Bou87],2026-10-20
+81,189,108,m,Tl,0,1,1,1,"μI, Qs, δ<r2>",CS,Oak Ridge,[Bou87],2026-10-20
+81,191,110,m,Tl,0,1,1,1,"μI, Qs, δ<r2>",CS,Oak Ridge,[Bou87],2026-10-20
+81,193,112,m,Tl,0,1,1,1,"μI, Qs, δ<r2>",CS,Oak Ridge,[Bou87],2026-10-20
+81,188,107,m,Tl,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[59],2026-10-20
+81,190,109,g,Tl,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[59],2026-10-20
+81,190,109,m,Tl,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[59],2026-10-20
+81,191,110,g,Tl,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[59],2026-10-20
+81,191,110,m,Tl,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[59],2026-10-20
+81,192,111,g,Tl,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[59],2026-10-20
+81,192,111,m,Tl,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[59],2026-10-20
+81,194,113,g,Tl,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[59],2026-10-20
+81,194,113,m,Tl,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[59],2026-10-20
+81,196,115,g,Tl,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[59],2026-10-20
+81,196,115,m,Tl,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[59],2026-10-20
+81,208,127,g,Tl,0,1,0,1,"μI, δ<r2>",RADRIS,"off-line, Mainz",[60],2026-10-20
+81,187,106,g,Tl,0,1,1,0,"μI, Qs",CS,Oak Ridge,[61],2026-10-20
+81,188,107,g,Tl,0,1,1,0,"μI, Qs",CS,Oak Ridge,[61],2026-10-20
+81,183,102,g,Tl,0,1,0,1,"μI, δ<r2>",IS-RIS,Gatchina,[135],2026-10-20
+81,184,103,m1,Tl,0,1,0,1,"μI, δ<r2>",IS-RIS,Gatchina,[135],2026-10-20
+81,185,104,m,Tl,0,1,0,1,"μI, δ<r2>",IS-RIS,Gatchina,[135],2026-10-20
+81,185,104,g,Tl,0,1,0,1,"μI, δ<r2>",IS-RIS,Gatchina,[135],2026-10-20
+81,186,105,m2,Tl,0,1,0,1,"μI, δ<r2>",IS-RIS,Gatchina,[135],2026-10-20
+81,187,106,m,Tl,0,1,0,1,"μI, δ<r2>",IS-RIS,Gatchina,[135],2026-10-20
+81,195,114,m,Tl,0,1,0,1,"μI, δ<r2>",IS-RIS,Gatchina,[135],2026-10-20
+81,197,116,m,Tl,0,1,0,1,"μI, δ<r2>",IS-RIS,Gatchina,[135],2026-10-20
+81,203,122,g,Tl,0,1,0,1,"μI, δ<r2>",IS-RIS,Gatchina,[135],2026-10-20
+81,205,124,g,Tl,0,1,0,1,"μI, δ<r2>",IS-RIS,Gatchina,[135],2026-10-20
+81,207,126,g,Tl,0,1,0,1,"μI, δ<r2>",IS-RIS,Gatchina,[135],2026-10-20
+81,179,98,g,Tl,1,1,0,1,"I, μI, δ<r2>",IS-RIS,ISOLDE,[168],2026-10-20
+81,180,99,g,Tl,1,1,0,1,"I, μI, δ<r2>",IS-RIS,ISOLDE,[168],2026-10-20
+81,181,100,g,Tl,1,1,0,1,"I, μI, δ<r2>",IS-RIS,ISOLDE,[168],2026-10-20
+81,182,101,g,Tl,1,1,0,1,"I, μI, δ<r2>",IS-RIS,ISOLDE,[168],2026-10-20
+81,183,102,g,Tl,1,1,0,1,"I, μI, δ<r2>",IS-RIS,ISOLDE,[168],2026-10-20
+81,184,103,g,Tl,1,1,0,1,"I, μI, δ<r2>",IS-RIS,ISOLDE,[168],2026-10-20
+81,184,103,m1,Tl,1,1,0,1,"I, μI, δ<r2>",IS-RIS,ISOLDE,[168],2026-10-20
+81,184,103,m2,Tl,1,1,0,1,"I, μI, δ<r2>",IS-RIS,ISOLDE,[168],2026-10-20
+81,184,103,m3,Tl,1,1,0,1,"I, μI, δ<r2>",IS-RIS,ISOLDE,[168],2026-10-20
+81,183,102,m,Tl,1,1,0,1,"I, μI, δ<r2>",IS-RIS,ISOLDE,[168],2026-10-20
+81,182,101,m1,Tl,1,1,0,1,"I, μI, δ<r2>",IS-RIS,ISOLDE,[168],2026-10-20
+81,182,101,m2,Tl,1,1,0,1,"I, μI, δ<r2>",IS-RIS,ISOLDE,[168],2026-10-20
+81,209,128,g,Tl,0,1,0,0,μI,IS-RIS,ISOLDE,[241],2026-10-20
+81,207,126,m,Tl,0,1,0,0,μI,IS-RIS,ISOLDE,[241],2026-10-20
+81,203,122,g,Tl,0,0,0,1,δ<r2>,IS-RIS + LIST,ISOLDE,[245],2026-10-20
+81,207,126,g,Tl,0,0,0,1,δ<r2>,IS-RIS + LIST,ISOLDE,[245],2026-10-20
+81,207,126,m,Tl,0,0,0,1,δ<r2>,IS-RIS + LIST,ISOLDE,[245],2026-10-20
+81,208,127,g,Tl,0,0,0,1,δ<r2>,IS-RIS + LIST,ISOLDE,[245],2026-10-20
+81,209,128,g,Tl,0,0,0,1,δ<r2>,IS-RIS + LIST,ISOLDE,[245],2026-10-20
+82,196,114,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, FR2","[Tho83], [Ans86c]",2026-10-20
+82,197,115,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, FR2","[Tho83], [Ans86c]",2026-10-20
+82,198,116,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, FR2","[Tho83], [Ans86c]",2026-10-20
+82,199,117,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, FR2","[Tho83], [Ans86c]",2026-10-20
+82,200,118,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, FR2","[Tho83], [Ans86c]",2026-10-20
+82,201,119,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, FR2","[Tho83], [Ans86c]",2026-10-20
+82,202,120,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, FR2","[Tho83], [Ans86c]",2026-10-20
+82,203,121,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, FR2","[Tho83], [Ans86c]",2026-10-20
+82,204,122,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, FR2","[Tho83], [Ans86c]",2026-10-20
+82,205,123,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, FR2","[Tho83], [Ans86c]",2026-10-20
+82,206,124,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, FR2","[Tho83], [Ans86c]",2026-10-20
+82,207,125,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, FR2","[Tho83], [Ans86c]",2026-10-20
+82,208,126,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, FR2","[Tho83], [Ans86c]",2026-10-20
+82,209,127,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, FR2","[Tho83], [Ans86c]",2026-10-20
+82,210,128,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, FR2","[Tho83], [Ans86c]",2026-10-20
+82,211,129,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, FR2","[Tho83], [Ans86c]",2026-10-20
+82,212,130,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, FR2","[Tho83], [Ans86c]",2026-10-20
+82,214,132,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, FR2","[Tho83], [Ans86c]",2026-10-20
+82,197,115,m,Pb,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, FR2","[Tho83], [Ans86c]",2026-10-20
+82,202,120,m,Pb,0,1,1,1,"μI, Qs, δ<r2>",ABS,"Karlsruhe, FR2","[Tho83], [Ans86c]",2026-10-20
+82,192,110,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Din87],2026-10-20
+82,194,112,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Din87],2026-10-20
+82,195,113,m,Pb,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Din87],2026-10-20
+82,196,114,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Din87],2026-10-20
+82,204,122,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Din87],2026-10-20
+82,206,124,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Din87],2026-10-20
+82,207,125,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Din87],2026-10-20
+82,208,126,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[Din87],2026-10-20
+82,190,108,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[62],2026-10-20
+82,191,109,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[62],2026-10-20
+82,193,111,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[62],2026-10-20
+82,197,115,g,Pb,0,1,1,1,"μI, Qs, δ<r2>",CS,GSI,[62],2026-10-20
+82,185,103,m1,Pb,1,1,0,0,"I, μI",IS-RIS,ISOLDE,[63],2026-10-20
+82,185,103,m2,Pb,1,1,0,0,"I, μI",IS-RIS,ISOLDE,[63],2026-10-20
+82,182,100,g,Pb,0,1,1,1,"δ<r2>, μI, Qs",RIMS,ISOLDE,"[105], [93]",2026-10-20
+82,183,101,g,Pb,0,1,1,1,"δ<r2>, μI, Qs",RIMS,ISOLDE,"[105], [93]",2026-10-20
+82,184,102,g,Pb,0,1,1,1,"δ<r2>, μI, Qs",RIMS,ISOLDE,"[105], [93]",2026-10-20
+82,185,103,g,Pb,0,1,1,1,"δ<r2>, μI, Qs",RIMS,ISOLDE,"[105], [93]",2026-10-20
+82,186,104,g,Pb,0,1,1,1,"δ<r2>, μI, Qs",RIMS,ISOLDE,"[105], [93]",2026-10-20
+82,187,105,g,Pb,0,1,1,1,"δ<r2>, μI, Qs",RIMS,ISOLDE,"[105], [93]",2026-10-20
+82,188,106,g,Pb,0,1,1,1,"δ<r2>, μI, Qs",RIMS,ISOLDE,"[105], [93]",2026-10-20
+82,189,107,g,Pb,0,1,1,1,"δ<r2>, μI, Qs",RIMS,ISOLDE,"[105], [93]",2026-10-20
+82,190,108,g,Pb,0,1,1,1,"δ<r2>, μI, Qs",RIMS,ISOLDE,"[105], [93]",2026-10-20
+82,183,101,g,Pb,0,1,1,1,"δ<r2>, μI, Qs",RIMS,ISOLDE,"[105], [93]",2026-10-20
+82,184,102,g,Pb,0,1,1,1,"δ<r2>, μI, Qs",RIMS,ISOLDE,"[105], [93]",2026-10-20
+82,185,103,g,Pb,0,1,1,1,"δ<r2>, μI, Qs",RIMS,ISOLDE,"[105], [93]",2026-10-20
+82,186,104,g,Pb,0,1,1,1,"δ<r2>, μI, Qs",RIMS,ISOLDE,"[105], [93]",2026-10-20
+82,187,105,g,Pb,0,1,1,1,"δ<r2>, μI, Qs",RIMS,ISOLDE,"[105], [93]",2026-10-20
+82,188,106,g,Pb,0,1,1,1,"δ<r2>, μI, Qs",RIMS,ISOLDE,"[105], [93]",2026-10-20
+82,189,107,g,Pb,0,1,1,1,"δ<r2>, μI, Qs",RIMS,ISOLDE,"[105], [93]",2026-10-20
+83,202,119,g,Bi,0,1,1,1,"δ<r2>, μI, Qs",GCS,Stony Brook,[65],2026-10-20
+83,203,120,g,Bi,0,1,1,1,"δ<r2>, μI, Qs",GCS,Stony Brook,[65],2026-10-20
+83,204,121,g,Bi,0,1,1,1,"δ<r2>, μI, Qs",GCS,Stony Brook,[65],2026-10-20
+83,205,122,g,Bi,0,1,1,1,"δ<r2>, μI, Qs",GCS / ABS,ISOLDE,"[66, 67]",2026-10-20
+83,206,123,g,Bi,0,1,1,1,"δ<r2>, μI, Qs",GCS / ABS,ISOLDE,"[66, 67]",2026-10-20
+83,207,124,g,Bi,0,1,1,1,"δ<r2>, μI, Qs",GCS / ABS,ISOLDE,"[66, 67]",2026-10-20
+83,208,125,g,Bi,0,1,1,1,"δ<r2>, μI, Qs",GCS / ABS,ISOLDE,"[66, 67]",2026-10-20
+83,209,126,g,Bi,0,1,1,1,"δ<r2>, μI, Qs",GCS / ABS,ISOLDE,"[66, 67]",2026-10-20
+83,210,127,g,Bi,0,1,1,1,"δ<r2>, μI, Qs",GCS / ABS,ISOLDE,"[66, 67]",2026-10-20
+83,210,127,m,Bi,0,1,1,1,"δ<r2>, μI, Qs",GCS / ABS,ISOLDE,"[66, 67]",2026-10-20
+83,212,129,g,Bi,0,1,1,1,"δ<r2>, μI, Qs",GCS / ABS,ISOLDE,"[66, 67]",2026-10-20
+83,213,130,g,Bi,0,1,1,1,"δ<r2>, μI, Qs",GCS / ABS,ISOLDE,"[66, 67]",2026-10-20
+83,208,125,g,Bi,0,1,1,0,"μI, Qs",CS + cooler RFQ,ISOLDE,[175],2026-10-20
+83,193,110,g,Bi,0,1,0,1,"δ<r2>, μI",IS-RIS,Gatchina,[220],2026-10-20
+83,193,110,m,Bi,0,1,0,1,"δ<r2>, μI",IS-RIS,Gatchina,[220],2026-10-20
+83,195,112,g,Bi,0,1,0,1,"δ<r2>, μI",IS-RIS,Gatchina,[220],2026-10-20
+83,195,112,m,Bi,0,1,0,1,"δ<r2>, μI",IS-RIS,Gatchina,[220],2026-10-20
+83,197,114,g,Bi,0,1,0,1,"δ<r2>, μI",IS-RIS,Gatchina,[220],2026-10-20
+83,197,114,m,Bi,0,1,0,1,"δ<r2>, μI",IS-RIS,Gatchina,[220],2026-10-20
+83,189,106,g,Bi,0,1,0,1,"δ<r2>, μI",IS-RIS,Gatchina,[221],2026-10-20
+83,190,107,m1,Bi,0,1,0,1,"δ<r2>, μI",IS-RIS,Gatchina,[221],2026-10-20
+83,190,107,m2,Bi,0,1,0,1,"δ<r2>, μI",IS-RIS,Gatchina,[221],2026-10-20
+83,191,108,g,Bi,0,1,0,1,"δ<r2>, μI",IS-RIS,Gatchina,[221],2026-10-20
+83,192,109,g,Bi,0,1,0,1,"δ<r2>, μI",IS-RIS,Gatchina,[221],2026-10-20
+83,192,109,m,Bi,0,1,0,1,"δ<r2>, μI",IS-RIS,Gatchina,[221],2026-10-20
+83,194,111,g,Bi,0,1,0,1,"δ<r2>, μI",IS-RIS,Gatchina,[221],2026-10-20
+83,194,111,m,Bi,0,1,0,1,"δ<r2>, μI",IS-RIS,Gatchina,[221],2026-10-20
+83,198,115,m,Bi,0,1,0,1,"δ<r2>, μI",IS-RIS,Gatchina,[221],2026-10-20
+83,211,128,g,Bi,0,1,1,1,"δ<r2>, μI, Qs",IS-RIS,Gatchina,[222],2026-10-20
+83,213,130,g,Bi,0,1,1,1,"δ<r2>, μI, Qs",IS-RIS,Gatchina,[222],2026-10-20
+83,187,104,g,Bi,0,1,1,1,"δ<r2>, μI, Qs",IS-RIS,Gatchina,[224],2026-10-20
+83,188,105,g,Bi,0,1,1,1,"δ<r2>, μI, Qs",IS-RIS,Gatchina,[224],2026-10-20
+83,188,105,m,Bi,0,1,1,1,"δ<r2>, μI, Qs",IS-RIS,Gatchina,[224],2026-10-20
+83,189,106,g,Bi,0,1,1,1,"δ<r2>, μI, Qs",IS-RIS,Gatchina,[224],2026-10-20
+83,191,108,g,Bi,0,1,1,1,"δ<r2>, μI, Qs",IS-RIS,Gatchina,[224],2026-10-20
+83,214,131,g,Bi,1,1,1,1,"I, μI, Qs, δ<r2>",IS-RIS,ISOLDE,[254],2026-10-20
+83,215,132,g,Bi,1,1,1,1,"I, μI, Qs, δ<r2>",IS-RIS,ISOLDE,[254],2026-10-20
+83,216,133,g,Bi,1,1,1,1,"I, μI, Qs, δ<r2>",IS-RIS,ISOLDE,[254],2026-10-20
+83,217,134,g,Bi,1,1,1,1,"I, μI, Qs, δ<r2>",IS-RIS,ISOLDE,[254],2026-10-20
+83,218,135,g,Bi,1,1,1,1,"I, μI, Qs, δ<r2>",IS-RIS,ISOLDE,[254],2026-10-20
+83,214,131,m,Bi,1,1,1,1,"I, μI, Qs, δ<r2>",IS-RIS,ISOLDE,[254],2026-10-20
+83,216,133,m,Bi,1,1,1,1,"I, μI, Qs, δ<r2>",IS-RIS,ISOLDE,[254],2026-10-20
+83,215,132,g,Bi,0,1,1,0,"μI, Qs",IS-RIS,ISOLDE,[263],2026-10-20
+83,217,134,g,Bi,0,1,1,0,"μI, Qs",IS-RIS,ISOLDE,[263],2026-10-20
+84,200,116,g,Po,0,1,1,1,"μI, Qs, δ<r2>",LIF,FZ Karlsruhe,[69],2026-10-20
+84,202,118,g,Po,0,1,1,1,"μI, Qs, δ<r2>",LIF,FZ Karlsruhe,[69],2026-10-20
+84,204,120,g,Po,0,1,1,1,"μI, Qs, δ<r2>",LIF,FZ Karlsruhe,[69],2026-10-20
+84,205,121,g,Po,0,1,1,1,"μI, Qs, δ<r2>",LIF,FZ Karlsruhe,[69],2026-10-20
+84,206,122,g,Po,0,1,1,1,"μI, Qs, δ<r2>",LIF,FZ Karlsruhe,[69],2026-10-20
+84,207,123,g,Po,0,1,1,1,"μI, Qs, δ<r2>",LIF,FZ Karlsruhe,[69],2026-10-20
+84,208,124,g,Po,0,1,1,1,"μI, Qs, δ<r2>",LIF,FZ Karlsruhe,[69],2026-10-20
+84,209,125,g,Po,0,1,1,1,"μI, Qs, δ<r2>",LIF,FZ Karlsruhe,[69],2026-10-20
+84,210,126,g,Po,0,1,1,1,"μI, Qs, δ<r2>",LIF,FZ Karlsruhe,[69],2026-10-20
+84,192,108,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[106],2026-10-20
+84,193,109,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[106],2026-10-20
+84,194,110,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[106],2026-10-20
+84,195,111,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[106],2026-10-20
+84,196,112,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[106],2026-10-20
+84,197,113,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[106],2026-10-20
+84,198,114,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[106],2026-10-20
+84,199,115,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[106],2026-10-20
+84,200,116,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[106],2026-10-20
+84,201,117,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[106],2026-10-20
+84,202,118,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[106],2026-10-20
+84,203,119,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[106],2026-10-20
+84,204,120,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[106],2026-10-20
+84,205,121,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[106],2026-10-20
+84,206,122,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[106],2026-10-20
+84,207,123,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[106],2026-10-20
+84,208,124,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[106],2026-10-20
+84,209,125,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[106],2026-10-20
+84,210,126,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[106],2026-10-20
+84,216,132,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[106],2026-10-20
+84,218,134,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[106],2026-10-20
+84,191,107,hs,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[129],2026-10-20
+84,193,109,s,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[129],2026-10-20
+84,193,109,hs,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[129],2026-10-20
+84,195,111,s,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[129],2026-10-20
+84,195,111,hs,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[129],2026-10-20
+84,197,113,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[129],2026-10-20
+84,197,113,m,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[129],2026-10-20
+84,199,115,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[129],2026-10-20
+84,199,115,m,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[129],2026-10-20
+84,201,117,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[129],2026-10-20
+84,201,117,m,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[129],2026-10-20
+84,203,119,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[129],2026-10-20
+84,203,119,m,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[129],2026-10-20
+84,209,125,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[129],2026-10-20
+84,211,127,g,Po,0,0,0,1,δ<r2>,IS-RIS,ISOLDE,[129],2026-10-20
+84,211,127,g,Po,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS,ISOLDE,[151],2026-10-20
+84,216,132,g,Po,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS,ISOLDE,[151],2026-10-20
+84,217,133,g,Po,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS,ISOLDE,[151],2026-10-20
+84,217,133,m,Po,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS,ISOLDE,[151],2026-10-20
+84,218,134,g,Po,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS,ISOLDE,[151],2026-10-20
+85,195,110,g,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[179],2026-10-20
+85,196,111,g,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[179],2026-10-20
+85,197,112,g,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[179],2026-10-20
+85,198,113,g,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[179],2026-10-20
+85,199,114,g,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[179],2026-10-20
+85,200,115,g,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[179],2026-10-20
+85,201,116,g,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[179],2026-10-20
+85,202,117,g,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[179],2026-10-20
+85,203,118,g,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[179],2026-10-20
+85,204,119,g,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[179],2026-10-20
+85,205,120,g,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[179],2026-10-20
+85,206,121,g,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[179],2026-10-20
+85,207,122,g,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[179],2026-10-20
+85,208,123,g,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[179],2026-10-20
+85,209,124,g,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[179],2026-10-20
+85,210,125,g,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[179],2026-10-20
+85,211,126,g,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[179],2026-10-20
+85,195,110,m,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[179],2026-10-20
+85,197,112,m,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[179],2026-10-20
+85,198,113,m,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[179],2026-10-20
+85,199,114,m,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[179],2026-10-20
+85,200,115,m1,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[179],2026-10-20
+85,200,115,m2,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[179],2026-10-20
+85,202,117,m,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[179],2026-10-20
+85,217,132,g,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[194],2026-10-20
+85,218,133,g,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[194],2026-10-20
+85,219,134,g,At,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS + MR-TOF + NDD,ISOLDE,[194],2026-10-20
+85,199,114,g,At,0,0,0,0,Ion. Pot.,IS-RIS + NDD,ISOLDE,[219],2026-10-20
+86,202,116,g,Rn,1,1,1,1,"I, μI, Qs, δ<r2>","CLS, RADOP",ISOLDE,[Ott89] (Table 29),2026-10-20
+86,204,118,g,Rn,1,1,1,1,"I, μI, Qs, δ<r2>","CLS, RADOP",ISOLDE,[Ott89] (Table 29),2026-10-20
+86,205,119,g,Rn,1,1,1,1,"I, μI, Qs, δ<r2>","CLS, RADOP",ISOLDE,[Ott89] (Table 29),2026-10-20
+86,206,120,g,Rn,1,1,1,1,"I, μI, Qs, δ<r2>","CLS, RADOP",ISOLDE,[Ott89] (Table 29),2026-10-20
+86,207,121,g,Rn,1,1,1,1,"I, μI, Qs, δ<r2>","CLS, RADOP",ISOLDE,[Ott89] (Table 29),2026-10-20
+86,208,122,g,Rn,1,1,1,1,"I, μI, Qs, δ<r2>","CLS, RADOP",ISOLDE,[Ott89] (Table 29),2026-10-20
+86,209,123,g,Rn,1,1,1,1,"I, μI, Qs, δ<r2>","CLS, RADOP",ISOLDE,[Ott89] (Table 29),2026-10-20
+86,210,124,g,Rn,1,1,1,1,"I, μI, Qs, δ<r2>","CLS, RADOP",ISOLDE,[Ott89] (Table 29),2026-10-20
+86,211,125,g,Rn,1,1,1,1,"I, μI, Qs, δ<r2>","CLS, RADOP",ISOLDE,[Ott89] (Table 29),2026-10-20
+86,212,126,g,Rn,1,1,1,1,"I, μI, Qs, δ<r2>","CLS, RADOP",ISOLDE,[Ott89] (Table 29),2026-10-20
+86,218,132,g,Rn,1,1,1,1,"I, μI, Qs, δ<r2>","CLS, RADOP",ISOLDE,[Ott89] (Table 29),2026-10-20
+86,219,133,g,Rn,1,1,1,1,"I, μI, Qs, δ<r2>","CLS, RADOP",ISOLDE,[Ott89] (Table 29),2026-10-20
+86,220,134,g,Rn,1,1,1,1,"I, μI, Qs, δ<r2>","CLS, RADOP",ISOLDE,[Ott89] (Table 29),2026-10-20
+86,221,135,g,Rn,1,1,1,1,"I, μI, Qs, δ<r2>","CLS, RADOP",ISOLDE,[Ott89] (Table 29),2026-10-20
+86,222,136,g,Rn,1,1,1,1,"I, μI, Qs, δ<r2>","CLS, RADOP",ISOLDE,[Ott89] (Table 29),2026-10-20
+86,223,137,g,Rn,1,1,1,1,"I, μI, Qs, δ<r2>","CLS, RADOP",ISOLDE,[Ott89] (Table 29),2026-10-20
+86,225,139,g,Rn,1,1,1,1,"I, μI, Qs, δ<r2>","CLS, RADOP",ISOLDE,[Ott89] (Table 29),2026-10-20
+86,203,117,m,Rn,1,1,1,1,"I, μI, Qs, δ<r2>","CLS, RADOP",ISOLDE,[Ott89] (Table 29),2026-10-20
+86,209,123,g,Rn,0,1,0,0,μI,SEOP + β-NMR,ISOLDE,[Kit88],2026-10-20
+86,203,117,m,Rn,0,1,0,0,μI,CS,ISOLDE,[Bor87],2026-10-20
+86,205,119,g,Rn,0,1,0,0,μI,CS,ISOLDE,[Bor87],2026-10-20
+86,207,121,g,Rn,0,1,0,0,μI,CS,ISOLDE,[Bor87],2026-10-20
+86,209,123,g,Rn,0,1,0,0,μI,CS,ISOLDE,[Bor87],2026-10-20
+86,211,125,g,Rn,0,1,0,0,μI,CS,ISOLDE,[Bor87],2026-10-20
+86,219,133,g,Rn,0,1,0,0,μI,CS,ISOLDE,[Bor87],2026-10-20
+86,221,135,g,Rn,0,1,0,0,μI,CS,ISOLDE,[Bor87],2026-10-20
+87,208,121,g,Fr,0,0,0,0,"A, B, δν",LIOP-SGA,ISOLDE,[Lib80],2026-10-20
+87,209,122,g,Fr,0,0,0,0,"A, B, δν",LIOP-SGA,ISOLDE,[Lib80],2026-10-20
+87,210,123,g,Fr,0,0,0,0,"A, B, δν",LIOP-SGA,ISOLDE,[Lib80],2026-10-20
+87,211,124,g,Fr,0,0,0,0,"A, B, δν",LIOP-SGA,ISOLDE,[Lib80],2026-10-20
+87,212,125,g,Fr,0,0,0,0,"A, B, δν",LIOP-SGA,ISOLDE,[Lib80],2026-10-20
+87,213,126,g,Fr,0,0,0,0,"A, B, δν",LIOP-SGA,ISOLDE,[Lib80],2026-10-20
+87,207,120,g,Fr,0,1,1,1,"μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,"[Coc85], [Coc87]",2026-10-20
+87,208,121,g,Fr,0,1,1,1,"μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,"[Coc85], [Coc87]",2026-10-20
+87,209,122,g,Fr,0,1,1,1,"μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,"[Coc85], [Coc87]",2026-10-20
+87,210,123,g,Fr,0,1,1,1,"μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,"[Coc85], [Coc87]",2026-10-20
+87,211,124,g,Fr,0,1,1,1,"μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,"[Coc85], [Coc87]",2026-10-20
+87,212,125,g,Fr,0,1,1,1,"μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,"[Coc85], [Coc87]",2026-10-20
+87,213,126,g,Fr,0,1,1,1,"μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,"[Coc85], [Coc87]",2026-10-20
+87,220,133,g,Fr,0,1,1,1,"μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,"[Coc85], [Coc87]",2026-10-20
+87,221,134,g,Fr,0,1,1,1,"μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,"[Coc85], [Coc87]",2026-10-20
+87,222,135,g,Fr,0,1,1,1,"μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,"[Coc85], [Coc87]",2026-10-20
+87,223,136,g,Fr,0,1,1,1,"μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,"[Coc85], [Coc87]",2026-10-20
+87,224,137,g,Fr,0,1,1,1,"μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,"[Coc85], [Coc87]",2026-10-20
+87,225,138,g,Fr,0,1,1,1,"μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,"[Coc85], [Coc87]",2026-10-20
+87,226,139,g,Fr,0,1,1,1,"μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,"[Coc85], [Coc87]",2026-10-20
+87,227,140,g,Fr,0,1,1,1,"μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,"[Coc85], [Coc87]",2026-10-20
+87,228,141,g,Fr,0,1,1,1,"μI, Qs, δ<r2>",LIOP-SGA,ISOLDE,"[Coc85], [Coc87]",2026-10-20
+87,213,126,g,Fr,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Duo87],2026-10-20
+87,220,133,g,Fr,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Duo87],2026-10-20
+87,221,134,g,Fr,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Duo87],2026-10-20
+87,210,123,g,Fr,0,0,0,0,hfs anomaly,neutral atom trap,Stony Brook,[70],2026-10-20
+87,210,123,g,Fr,0,0,0,0,hfs,neutral atom trap,Stony Brook,[71],2026-10-20
+87,204,117,g,Fr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,"ISAC, TRIUMF",[132],2026-10-20
+87,205,118,g,Fr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,"ISAC, TRIUMF",[132],2026-10-20
+87,206,119,g,Fr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,"ISAC, TRIUMF",[132],2026-10-20
+87,208,121,g,Fr,1,1,1,1,"I, μI, Qs, δ<r2>",CS + cooler RFQ,"ISAC, TRIUMF",[132],2026-10-20
+87,202,115,g,Fr,0,1,0,1,"μI, δ<r2>",CRIS,ISOLDE,[134],2026-10-20
+87,202,115,m,Fr,0,1,0,1,"μI, δ<r2>",CRIS,ISOLDE,[134],2026-10-20
+87,203,116,g,Fr,0,1,0,1,"μI, δ<r2>",CRIS,ISOLDE,[134],2026-10-20
+87,204,117,g,Fr,0,1,0,1,"μI, δ<r2>",CRIS,ISOLDE,[134],2026-10-20
+87,204,117,m1,Fr,0,1,0,1,"μI, δ<r2>",CRIS,ISOLDE,[134],2026-10-20
+87,204,117,m2,Fr,0,1,0,1,"μI, δ<r2>",CRIS,ISOLDE,[134],2026-10-20
+87,205,118,g,Fr,0,1,0,1,"μI, δ<r2>",CRIS,ISOLDE,[134],2026-10-20
+87,206,119,g,Fr,0,1,0,1,"μI, δ<r2>",CRIS,ISOLDE,[134],2026-10-20
+87,206,119,m1,Fr,0,1,0,1,"μI, δ<r2>",CRIS,ISOLDE,[134],2026-10-20
+87,206,119,m2,Fr,0,1,0,1,"μI, δ<r2>",CRIS,ISOLDE,[134],2026-10-20
+87,207,120,g,Fr,0,1,0,1,"μI, δ<r2>",CRIS,ISOLDE,[134],2026-10-20
+87,211,124,g,Fr,0,1,0,1,"μI, δ<r2>",CRIS,ISOLDE,[134],2026-10-20
+87,220,133,g,Fr,0,1,0,1,"μI, δ<r2>",CRIS,ISOLDE,[134],2026-10-20
+87,221,134,g,Fr,0,1,0,1,"μI, δ<r2>",CRIS,ISOLDE,[134],2026-10-20
+87,204,117,g,Fr,1,1,0,1,"I, μI, δ<r2>",CS + cooler RFQ,TRIUMF,[140],2026-10-20
+87,204,117,m,Fr,1,1,0,1,"I, μI, δ<r2>",CS + cooler RFQ,TRIUMF,[140],2026-10-20
+87,206,119,g,Fr,1,1,0,1,"I, μI, δ<r2>",CS + cooler RFQ,TRIUMF,[140],2026-10-20
+87,206,119,m,Fr,1,1,0,1,"I, μI, δ<r2>",CS + cooler RFQ,TRIUMF,[140],2026-10-20
+87,206,119,g,Fr,0,0,0,1,δ<r2>,MOT,TRIUMF,"[144, 145]",2026-10-20
+87,207,120,g,Fr,0,0,0,1,δ<r2>,MOT,TRIUMF,"[144, 145]",2026-10-20
+87,208,121,g,Fr,0,0,0,1,δ<r2>,MOT,TRIUMF,"[144, 145]",2026-10-20
+87,209,122,g,Fr,0,0,0,1,δ<r2>,MOT,TRIUMF,"[144, 145]",2026-10-20
+87,210,123,g,Fr,0,0,0,1,δ<r2>,MOT,TRIUMF,"[144, 145]",2026-10-20
+87,211,124,g,Fr,0,0,0,1,δ<r2>,MOT,TRIUMF,"[144, 145]",2026-10-20
+87,212,125,g,Fr,0,0,0,1,δ<r2>,MOT,TRIUMF,"[144, 145]",2026-10-20
+87,213,126,g,Fr,0,0,0,1,δ<r2>,MOT,TRIUMF,"[144, 145]",2026-10-20
+87,221,134,g,Fr,0,0,0,1,δ<r2>,MOT,TRIUMF,"[144, 145]",2026-10-20
+87,206,119,g,Fr,0,0,0,0,hfs anomaly,MOT,TRIUMF,[146],2026-10-20
+87,206,119,m,Fr,0,0,0,0,hfs anomaly,MOT,TRIUMF,[146],2026-10-20
+87,207,120,g,Fr,0,0,0,0,hfs anomaly,MOT,TRIUMF,[146],2026-10-20
+87,209,122,g,Fr,0,0,0,0,hfs anomaly,MOT,TRIUMF,[146],2026-10-20
+87,213,126,g,Fr,0,0,0,0,hfs anomaly,MOT,TRIUMF,[146],2026-10-20
+87,221,134,g,Fr,0,0,0,0,hfs anomaly,MOT,TRIUMF,[146],2026-10-20
+87,219,132,g,Fr,0,0,1,0,Qs,CRIS,ISOLDE,[153],2026-10-20
+87,206,119,g,Fr,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[158],2026-10-20
+87,206,119,m1,Fr,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[158],2026-10-20
+87,206,119,m2,Fr,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[158],2026-10-20
+87,213,126,g,Fr,1,0,0,1,"I, δ<r2>",CRIS,ISOLDE,[159],2026-10-20
+87,214,127,g,Fr,1,0,0,1,"I, δ<r2>",CRIS,ISOLDE,[159],2026-10-20
+87,203,116,g,Fr,0,0,1,0,Qs,CRIS,ISOLDE,[170],2026-10-20
+87,207,120,g,Fr,0,0,1,0,Qs,CRIS,ISOLDE,[170],2026-10-20
+87,208,121,g,Fr,0,0,0,1,ΔνIS,MOT,TRIUMF,[182],2026-10-20
+87,209,122,g,Fr,0,0,0,1,ΔνIS,MOT,TRIUMF,[182],2026-10-20
+87,210,123,g,Fr,0,0,0,1,ΔνIS,MOT,TRIUMF,[182],2026-10-20
+87,211,124,g,Fr,0,0,0,1,ΔνIS,MOT,TRIUMF,[182],2026-10-20
+88,211,123,g,Ra,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ahm83],2026-10-20
+88,213,125,g,Ra,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ahm83],2026-10-20
+88,221,133,g,Ra,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ahm83],2026-10-20
+88,223,135,g,Ra,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ahm83],2026-10-20
+88,225,137,g,Ra,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ahm83],2026-10-20
+88,227,139,g,Ra,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ahm83],2026-10-20
+88,229,141,g,Ra,1,1,1,0,"I, μI, Qs",CS,ISOLDE,[Ahm83],2026-10-20
+88,212,124,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Neu88],2026-10-20
+88,214,126,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Neu88],2026-10-20
+88,221,133,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Neu88],2026-10-20
+88,222,134,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Neu88],2026-10-20
+88,223,135,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Neu88],2026-10-20
+88,224,136,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Neu88],2026-10-20
+88,225,137,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Neu88],2026-10-20
+88,226,138,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Neu88],2026-10-20
+88,208,120,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm88],2026-10-20
+88,209,121,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm88],2026-10-20
+88,210,122,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm88],2026-10-20
+88,211,123,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm88],2026-10-20
+88,212,124,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm88],2026-10-20
+88,213,125,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm88],2026-10-20
+88,214,126,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm88],2026-10-20
+88,220,132,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm88],2026-10-20
+88,221,133,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm88],2026-10-20
+88,222,134,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm88],2026-10-20
+88,223,135,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm88],2026-10-20
+88,224,136,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm88],2026-10-20
+88,225,137,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm88],2026-10-20
+88,226,138,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm88],2026-10-20
+88,227,139,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm88],2026-10-20
+88,228,140,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm88],2026-10-20
+88,229,141,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm88],2026-10-20
+88,230,142,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm88],2026-10-20
+88,232,144,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CS,ISOLDE,[Ahm88],2026-10-20
+88,213,125,g,Ra,0,1,0,0,μI,CS + LPOPA,ISOLDE,[Arn87a],2026-10-20
+88,225,137,g,Ra,0,1,0,0,μI,CS + LPOPA,ISOLDE,[Arn87a],2026-10-20
+88,209,121,g,Ra,0,0,0,1,ΔνIS,PTS,TRIμP,[117],2026-10-20
+88,210,122,g,Ra,0,0,0,1,ΔνIS,PTS,TRIμP,[117],2026-10-20
+88,211,123,g,Ra,0,0,0,1,ΔνIS,PTS,TRIμP,[117],2026-10-20
+88,212,124,g,Ra,0,0,0,1,ΔνIS,PTS,TRIμP,[117],2026-10-20
+88,213,125,g,Ra,0,0,0,1,ΔνIS,PTS,TRIμP,[117],2026-10-20
+88,214,126,g,Ra,0,0,0,1,ΔνIS,PTS,TRIμP,[117],2026-10-20
+88,222,134,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[174],2026-10-20
+88,223,135,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[174],2026-10-20
+88,224,136,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[174],2026-10-20
+88,225,137,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[174],2026-10-20
+88,226,138,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[174],2026-10-20
+88,227,139,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[174],2026-10-20
+88,228,140,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[174],2026-10-20
+88,229,141,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[174],2026-10-20
+88,230,142,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[174],2026-10-20
+88,231,143,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[174],2026-10-20
+88,232,144,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[174],2026-10-20
+88,233,145,g,Ra,0,1,1,1,"μI, Qs, δ<r2>",CRIS,ISOLDE,[174],2026-10-20
+89,212,123,g,Ac,0,1,1,1,"μI, Qs, δ<r2>",RIS + SSGJ,LISOL,[165],2026-10-20
+89,213,124,g,Ac,0,1,1,1,"μI, Qs, δ<r2>",RIS + SSGJ,LISOL,[165],2026-10-20
+89,214,125,g,Ac,0,1,1,1,"μI, Qs, δ<r2>",RIS + SSGJ,LISOL,[165],2026-10-20
+89,215,126,g,Ac,0,1,1,1,"μI, Qs, δ<r2>",RIS + SSGJ,LISOL,[165],2026-10-20
+89,227,138,g,Ac,0,1,1,1,"μI, Qs, δ<r2>",RIS + SSGJ,LISOL,[165],2026-10-20
+89,212,123,g,Ac,1,1,1,0,"I, μI, Qs",IGLIS & RIS + SSGJ,LISOL,[173],2026-10-20
+89,213,124,g,Ac,1,1,1,0,"I, μI, Qs",IGLIS & RIS + SSGJ,LISOL,[173],2026-10-20
+89,214,125,g,Ac,1,1,1,0,"I, μI, Qs",IGLIS & RIS + SSGJ,LISOL,[173],2026-10-20
+89,215,126,g,Ac,1,1,1,0,"I, μI, Qs",IGLIS & RIS + SSGJ,LISOL,[173],2026-10-20
+89,225,136,g,Ac,0,1,0,1,"μI, δ<r2>",IS-RIS,TRIUMF,[193],2026-10-20
+89,226,137,g,Ac,0,1,0,1,"μI, δ<r2>",IS-RIS,TRIUMF,[193],2026-10-20
+89,227,138,g,Ac,0,1,0,1,"μI, δ<r2>",IS-RIS,TRIUMF,[193],2026-10-20
+89,228,139,g,Ac,0,1,0,1,"μI, δ<r2>",IS-RIS,TRIUMF,[193],2026-10-20
+89,229,140,g,Ac,0,1,0,1,"μI, δ<r2>",IS-RIS,TRIUMF,[193],2026-10-20
+89,225,136,g,Ac,0,1,1,1,"μI, Qs, δ<r2>",CS,TRIUMF,[256],2026-10-20
+89,226,137,g,Ac,0,1,1,1,"μI, Qs, δ<r2>",CS,TRIUMF,[256],2026-10-20
+89,228,139,g,Ac,0,1,1,1,"μI, Qs, δ<r2>",CS,TRIUMF,[256],2026-10-20
+89,229,140,g,Ac,0,1,1,1,"μI, Qs, δ<r2>",CS,TRIUMF,[256],2026-10-20
+90,229,139,g,Th,0,1,1,1,"μI, Qs, ΔνIS",ITS + sympathetic cooling,PTB Braunschweig (off-line),[262],2026-10-20
+90,232,142,g,Th,0,0,0,0,"IP (Th, Th+)",GCS & RIS + SSGJ,"off-line, KU Leuven",[271],2026-10-20
+90,229,139,m,Th,0,0,0,0,"A, B (hfs), T1/2",ITS,RIKEN (off-line),[270],2026-10-20
+93,237,144,g,Np,0,1,1,1,"μI, Qs, ΔνIS",RIMS + PI-LIST,"RISIKO, Mainz",[259],2026-10-20
+93,239,146,g,Np,0,1,1,1,"μI, Qs, ΔνIS",RIMS + PI-LIST,"RISIKO, Mainz",[259],2026-10-20
+94,239,145,g,Pu,0,0,0,1,δ<r2>,CS & RIMS,JYFL & Mainz,[169],2026-10-20
+94,241,147,g,Pu,0,0,0,1,δ<r2>,CS & RIMS,JYFL & Mainz,[169],2026-10-20
+95,240,145,g,Am,0,0,1,1,"Qs, δ<r2>",RADRIS,Heidelberg,"[72, 73]",2026-10-20
+95,242,147,g,Am,0,0,1,1,"Qs, δ<r2>",RADRIS,Heidelberg,"[72, 73]",2026-10-20
+95,244,149,g,Am,0,0,1,1,"Qs, δ<r2>",RADRIS,Heidelberg,"[72, 73]",2026-10-20
+98,249,151,g,Cf,0,1,1,1,"μI, Qs, δ<r2>",PI-LIST,"RISIKO, Mainz",[235],2026-10-20
+98,250,152,g,Cf,0,1,1,1,"μI, Qs, δ<r2>",PI-LIST,"RISIKO, Mainz",[235],2026-10-20
+98,251,153,g,Cf,0,1,1,1,"μI, Qs, δ<r2>",PI-LIST,"RISIKO, Mainz",[235],2026-10-20
+98,252,154,g,Cf,0,1,1,1,"μI, Qs, δ<r2>",PI-LIST,"RISIKO, Mainz",[235],2026-10-20
+98,253,155,g,Cf,0,1,1,1,"μI, Qs, δ<r2>",PI-LIST,"RISIKO, Mainz",[235],2026-10-20
+99,253,154,g,Es,1,1,1,0,"I, μI, Qs",IS-RIS,"RISIKO, Mainz",[229],2026-10-20
+99,254,155,g,Es,1,1,1,0,"I, μI, Qs",IS-RIS,"RISIKO, Mainz",[229],2026-10-20
+99,255,156,g,Es,1,1,1,0,"I, μI, Qs",IS-RIS,"RISIKO, Mainz",[229],2026-10-20
+100,255,155,g,Fm,0,0,0,0,ν,GCS + RIMS,"off-line, Mainz","[272, 273]",2026-10-20
+100,245,145,g,Fm,0,1,0,1,"μI, δ<r2>",RADRIS,"SHIP, GSI",[260],2026-10-20
+100,246,146,g,Fm,0,1,0,1,"μI, δ<r2>",RADRIS,"SHIP, GSI",[260],2026-10-20
+100,248,148,g,Fm,0,1,0,1,"μI, δ<r2>",RADRIS,"SHIP, GSI",[260],2026-10-20
+100,249,149,g,Fm,0,1,0,1,"μI, δ<r2>",RADRIS,"SHIP, GSI",[260],2026-10-20
+100,250,150,g,Fm,0,1,0,1,"μI, δ<r2>",RADRIS,"SHIP, GSI",[260],2026-10-20
+100,254,154,g,Fm,0,1,0,1,"μI, δ<r2>",RADRIS,"SHIP, GSI",[260],2026-10-20
+100,254,154,g,Fm,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS,"RISIKO, Mainz",[260],2026-10-20
+100,255,155,g,Fm,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS,"RISIKO, Mainz",[260],2026-10-20
+100,257,157,g,Fm,0,1,1,1,"μI, Qs, δ<r2>",IS-RIS,"RISIKO, Mainz",[260],2026-10-20
+100,255,155,g,Fm,0,1,1,0,"μI, Qs",RIMS + PI-LIST,"RISIKO, Mainz",[261],2026-10-20
+102,254,152,g,No,0,0,0,0,IP,RADRIS,"SHIP, GSI","[160, 184]",2026-10-20
+102,252,150,g,No,0,1,1,1,"μI, Qs, δ<r2>",RADRIS,"SHIP, GSI",[180],2026-10-20
+102,253,151,g,No,0,1,1,1,"μI, Qs, δ<r2>",RADRIS,"SHIP, GSI",[180],2026-10-20
+102,254,152,g,No,0,1,1,1,"μI, Qs, δ<r2>",RADRIS,"SHIP, GSI",[180],2026-10-20
+102,254,152,g,No,0,0,0,0,ν,RIS + SSGJ,"SHIP, GSI",[264],2026-10-20
+102,254,152,g,No,0,0,0,1,δ<r2>,RADRIS,"SHIP, GSI",[260],2026-10-20
+102,255,153,g,No,0,0,0,1,δ<r2>,RADRIS,"SHIP, GSI",[260],2026-10-20

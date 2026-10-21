@@ -1,0 +1,13 @@
+# entries not expanded automatically, read 2026-10-20 from
+# https://www.ikp.tu-darmstadt.de/forschung_kernphysik/gruppen_kernphysik/experiment/ag_w_noertershaeuser/forschung_ag_w_noertershaeuser/exotische_kerne_ag_w_noertershaeuser/laserspektroskopie_uebersicht/index.de.jsp
+Pb81+	82	207	hfs anomaly	[64]	(not an atom: skipped)
+Bi82+	83	209	hfs anomaly	[68]	(not an atom: skipped)
+Bi82+	83	208	hfs anomaly	[248]	(not an atom: skipped)
+RaF	88	223-226, 228		[201]	(not an atom: skipped)
+RaF	88	223-226, 228	ΔνIS	[218]	(not an atom: skipped)
+RaF	88	225	hfs anomaly	[252]	(not an atom: skipped)
+RaF	88	226	Rovibr. Str.	[265]	(not an atom: skipped)
+RaF	88	226	τ(A2Π1/2)	[266]	(not an atom: skipped)
+RaF	88	226	excited electronic states	[267]	(not an atom: skipped)
+RaF	88	226	IP	[269]	(not an atom: skipped)
+AcF	89	227	electronic transition	[268]	(not an atom: skipped)
